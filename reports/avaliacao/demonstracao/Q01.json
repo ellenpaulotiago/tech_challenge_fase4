@@ -1,0 +1,316 @@
+{
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "O que os clientes relatam sobre atraso na entrega?",
+    "instante_utc": "2026-11-07T19:33:17.691294+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um cliente relata que o atraso na entrega foi a primeira vez que aconteceu em anos de ser cliente.",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Um cliente solicita esclarecimentos sobre a entrega que está em atraso.",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um cliente atribui o atraso na entrega aos serviços dos Correios.",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um cliente relata que o atraso na entrega prejudicou a obra.",
+        "fontes": [
+          "E4"
+        ]
+      },
+      {
+        "texto": "Um cliente afirma que as entregas estão atrasando muito ultimamente.",
+        "fontes": [
+          "E5"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"a3161915ee37f9d5843e9ae44867ba4c\",\"eb2d13a05138994cbcc09986aabdb9b3\"]",
+        "texto": "Comentário: sou cliente faz anos, é a 1ª vez que acontece atraso de entrega de mercadorias",
+        "nota": 4,
+        "data": "2018-03-28 00:00:00",
+        "review_id": "a3161915ee37f9d5843e9ae44867ba4c",
+        "order_id": "eb2d13a05138994cbcc09986aabdb9b3",
+        "distancia": 0.16044896841049194,
+        "trecho": "Comentário: sou cliente faz anos, é a 1ª vez que acontece atraso de entrega de mercadorias"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"7c4c2d10a57d4aab58a570a5a8ac9f2c\",\"e269b2472c0546324acf4d09dd7acfab\"]",
+        "texto": "Comentário: Gostaria de esclarecimentos acerca da entrega que está em atraso",
+        "nota": 1,
+        "data": "2017-12-20 00:00:00",
+        "review_id": "7c4c2d10a57d4aab58a570a5a8ac9f2c",
+        "order_id": "e269b2472c0546324acf4d09dd7acfab",
+        "distancia": 0.16783636808395386,
+        "trecho": "Comentário: Gostaria de esclarecimentos acerca da entrega que está em atraso"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"a553875413fd30a7f78cd701b0064a6f\",\"14ac73e061a88e655cc2d6b984f3c81d\"]",
+        "texto": "Comentário: Recomendo o produto e o fornecedor, pois o atraso na entrega foi causado pelos serviços dos Correios.",
+        "nota": 5,
+        "data": "2018-03-04 00:00:00",
+        "review_id": "a553875413fd30a7f78cd701b0064a6f",
+        "order_id": "14ac73e061a88e655cc2d6b984f3c81d",
+        "distancia": 0.1849045753479004,
+        "trecho": "Comentário: Recomendo o produto e o fornecedor, pois o atraso na entrega foi causado pelos serviços dos Correios."
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"dd6e0f7168d75cd78769333f7630a036\",\"fe410f8e89dafcaf2ce41a235c489299\"]",
+        "texto": "Comentário: O atraso na entrega prejudicou a obra",
+        "nota": 3,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "dd6e0f7168d75cd78769333f7630a036",
+        "order_id": "fe410f8e89dafcaf2ce41a235c489299",
+        "distancia": 0.19975554943084717,
+        "trecho": "Comentário: O atraso na entrega prejudicou a obra"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"7528a396f7625967f05cb09946286608\",\"1777854e00599d581f88f45af1432949\"]",
+        "texto": "Comentário: Ultimamente estão atrasando muito as entregas",
+        "nota": 1,
+        "data": "2018-03-30 00:00:00",
+        "review_id": "7528a396f7625967f05cb09946286608",
+        "order_id": "1777854e00599d581f88f45af1432949",
+        "distancia": 0.2014179825782776,
+        "trecho": "Comentário: Ultimamente estão atrasando muito as entregas"
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"a3161915ee37f9d5843e9ae44867ba4c\",\"eb2d13a05138994cbcc09986aabdb9b3\"]",
+        "texto": "Comentário: sou cliente faz anos, é a 1ª vez que acontece atraso de entrega de mercadorias",
+        "nota": 4,
+        "data": "2018-03-28 00:00:00",
+        "review_id": "a3161915ee37f9d5843e9ae44867ba4c",
+        "order_id": "eb2d13a05138994cbcc09986aabdb9b3",
+        "distancia": 0.16044896841049194
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"7c4c2d10a57d4aab58a570a5a8ac9f2c\",\"e269b2472c0546324acf4d09dd7acfab\"]",
+        "texto": "Comentário: Gostaria de esclarecimentos acerca da entrega que está em atraso",
+        "nota": 1,
+        "data": "2017-12-20 00:00:00",
+        "review_id": "7c4c2d10a57d4aab58a570a5a8ac9f2c",
+        "order_id": "e269b2472c0546324acf4d09dd7acfab",
+        "distancia": 0.16783636808395386
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"a553875413fd30a7f78cd701b0064a6f\",\"14ac73e061a88e655cc2d6b984f3c81d\"]",
+        "texto": "Comentário: Recomendo o produto e o fornecedor, pois o atraso na entrega foi causado pelos serviços dos Correios.",
+        "nota": 5,
+        "data": "2018-03-04 00:00:00",
+        "review_id": "a553875413fd30a7f78cd701b0064a6f",
+        "order_id": "14ac73e061a88e655cc2d6b984f3c81d",
+        "distancia": 0.1849045753479004
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"dd6e0f7168d75cd78769333f7630a036\",\"fe410f8e89dafcaf2ce41a235c489299\"]",
+        "texto": "Comentário: O atraso na entrega prejudicou a obra",
+        "nota": 3,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "dd6e0f7168d75cd78769333f7630a036",
+        "order_id": "fe410f8e89dafcaf2ce41a235c489299",
+        "distancia": 0.19975554943084717
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"7528a396f7625967f05cb09946286608\",\"1777854e00599d581f88f45af1432949\"]",
+        "texto": "Comentário: Ultimamente estão atrasando muito as entregas",
+        "nota": 1,
+        "data": "2018-03-30 00:00:00",
+        "review_id": "7528a396f7625967f05cb09946286608",
+        "order_id": "1777854e00599d581f88f45af1432949",
+        "distancia": 0.2014179825782776
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"10467dc456e818c60bd750271b5d183e\",\"d7362aa5fe91fbcde99a34eb3f592a36\"]",
+        "texto": "Comentário: atraso na entrega da mercadoria,não cumpre prazo determinado.",
+        "nota": 1,
+        "data": "2018-08-24 00:00:00",
+        "review_id": "10467dc456e818c60bd750271b5d183e",
+        "order_id": "d7362aa5fe91fbcde99a34eb3f592a36",
+        "distancia": 0.2212342619895935
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"72926e5236768ffc912764ca429d0e00\",\"1d6df969542603d9f097e871bff9a9b7\"]",
+        "texto": "Comentário: Muita demora na entrega",
+        "nota": 1,
+        "data": "2018-03-09 00:00:00",
+        "review_id": "72926e5236768ffc912764ca429d0e00",
+        "order_id": "1d6df969542603d9f097e871bff9a9b7",
+        "distancia": 0.22803956270217896
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"9190e6754710d977b6bc3185688e3ffe\",\"7d7bf3ee337c36ce012762da5f28f53a\"]",
+        "texto": "Comentário: Um absurdo um cliente se sujeitar a um prazo de entrega demasiadamente prolongado e ainda assim, não receber o produto.",
+        "nota": 1,
+        "data": "2016-12-03 00:00:00",
+        "review_id": "9190e6754710d977b6bc3185688e3ffe",
+        "order_id": "7d7bf3ee337c36ce012762da5f28f53a",
+        "distancia": 0.23910683393478394
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"2acb97b500b95b1205a5e4aea261a172\",\"251c2e36f5f9d2c37b63c23c4226039a\"]",
+        "texto": "Comentário: Produto recebido é o correto, mas teve significativo atraso na entrega.",
+        "nota": 3,
+        "data": "2017-12-24 00:00:00",
+        "review_id": "2acb97b500b95b1205a5e4aea261a172",
+        "order_id": "251c2e36f5f9d2c37b63c23c4226039a",
+        "distancia": 0.24074459075927734
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"a3161915ee37f9d5843e9ae44867ba4c\",\"eb2d13a05138994cbcc09986aabdb9b3\"]",
+        "texto": "Comentário: sou cliente faz anos, é a 1ª vez que acontece atraso de entrega de mercadorias",
+        "nota": 4,
+        "data": "2018-03-28 00:00:00",
+        "review_id": "a3161915ee37f9d5843e9ae44867ba4c",
+        "order_id": "eb2d13a05138994cbcc09986aabdb9b3",
+        "distancia": 0.16044896841049194,
+        "trecho": "Comentário: sou cliente faz anos, é a 1ª vez que acontece atraso de entrega de mercadorias"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"7c4c2d10a57d4aab58a570a5a8ac9f2c\",\"e269b2472c0546324acf4d09dd7acfab\"]",
+        "texto": "Comentário: Gostaria de esclarecimentos acerca da entrega que está em atraso",
+        "nota": 1,
+        "data": "2017-12-20 00:00:00",
+        "review_id": "7c4c2d10a57d4aab58a570a5a8ac9f2c",
+        "order_id": "e269b2472c0546324acf4d09dd7acfab",
+        "distancia": 0.16783636808395386,
+        "trecho": "Comentário: Gostaria de esclarecimentos acerca da entrega que está em atraso"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"a553875413fd30a7f78cd701b0064a6f\",\"14ac73e061a88e655cc2d6b984f3c81d\"]",
+        "texto": "Comentário: Recomendo o produto e o fornecedor, pois o atraso na entrega foi causado pelos serviços dos Correios.",
+        "nota": 5,
+        "data": "2018-03-04 00:00:00",
+        "review_id": "a553875413fd30a7f78cd701b0064a6f",
+        "order_id": "14ac73e061a88e655cc2d6b984f3c81d",
+        "distancia": 0.1849045753479004,
+        "trecho": "Comentário: Recomendo o produto e o fornecedor, pois o atraso na entrega foi causado pelos serviços dos Correios."
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"dd6e0f7168d75cd78769333f7630a036\",\"fe410f8e89dafcaf2ce41a235c489299\"]",
+        "texto": "Comentário: O atraso na entrega prejudicou a obra",
+        "nota": 3,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "dd6e0f7168d75cd78769333f7630a036",
+        "order_id": "fe410f8e89dafcaf2ce41a235c489299",
+        "distancia": 0.19975554943084717,
+        "trecho": "Comentário: O atraso na entrega prejudicou a obra"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"7528a396f7625967f05cb09946286608\",\"1777854e00599d581f88f45af1432949\"]",
+        "texto": "Comentário: Ultimamente estão atrasando muito as entregas",
+        "nota": 1,
+        "data": "2018-03-30 00:00:00",
+        "review_id": "7528a396f7625967f05cb09946286608",
+        "order_id": "1777854e00599d581f88f45af1432949",
+        "distancia": 0.2014179825782776,
+        "trecho": "Comentário: Ultimamente estão atrasando muito as entregas"
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E4\"}, {\"fonte\": \"E5\"}], \"justificativa\": \"Os clientes relatam sobre atrasos na entrega, incluindo atrasos nos prazos de entrega, demora na entrega e falta de cumprimento dos prazos determinados.\"}",
+        "uso": {
+          "completion_tokens": 102,
+          "prompt_tokens": 2628,
+          "total_tokens": 2730,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 1.819292054000016,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um cliente relata que o atraso na entrega foi a primeira vez que aconteceu em anos de ser cliente.\", \"fontes\": [\"E1\"]}, {\"texto\": \"Um cliente solicita esclarecimentos sobre a entrega que está em atraso.\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um cliente atribui o atraso na entrega aos serviços dos Correios.\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um cliente relata que o atraso na entrega prejudicou a obra.\", \"fontes\": [\"E4\"]}, {\"texto\": \"Um cliente afirma que as entregas estão atrasando muito ultimamente.\", \"fontes\": [\"E5\"]}]}",
+        "uso": {
+          "completion_tokens": 172,
+          "prompt_tokens": 1366,
+          "total_tokens": 1538,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 2.811792475000175,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 4.699377744000003
+  },
+  "llm": {
+    "endpoint": "databricks-meta-llama-3-3-70b-instruct",
+    "modelo_versao_informada": "Meta Llama 3.3 70B Instruct; endpoint gerenciado Databricks",
+    "provedor": "databricks_model_serving",
+    "fixacao_imutavel_modelo": false,
+    "observacao": "Identificação informada pelo usuário; endpoint pode ser atualizado pelo provedor.",
+    "temperatura": 0.0,
+    "max_tokens_por_chamada": 1400,
+    "timeout_s": 300,
+    "custo_observacao": "Inferência Databricks: consultar preço e faturamento do modelo escolhido."
+  },
+  "hash_base_jsonl_npy": "a5ed17eb2a175bf8313f0222435f218a332abf719a117d0a95b594b0a5c1d381",
+  "ambiente": {
+    "sentence-transformers": "5.1.0",
+    "chromadb": "1.0.20",
+    "databricks-sdk": "0.122.0",
+    "numpy": "2.3.4",
+    "pandas": "2.3.3"
+  },
+  "modelo_embeddings": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "config_recuperacao": {
+    "quantidade": 12,
+    "max_documentos_contexto": 10,
+    "max_caracteres_contexto": 12000
+  },
+  "hash_modulo_busca": "c15c8793091ac6ca8faf36480dbe718cd36dbf866c5e47bd726a927bee328d5f"
+}

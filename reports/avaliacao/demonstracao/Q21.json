@@ -1,0 +1,166 @@
+{
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Qual o percentual de reclamações de atraso em toda a base?",
+    "instante_utc": "2026-11-07T19:51:12.060304+00:00",
+    "status": "evidencias_insuficientes",
+    "afirmacoes": [],
+    "fontes_utilizadas": [],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"485ca325aa922c81664d44b05ed8c781\",\"563d79c663703464db20c1c8d6b49b44\"]",
+        "texto": "Comentário: demora no atendimento.",
+        "nota": 1,
+        "data": "2018-03-08 00:00:00",
+        "review_id": "485ca325aa922c81664d44b05ed8c781",
+        "order_id": "563d79c663703464db20c1c8d6b49b44",
+        "distancia": 0.3838820457458496
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"dd6e0f7168d75cd78769333f7630a036\",\"fe410f8e89dafcaf2ce41a235c489299\"]",
+        "texto": "Comentário: O atraso na entrega prejudicou a obra",
+        "nota": 3,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "dd6e0f7168d75cd78769333f7630a036",
+        "order_id": "fe410f8e89dafcaf2ce41a235c489299",
+        "distancia": 0.398989737033844
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"c3039a71818e8c4ebe2f1a905ab1f863\",\"8fb030b413de395dcbb7cb1a3c9b256e\"]",
+        "texto": "Comentário: Demora muito e eles não dão satisfação pelo motivo do atraso",
+        "nota": 1,
+        "data": "2017-03-26 00:00:00",
+        "review_id": "c3039a71818e8c4ebe2f1a905ab1f863",
+        "order_id": "8fb030b413de395dcbb7cb1a3c9b256e",
+        "distancia": 0.4102284908294678
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"93070d6a76f6affb41c1e64d7fc6230f\",\"05ed121680df9ec2f89d4dc29310333a\"]",
+        "texto": "Comentário: Muita demora do pedido.",
+        "nota": 1,
+        "data": "2018-03-29 00:00:00",
+        "review_id": "93070d6a76f6affb41c1e64d7fc6230f",
+        "order_id": "05ed121680df9ec2f89d4dc29310333a",
+        "distancia": 0.4108814001083374
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"b16d528a370bd6520af22b90107414ea\",\"b0ea6041ac66a83e6a8508f3954edf91\"]",
+        "texto": "Comentário: creio que o atraso e dos correios",
+        "nota": 2,
+        "data": "2018-03-24 00:00:00",
+        "review_id": "b16d528a370bd6520af22b90107414ea",
+        "order_id": "b0ea6041ac66a83e6a8508f3954edf91",
+        "distancia": 0.41307270526885986
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"0cc13e5aa92659708aeed09e1e0be9db\",\"b0b2dcb55905f3403fcee05a780bc952\"]",
+        "texto": "Comentário: Muita demora.",
+        "nota": 2,
+        "data": "2018-03-15 00:00:00",
+        "review_id": "0cc13e5aa92659708aeed09e1e0be9db",
+        "order_id": "b0b2dcb55905f3403fcee05a780bc952",
+        "distancia": 0.41832613945007324
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"05947f6a34d4c2575aad7d6511d0e5ec\",\"1852019948d9a47a6c035457a6f71410\"]",
+        "texto": "Comentário: Entrega no prazo, atendimento de acordo com o informado.",
+        "nota": 5,
+        "data": "2018-04-19 00:00:00",
+        "review_id": "05947f6a34d4c2575aad7d6511d0e5ec",
+        "order_id": "1852019948d9a47a6c035457a6f71410",
+        "distancia": 0.4319734573364258
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"71a2e9688b6e8c7af566eb86de9c169c\",\"75a603587f83062993751067174b8cbe\"]",
+        "texto": "Comentário: Entregue a tempo e em condições",
+        "nota": 5,
+        "data": "2017-10-18 00:00:00",
+        "review_id": "71a2e9688b6e8c7af566eb86de9c169c",
+        "order_id": "75a603587f83062993751067174b8cbe",
+        "distancia": 0.43426376581192017
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"9be44128eec1df8e9a74a8283eb749d2\",\"cdc82761e2ff29724926335586ac1f8c\"]",
+        "texto": "Comentário: Muito Bom atendimento, e cumprimento do prazo",
+        "nota": 4,
+        "data": "2017-03-12 00:00:00",
+        "review_id": "9be44128eec1df8e9a74a8283eb749d2",
+        "order_id": "cdc82761e2ff29724926335586ac1f8c",
+        "distancia": 0.4379323124885559
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"1f7c5b33d56a54019bfcad6cde7874fc\",\"9be13dab83e8c1e6b39d8457313620e9\"]",
+        "texto": "Comentário: demora excessiva na entregua",
+        "nota": 1,
+        "data": "2017-09-18 00:00:00",
+        "review_id": "1f7c5b33d56a54019bfcad6cde7874fc",
+        "order_id": "9be13dab83e8c1e6b39d8457313620e9",
+        "distancia": 0.438812255859375
+      }
+    ],
+    "evidencias_selecionadas": [],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"evidencias_insuficientes\", \"evidencias\": [], \"justificativa\": \"O pedido exige informação ou agregação indisponível, como o percentual de reclamações de atraso em toda a base, o que não pode ser calculado com as fontes disponíveis.\"}",
+        "uso": {
+          "completion_tokens": 70,
+          "prompt_tokens": 2745,
+          "total_tokens": 2815,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 1.1158694079999805,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "llm_declarou_evidencia_insuficiente_ou_fora_escopo",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 1.1772698120003042
+  },
+  "llm": {
+    "endpoint": "databricks-meta-llama-3-3-70b-instruct",
+    "modelo_versao_informada": "Meta Llama 3.3 70B Instruct; endpoint gerenciado Databricks",
+    "provedor": "databricks_model_serving",
+    "fixacao_imutavel_modelo": false,
+    "observacao": "Identificação informada pelo usuário; endpoint pode ser atualizado pelo provedor.",
+    "temperatura": 0.0,
+    "max_tokens_por_chamada": 1400,
+    "timeout_s": 300,
+    "custo_observacao": "Inferência Databricks: consultar preço e faturamento do modelo escolhido."
+  },
+  "hash_base_jsonl_npy": "a5ed17eb2a175bf8313f0222435f218a332abf719a117d0a95b594b0a5c1d381",
+  "ambiente": {
+    "sentence-transformers": "5.1.0",
+    "chromadb": "1.0.20",
+    "databricks-sdk": "0.122.0",
+    "numpy": "2.3.4",
+    "pandas": "2.3.3"
+  },
+  "modelo_embeddings": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "config_recuperacao": {
+    "quantidade": 12,
+    "max_documentos_contexto": 10,
+    "max_caracteres_contexto": 12000
+  },
+  "hash_modulo_busca": "c15c8793091ac6ca8faf36480dbe718cd36dbf866c5e47bd726a927bee328d5f"
+}

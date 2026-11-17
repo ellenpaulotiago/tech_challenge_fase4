@@ -1,0 +1,384 @@
+{
+  "pergunta_id": "Q04",
+  "pergunta": "Como os clientes descrevem o cumprimento do prazo de entrega?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:36:18.454199+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"8d4ad3ae45ef7ed15ebf3d24dabf1f86\",\"b410dc915246a26c7dbf229a2a521f45\"]",
+      "texto": "Comentário: A entrega foi entregue dentro do prazo .",
+      "metadados": {
+        "review_score": 4,
+        "order_id": "b410dc915246a26c7dbf229a2a521f45",
+        "review_id": "8d4ad3ae45ef7ed15ebf3d24dabf1f86",
+        "review_creation_date": "2017-08-25 00:00:00"
+      },
+      "distancia": 0.24587982892990112
+    },
+    {
+      "documento_id": "[\"525137f4bf4248051613ef8bd5940132\",\"3e67a858c3fcd6a3929e94f287d9772d\"]",
+      "texto": "Comentário: Como sempre a entrega antes do prazo e um ótimo atendimento",
+      "metadados": {
+        "review_id": "525137f4bf4248051613ef8bd5940132",
+        "review_creation_date": "2018-03-28 00:00:00",
+        "order_id": "3e67a858c3fcd6a3929e94f287d9772d",
+        "review_score": 5
+      },
+      "distancia": 0.24652314186096191
+    },
+    {
+      "documento_id": "[\"6e8c4c2e3f24bcbbfaa95c3319f9138b\",\"274b74ab9a2f1b057969351bc8e6b9e9\"]",
+      "texto": "Comentário: Parabenizo pelo respeito ao consumidor, cumprimento de prazo na entrega do produto.",
+      "metadados": {
+        "review_id": "6e8c4c2e3f24bcbbfaa95c3319f9138b",
+        "review_score": 5,
+        "order_id": "274b74ab9a2f1b057969351bc8e6b9e9",
+        "review_creation_date": "2018-07-29 00:00:00"
+      },
+      "distancia": 0.2547251582145691
+    },
+    {
+      "documento_id": "[\"04563a792caf55b72b7d696229915885\",\"a4d8e20531e46f727b8723d74a39d780\"]",
+      "texto": "Comentário: atendimento com o prazo de entrega muito bom no prazo",
+      "metadados": {
+        "review_id": "04563a792caf55b72b7d696229915885",
+        "review_creation_date": "2017-10-24 00:00:00",
+        "review_score": 5,
+        "order_id": "a4d8e20531e46f727b8723d74a39d780"
+      },
+      "distancia": 0.25792866945266724
+    },
+    {
+      "documento_id": "[\"fa3b5f049af7e677fe8e3b4ed431e248\",\"2cb099a54d7344bfd05b445214be4e7f\"]",
+      "texto": "Comentário: Empresa cumpriu com o prazo de entrega e produto bem embalado.",
+      "metadados": {
+        "review_creation_date": "2017-08-04 00:00:00",
+        "review_id": "fa3b5f049af7e677fe8e3b4ed431e248",
+        "order_id": "2cb099a54d7344bfd05b445214be4e7f",
+        "review_score": 3
+      },
+      "distancia": 0.25886279344558716
+    },
+    {
+      "documento_id": "[\"b7b89f7d333509e26e9492d79f9d3719\",\"782b00205051ed11c71726e9554e788e\"]",
+      "texto": "Comentário: A entrega foi dentro do prazo, bem embalada e a empresa comunicou todos os passos da compra e entrega do produto",
+      "metadados": {
+        "review_id": "b7b89f7d333509e26e9492d79f9d3719",
+        "order_id": "782b00205051ed11c71726e9554e788e",
+        "review_creation_date": "2018-04-04 00:00:00",
+        "review_score": 5
+      },
+      "distancia": 0.26008862257003784
+    },
+    {
+      "documento_id": "[\"7649749409648f35e1b3ff92f8e51c5e\",\"cce9265db762ed6a292410cee5e5369b\"]",
+      "texto": "Comentário: Como sempre a entrega foi dentro do prazo, alias bem antes do prazo.Recomendo muito",
+      "metadados": {
+        "order_id": "cce9265db762ed6a292410cee5e5369b",
+        "review_score": 5,
+        "review_creation_date": "2017-09-20 00:00:00",
+        "review_id": "7649749409648f35e1b3ff92f8e51c5e"
+      },
+      "distancia": 0.2647426724433899
+    },
+    {
+      "documento_id": "[\"abaa3a5cd44d46696c5cea27bdb8a60c\",\"8fc274ece82e47a7664b5bea315acf02\"]",
+      "texto": "Comentário: Atendimento no prazo e produto correto",
+      "metadados": {
+        "review_score": 5,
+        "order_id": "8fc274ece82e47a7664b5bea315acf02",
+        "review_creation_date": "2017-12-31 00:00:00",
+        "review_id": "abaa3a5cd44d46696c5cea27bdb8a60c"
+      },
+      "distancia": 0.2654268741607666
+    },
+    {
+      "documento_id": "[\"d21eaed16dc53777f0228cd466cfe7b8\",\"277ef68319aa0ee0561831fab6e9e0aa\"]",
+      "texto": "Comentário: Como sempre as lannister cumprindo com seus prazos de entrega e produto no mais perfeito estado",
+      "metadados": {
+        "review_score": 4,
+        "review_creation_date": "2017-10-17 00:00:00",
+        "order_id": "277ef68319aa0ee0561831fab6e9e0aa",
+        "review_id": "d21eaed16dc53777f0228cd466cfe7b8"
+      },
+      "distancia": 0.267630934715271
+    },
+    {
+      "documento_id": "[\"de4eb6567aa2e5ee7be5ee1e86623ebe\",\"982fdef4d624e5de5ab3906bee28fba6\"]",
+      "texto": "Comentário: Uma loja que respeita datas de entrega,é em especial respeita seus clientes.",
+      "metadados": {
+        "review_creation_date": "2017-07-09 00:00:00",
+        "review_score": 5,
+        "order_id": "982fdef4d624e5de5ab3906bee28fba6",
+        "review_id": "de4eb6567aa2e5ee7be5ee1e86623ebe"
+      },
+      "distancia": 0.26906073093414307
+    },
+    {
+      "documento_id": "[\"3e12f5ea68ddd32b205c1024277fbb38\",\"79ba63b5e2113df41f0097eb9e9d143a\"]",
+      "texto": "Comentário: o vendedor foi pontual na entrega , feita dentro do prazo combinado,e confiavel.",
+      "metadados": {
+        "review_id": "3e12f5ea68ddd32b205c1024277fbb38",
+        "order_id": "79ba63b5e2113df41f0097eb9e9d143a",
+        "review_creation_date": "2017-11-08 00:00:00",
+        "review_score": 5
+      },
+      "distancia": 0.26959294080734253
+    },
+    {
+      "documento_id": "[\"d209b09f0dd43724c3ef350a83c85ef5\",\"b2673ed6360dc341a4728dbd632f935b\"]",
+      "texto": "Título: ATRASO DE ENTREGA\nComentário: Empresa que não entrega o produto no prazo, precisa ser avaliada - são exatamente 30 dias da compra, inclusive com o pagamento já efetuado.",
+      "metadados": {
+        "review_score": 2,
+        "review_creation_date": "2018-07-26 00:00:00",
+        "order_id": "b2673ed6360dc341a4728dbd632f935b",
+        "review_id": "d209b09f0dd43724c3ef350a83c85ef5"
+      },
+      "distancia": 0.2714959383010864
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Como os clientes descrevem o cumprimento do prazo de entrega?",
+    "instante_utc": "2026-11-07T20:36:18.553013+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um cliente relata que a entrega foi feita dentro do prazo.",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Outro cliente afirma que a entrega foi realizada antes do prazo.",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um cliente elogia o cumprimento do prazo de entrega do produto.",
+        "fontes": [
+          "E3"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"8d4ad3ae45ef7ed15ebf3d24dabf1f86\",\"b410dc915246a26c7dbf229a2a521f45\"]",
+        "texto": "Comentário: A entrega foi entregue dentro do prazo .",
+        "nota": 4,
+        "data": "2017-08-25 00:00:00",
+        "review_id": "8d4ad3ae45ef7ed15ebf3d24dabf1f86",
+        "order_id": "b410dc915246a26c7dbf229a2a521f45",
+        "distancia": 0.24587982892990112,
+        "trecho": "Comentário: A entrega foi entregue dentro do prazo ."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"525137f4bf4248051613ef8bd5940132\",\"3e67a858c3fcd6a3929e94f287d9772d\"]",
+        "texto": "Comentário: Como sempre a entrega antes do prazo e um ótimo atendimento",
+        "nota": 5,
+        "data": "2018-03-28 00:00:00",
+        "review_id": "525137f4bf4248051613ef8bd5940132",
+        "order_id": "3e67a858c3fcd6a3929e94f287d9772d",
+        "distancia": 0.24652314186096191,
+        "trecho": "Comentário: Como sempre a entrega antes do prazo e um ótimo atendimento"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"6e8c4c2e3f24bcbbfaa95c3319f9138b\",\"274b74ab9a2f1b057969351bc8e6b9e9\"]",
+        "texto": "Comentário: Parabenizo pelo respeito ao consumidor, cumprimento de prazo na entrega do produto.",
+        "nota": 5,
+        "data": "2018-07-29 00:00:00",
+        "review_id": "6e8c4c2e3f24bcbbfaa95c3319f9138b",
+        "order_id": "274b74ab9a2f1b057969351bc8e6b9e9",
+        "distancia": 0.2547251582145691,
+        "trecho": "Comentário: Parabenizo pelo respeito ao consumidor, cumprimento de prazo na entrega do produto."
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"8d4ad3ae45ef7ed15ebf3d24dabf1f86\",\"b410dc915246a26c7dbf229a2a521f45\"]",
+        "texto": "Comentário: A entrega foi entregue dentro do prazo .",
+        "nota": 4,
+        "data": "2017-08-25 00:00:00",
+        "review_id": "8d4ad3ae45ef7ed15ebf3d24dabf1f86",
+        "order_id": "b410dc915246a26c7dbf229a2a521f45",
+        "distancia": 0.24587982892990112
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"525137f4bf4248051613ef8bd5940132\",\"3e67a858c3fcd6a3929e94f287d9772d\"]",
+        "texto": "Comentário: Como sempre a entrega antes do prazo e um ótimo atendimento",
+        "nota": 5,
+        "data": "2018-03-28 00:00:00",
+        "review_id": "525137f4bf4248051613ef8bd5940132",
+        "order_id": "3e67a858c3fcd6a3929e94f287d9772d",
+        "distancia": 0.24652314186096191
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"6e8c4c2e3f24bcbbfaa95c3319f9138b\",\"274b74ab9a2f1b057969351bc8e6b9e9\"]",
+        "texto": "Comentário: Parabenizo pelo respeito ao consumidor, cumprimento de prazo na entrega do produto.",
+        "nota": 5,
+        "data": "2018-07-29 00:00:00",
+        "review_id": "6e8c4c2e3f24bcbbfaa95c3319f9138b",
+        "order_id": "274b74ab9a2f1b057969351bc8e6b9e9",
+        "distancia": 0.2547251582145691
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"04563a792caf55b72b7d696229915885\",\"a4d8e20531e46f727b8723d74a39d780\"]",
+        "texto": "Comentário: atendimento com o prazo de entrega muito bom no prazo",
+        "nota": 5,
+        "data": "2017-10-24 00:00:00",
+        "review_id": "04563a792caf55b72b7d696229915885",
+        "order_id": "a4d8e20531e46f727b8723d74a39d780",
+        "distancia": 0.25792866945266724
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"fa3b5f049af7e677fe8e3b4ed431e248\",\"2cb099a54d7344bfd05b445214be4e7f\"]",
+        "texto": "Comentário: Empresa cumpriu com o prazo de entrega e produto bem embalado.",
+        "nota": 3,
+        "data": "2017-08-04 00:00:00",
+        "review_id": "fa3b5f049af7e677fe8e3b4ed431e248",
+        "order_id": "2cb099a54d7344bfd05b445214be4e7f",
+        "distancia": 0.25886279344558716
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"b7b89f7d333509e26e9492d79f9d3719\",\"782b00205051ed11c71726e9554e788e\"]",
+        "texto": "Comentário: A entrega foi dentro do prazo, bem embalada e a empresa comunicou todos os passos da compra e entrega do produto",
+        "nota": 5,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "b7b89f7d333509e26e9492d79f9d3719",
+        "order_id": "782b00205051ed11c71726e9554e788e",
+        "distancia": 0.26008862257003784
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"7649749409648f35e1b3ff92f8e51c5e\",\"cce9265db762ed6a292410cee5e5369b\"]",
+        "texto": "Comentário: Como sempre a entrega foi dentro do prazo, alias bem antes do prazo.Recomendo muito",
+        "nota": 5,
+        "data": "2017-09-20 00:00:00",
+        "review_id": "7649749409648f35e1b3ff92f8e51c5e",
+        "order_id": "cce9265db762ed6a292410cee5e5369b",
+        "distancia": 0.2647426724433899
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"abaa3a5cd44d46696c5cea27bdb8a60c\",\"8fc274ece82e47a7664b5bea315acf02\"]",
+        "texto": "Comentário: Atendimento no prazo e produto correto",
+        "nota": 5,
+        "data": "2017-12-31 00:00:00",
+        "review_id": "abaa3a5cd44d46696c5cea27bdb8a60c",
+        "order_id": "8fc274ece82e47a7664b5bea315acf02",
+        "distancia": 0.2654268741607666
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"d21eaed16dc53777f0228cd466cfe7b8\",\"277ef68319aa0ee0561831fab6e9e0aa\"]",
+        "texto": "Comentário: Como sempre as lannister cumprindo com seus prazos de entrega e produto no mais perfeito estado",
+        "nota": 4,
+        "data": "2017-10-17 00:00:00",
+        "review_id": "d21eaed16dc53777f0228cd466cfe7b8",
+        "order_id": "277ef68319aa0ee0561831fab6e9e0aa",
+        "distancia": 0.267630934715271
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"de4eb6567aa2e5ee7be5ee1e86623ebe\",\"982fdef4d624e5de5ab3906bee28fba6\"]",
+        "texto": "Comentário: Uma loja que respeita datas de entrega,é em especial respeita seus clientes.",
+        "nota": 5,
+        "data": "2017-07-09 00:00:00",
+        "review_id": "de4eb6567aa2e5ee7be5ee1e86623ebe",
+        "order_id": "982fdef4d624e5de5ab3906bee28fba6",
+        "distancia": 0.26906073093414307
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"8d4ad3ae45ef7ed15ebf3d24dabf1f86\",\"b410dc915246a26c7dbf229a2a521f45\"]",
+        "texto": "Comentário: A entrega foi entregue dentro do prazo .",
+        "nota": 4,
+        "data": "2017-08-25 00:00:00",
+        "review_id": "8d4ad3ae45ef7ed15ebf3d24dabf1f86",
+        "order_id": "b410dc915246a26c7dbf229a2a521f45",
+        "distancia": 0.24587982892990112,
+        "trecho": "Comentário: A entrega foi entregue dentro do prazo ."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"525137f4bf4248051613ef8bd5940132\",\"3e67a858c3fcd6a3929e94f287d9772d\"]",
+        "texto": "Comentário: Como sempre a entrega antes do prazo e um ótimo atendimento",
+        "nota": 5,
+        "data": "2018-03-28 00:00:00",
+        "review_id": "525137f4bf4248051613ef8bd5940132",
+        "order_id": "3e67a858c3fcd6a3929e94f287d9772d",
+        "distancia": 0.24652314186096191,
+        "trecho": "Comentário: Como sempre a entrega antes do prazo e um ótimo atendimento"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"6e8c4c2e3f24bcbbfaa95c3319f9138b\",\"274b74ab9a2f1b057969351bc8e6b9e9\"]",
+        "texto": "Comentário: Parabenizo pelo respeito ao consumidor, cumprimento de prazo na entrega do produto.",
+        "nota": 5,
+        "data": "2018-07-29 00:00:00",
+        "review_id": "6e8c4c2e3f24bcbbfaa95c3319f9138b",
+        "order_id": "274b74ab9a2f1b057969351bc8e6b9e9",
+        "distancia": 0.2547251582145691,
+        "trecho": "Comentário: Parabenizo pelo respeito ao consumidor, cumprimento de prazo na entrega do produto."
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}], \"justificativa\": \"Os clientes descrevem o cumprimento do prazo de entrega como positivo, utilizando expressões como 'entregue dentro do prazo', 'cumprimento de prazo', 'entrega antes do prazo' e 'respeito ao prazo de entrega'.\"}",
+        "uso": {
+          "completion_tokens": 105,
+          "prompt_tokens": 2825,
+          "total_tokens": 2930,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 2.5408870659998684,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um cliente relata que a entrega foi feita dentro do prazo.\", \"fontes\": [\"E1\"]}, {\"texto\": \"Outro cliente afirma que a entrega foi realizada antes do prazo.\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um cliente elogia o cumprimento do prazo de entrega do produto.\", \"fontes\": [\"E3\"]}]}",
+        "uso": {
+          "completion_tokens": 101,
+          "prompt_tokens": 1226,
+          "total_tokens": 1327,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 2.5368818489996556,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 5.078364445999796
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 5.17679503599993
+}

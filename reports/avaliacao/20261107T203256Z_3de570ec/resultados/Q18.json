@@ -1,0 +1,280 @@
+{
+  "pergunta_id": "Q18",
+  "pergunta": "Qual é a cotação atual do dólar?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:46:02.167641+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"e6c76551447474a66f5f93684ec26412\",\"23152da25fd8a3154b39fea912376a07\"]",
+      "texto": "Título: Nota fiscal\nComentário: Então,o produto veio corretamente, mas a nota fiscal veio com um valor muito diferente do que foi pago . Paguei no total 95 reais a nota veio com valor de 8,00.",
+      "metadados": {
+        "review_id": "e6c76551447474a66f5f93684ec26412",
+        "review_creation_date": "2018-08-15 00:00:00",
+        "review_score": 2,
+        "order_id": "23152da25fd8a3154b39fea912376a07"
+      },
+      "distancia": 0.47442132234573364
+    },
+    {
+      "documento_id": "[\"9d164a17834985704a1fa09f25f26bb5\",\"ede510a059fd07ccec20bff19a227fa3\"]",
+      "texto": "Comentário: Ainda não emitiu nota fiscal do produto, produto pago em 25/10/2017 - Hoje: 13/11/2017.",
+      "metadados": {
+        "order_id": "ede510a059fd07ccec20bff19a227fa3",
+        "review_creation_date": "2017-11-12 00:00:00",
+        "review_id": "9d164a17834985704a1fa09f25f26bb5",
+        "review_score": 1
+      },
+      "distancia": 0.4755542278289795
+    },
+    {
+      "documento_id": "[\"7fc9322b4aa0f81bbb91030fb2a81d03\",\"e6ba7ef3fa398a176291132b06cd519e\"]",
+      "texto": "Comentário: Produto entregue 1 dia após a emissão da nota fiscal.",
+      "metadados": {
+        "review_creation_date": "2017-02-11 00:00:00",
+        "review_id": "7fc9322b4aa0f81bbb91030fb2a81d03",
+        "review_score": 5,
+        "order_id": "e6ba7ef3fa398a176291132b06cd519e"
+      },
+      "distancia": 0.49407660961151123
+    },
+    {
+      "documento_id": "[\"c7602d7e1c9718d0fbe0c54f3ff39789\",\"0c41f512e2783cc1d84227b9afee153d\"]",
+      "texto": "Comentário: o valor da nota fiscal não veio com o valor total pago, simplesmente chaegou sem o valor e frete cobrado",
+      "metadados": {
+        "review_creation_date": "2017-08-08 00:00:00",
+        "review_id": "c7602d7e1c9718d0fbe0c54f3ff39789",
+        "order_id": "0c41f512e2783cc1d84227b9afee153d",
+        "review_score": 4
+      },
+      "distancia": 0.5023163557052612
+    },
+    {
+      "documento_id": "[\"b72b9ca42368b47db990e1d964b07c5e\",\"c12a72f72509bcc1317ee119c5ade35b\"]",
+      "texto": "Comentário: Compra efetuada em 28/11 e a nota fiscal ainda não foi emitida....",
+      "metadados": {
+        "review_id": "b72b9ca42368b47db990e1d964b07c5e",
+        "review_creation_date": "2017-12-20 00:00:00",
+        "review_score": 1,
+        "order_id": "c12a72f72509bcc1317ee119c5ade35b"
+      },
+      "distancia": 0.5028966665267944
+    },
+    {
+      "documento_id": "[\"67fd169fc91467b6c19a5cb708323761\",\"954ab5c4577503f15b807007b0a1d8cc\"]",
+      "texto": "Comentário: Não recebi, estava com previsão para 02/04, solicito a devolução do dinheiro.",
+      "metadados": {
+        "review_score": 1,
+        "order_id": "954ab5c4577503f15b807007b0a1d8cc",
+        "review_creation_date": "2018-04-04 00:00:00",
+        "review_id": "67fd169fc91467b6c19a5cb708323761"
+      },
+      "distancia": 0.508642315864563
+    },
+    {
+      "documento_id": "[\"f2d788adda9e5a2b33ff84e4cc42dbd1\",\"871bea8f483dd0a0884a96d0e8dc1ace\"]",
+      "texto": "Título: Excelente\nComentário: Só gostaria de saber porque foi cobrado um frete no valor de R$ 54,40?",
+      "metadados": {
+        "review_id": "f2d788adda9e5a2b33ff84e4cc42dbd1",
+        "review_creation_date": "2018-08-08 00:00:00",
+        "review_score": 5,
+        "order_id": "871bea8f483dd0a0884a96d0e8dc1ace"
+      },
+      "distancia": 0.5121642351150513
+    },
+    {
+      "documento_id": "[\"f0797ab1b53feea89f2bb993625f62cb\",\"c9229f668c1028a77a433afa8b93f122\"]",
+      "texto": "Comentário: Tudo certo, produto recebido e nota fiscal enviada com o mesmo.",
+      "metadados": {
+        "review_score": 3,
+        "review_creation_date": "2017-05-20 00:00:00",
+        "order_id": "c9229f668c1028a77a433afa8b93f122",
+        "review_id": "f0797ab1b53feea89f2bb993625f62cb"
+      },
+      "distancia": 0.5181498527526855
+    },
+    {
+      "documento_id": "[\"0a19dc48742f0a74fb52f78b84f462ab\",\"8f118ea8f1f2d5c3e18488776e2caca0\"]",
+      "texto": "Comentário: vou receber ainda ? Como fica o pagamento ?",
+      "metadados": {
+        "review_id": "0a19dc48742f0a74fb52f78b84f462ab",
+        "order_id": "8f118ea8f1f2d5c3e18488776e2caca0",
+        "review_creation_date": "2017-11-12 00:00:00",
+        "review_score": 1
+      },
+      "distancia": 0.5232746601104736
+    },
+    {
+      "documento_id": "[\"a1a4dc241605c94d40ed31737f34ffc9\",\"57edfe6486364c7777241f5ab5902715\"]",
+      "texto": "Comentário: Quando vou receber meu dinheiro de volta??",
+      "metadados": {
+        "review_creation_date": "2017-07-12 00:00:00",
+        "order_id": "57edfe6486364c7777241f5ab5902715",
+        "review_id": "a1a4dc241605c94d40ed31737f34ffc9",
+        "review_score": 1
+      },
+      "distancia": 0.5295741558074951
+    },
+    {
+      "documento_id": "[\"2809ff2850a09f3dcd6c73cd913bd6d1\",\"01721e0729fcb75ab238248fdbb48eeb\"]",
+      "texto": "Comentário: Relogio anunciado por 245,00 .(210,00 +35,00) nao veio incluso frete na nota. Veio apenas 170 na nota fiscal. Quero uma nota com o valor correto que paguei . Ou o reembolso da diferença.",
+      "metadados": {
+        "review_creation_date": "2018-04-10 00:00:00",
+        "review_score": 3,
+        "review_id": "2809ff2850a09f3dcd6c73cd913bd6d1",
+        "order_id": "01721e0729fcb75ab238248fdbb48eeb"
+      },
+      "distancia": 0.5296079516410828
+    },
+    {
+      "documento_id": "[\"165bef5979bc57501c6acfa72d8cece6\",\"4cab646fdec6d36f60c2febb8a595b8e\"]",
+      "texto": "Comentário: A nota fiscal foi emitida no dia que deram de prazo para entrega. Até agora o produto não chegou!",
+      "metadados": {
+        "order_id": "4cab646fdec6d36f60c2febb8a595b8e",
+        "review_id": "165bef5979bc57501c6acfa72d8cece6",
+        "review_creation_date": "2018-02-18 00:00:00",
+        "review_score": 1
+      },
+      "distancia": 0.5333460569381714
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Qual é a cotação atual do dólar?",
+    "instante_utc": "2026-11-07T20:46:02.210151+00:00",
+    "status": "fora_escopo",
+    "afirmacoes": [],
+    "fontes_utilizadas": [],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"e6c76551447474a66f5f93684ec26412\",\"23152da25fd8a3154b39fea912376a07\"]",
+        "texto": "Título: Nota fiscal\nComentário: Então,o produto veio corretamente, mas a nota fiscal veio com um valor muito diferente do que foi pago . Paguei no total 95 reais a nota veio com valor de 8,00.",
+        "nota": 2,
+        "data": "2018-08-15 00:00:00",
+        "review_id": "e6c76551447474a66f5f93684ec26412",
+        "order_id": "23152da25fd8a3154b39fea912376a07",
+        "distancia": 0.47442132234573364
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"9d164a17834985704a1fa09f25f26bb5\",\"ede510a059fd07ccec20bff19a227fa3\"]",
+        "texto": "Comentário: Ainda não emitiu nota fiscal do produto, produto pago em 25/10/2017 - Hoje: 13/11/2017.",
+        "nota": 1,
+        "data": "2017-11-12 00:00:00",
+        "review_id": "9d164a17834985704a1fa09f25f26bb5",
+        "order_id": "ede510a059fd07ccec20bff19a227fa3",
+        "distancia": 0.4755542278289795
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"7fc9322b4aa0f81bbb91030fb2a81d03\",\"e6ba7ef3fa398a176291132b06cd519e\"]",
+        "texto": "Comentário: Produto entregue 1 dia após a emissão da nota fiscal.",
+        "nota": 5,
+        "data": "2017-02-11 00:00:00",
+        "review_id": "7fc9322b4aa0f81bbb91030fb2a81d03",
+        "order_id": "e6ba7ef3fa398a176291132b06cd519e",
+        "distancia": 0.49407660961151123
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"c7602d7e1c9718d0fbe0c54f3ff39789\",\"0c41f512e2783cc1d84227b9afee153d\"]",
+        "texto": "Comentário: o valor da nota fiscal não veio com o valor total pago, simplesmente chaegou sem o valor e frete cobrado",
+        "nota": 4,
+        "data": "2017-08-08 00:00:00",
+        "review_id": "c7602d7e1c9718d0fbe0c54f3ff39789",
+        "order_id": "0c41f512e2783cc1d84227b9afee153d",
+        "distancia": 0.5023163557052612
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"b72b9ca42368b47db990e1d964b07c5e\",\"c12a72f72509bcc1317ee119c5ade35b\"]",
+        "texto": "Comentário: Compra efetuada em 28/11 e a nota fiscal ainda não foi emitida....",
+        "nota": 1,
+        "data": "2017-12-20 00:00:00",
+        "review_id": "b72b9ca42368b47db990e1d964b07c5e",
+        "order_id": "c12a72f72509bcc1317ee119c5ade35b",
+        "distancia": 0.5028966665267944
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"67fd169fc91467b6c19a5cb708323761\",\"954ab5c4577503f15b807007b0a1d8cc\"]",
+        "texto": "Comentário: Não recebi, estava com previsão para 02/04, solicito a devolução do dinheiro.",
+        "nota": 1,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "67fd169fc91467b6c19a5cb708323761",
+        "order_id": "954ab5c4577503f15b807007b0a1d8cc",
+        "distancia": 0.508642315864563
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"f2d788adda9e5a2b33ff84e4cc42dbd1\",\"871bea8f483dd0a0884a96d0e8dc1ace\"]",
+        "texto": "Título: Excelente\nComentário: Só gostaria de saber porque foi cobrado um frete no valor de R$ 54,40?",
+        "nota": 5,
+        "data": "2018-08-08 00:00:00",
+        "review_id": "f2d788adda9e5a2b33ff84e4cc42dbd1",
+        "order_id": "871bea8f483dd0a0884a96d0e8dc1ace",
+        "distancia": 0.5121642351150513
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"f0797ab1b53feea89f2bb993625f62cb\",\"c9229f668c1028a77a433afa8b93f122\"]",
+        "texto": "Comentário: Tudo certo, produto recebido e nota fiscal enviada com o mesmo.",
+        "nota": 3,
+        "data": "2017-05-20 00:00:00",
+        "review_id": "f0797ab1b53feea89f2bb993625f62cb",
+        "order_id": "c9229f668c1028a77a433afa8b93f122",
+        "distancia": 0.5181498527526855
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"0a19dc48742f0a74fb52f78b84f462ab\",\"8f118ea8f1f2d5c3e18488776e2caca0\"]",
+        "texto": "Comentário: vou receber ainda ? Como fica o pagamento ?",
+        "nota": 1,
+        "data": "2017-11-12 00:00:00",
+        "review_id": "0a19dc48742f0a74fb52f78b84f462ab",
+        "order_id": "8f118ea8f1f2d5c3e18488776e2caca0",
+        "distancia": 0.5232746601104736
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"a1a4dc241605c94d40ed31737f34ffc9\",\"57edfe6486364c7777241f5ab5902715\"]",
+        "texto": "Comentário: Quando vou receber meu dinheiro de volta??",
+        "nota": 1,
+        "data": "2017-07-12 00:00:00",
+        "review_id": "a1a4dc241605c94d40ed31737f34ffc9",
+        "order_id": "57edfe6486364c7777241f5ab5902715",
+        "distancia": 0.5295741558074951
+      }
+    ],
+    "evidencias_selecionadas": [],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"fora_escopo\", \"evidencias\": [], \"justificativa\": \"O pedido é externo às experiências de compra Olist.\"}",
+        "uso": {
+          "completion_tokens": 36,
+          "prompt_tokens": 2860,
+          "total_tokens": 2896,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 1.0317788079996717,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "llm_declarou_evidencia_insuficiente_ou_fora_escopo",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 1.0322411060001286
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 1.0744022680000853
+}

@@ -1,0 +1,280 @@
+{
+  "pergunta_id": "Q17",
+  "pergunta": "Qual é a previsão do tempo para amanhã em Guarulhos?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:45:53.949817+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"08a2e8a8cfeac9ae41908e995bea7fac\",\"4e64db31eb34a4e6c86235fedead69eb\"]",
+      "texto": "Comentário: Entrega estava prevista para dia 05/09 e chegou dia 24/08, super rápido!",
+      "metadados": {
+        "review_id": "08a2e8a8cfeac9ae41908e995bea7fac",
+        "order_id": "4e64db31eb34a4e6c86235fedead69eb",
+        "review_score": 5,
+        "review_creation_date": "2017-08-25 00:00:00"
+      },
+      "distancia": 0.4639880657196045
+    },
+    {
+      "documento_id": "[\"2944825b321b917a2a79bb809f37f220\",\"a41222506c789f70f25201004288819a\"]",
+      "texto": "Título: excelente\nComentário: Pedi em24/07/2018, A previsão era até o dia 24.08.18 e recebi 27.08.18 muito rápido adorei .",
+      "metadados": {
+        "review_id": "2944825b321b917a2a79bb809f37f220",
+        "review_score": 5,
+        "review_creation_date": "2018-07-31 00:00:00",
+        "order_id": "a41222506c789f70f25201004288819a"
+      },
+      "distancia": 0.4919562339782715
+    },
+    {
+      "documento_id": "[\"f06979626ccd3e4540c43c7bccddbaf6\",\"c9db7e953006c9303b92dea9d91878bc\"]",
+      "texto": "Comentário: Meu pedido foi solicitado no dia (30/11) e a previsão de chegada era até dia (26/12) porém ontem dia (15/12) no início da tarde meu produto chegou. Tudo correto!",
+      "metadados": {
+        "review_score": 5,
+        "review_id": "f06979626ccd3e4540c43c7bccddbaf6",
+        "order_id": "c9db7e953006c9303b92dea9d91878bc",
+        "review_creation_date": "2017-12-16 00:00:00"
+      },
+      "distancia": 0.5016554594039917
+    },
+    {
+      "documento_id": "[\"55c44c57acb1e65a082ab9bb135ce003\",\"c52b0e0ae184fb645004980db2d194a1\"]",
+      "texto": "Comentário: Previsão estava para 20/12/2017 e ainda não chegou.",
+      "metadados": {
+        "review_score": 1,
+        "order_id": "c52b0e0ae184fb645004980db2d194a1",
+        "review_creation_date": "2017-12-21 00:00:00",
+        "review_id": "55c44c57acb1e65a082ab9bb135ce003"
+      },
+      "distancia": 0.501788318157196
+    },
+    {
+      "documento_id": "[\"8e6f02618c5b1df02e9e7a5d3be918cf\",\"52324f390c9414a6c6b4a2f1b24964b4\"]",
+      "texto": "Comentário: Recebi muitos dias antes da previsão. Recomendo!",
+      "metadados": {
+        "review_creation_date": "2017-08-12 00:00:00",
+        "review_id": "8e6f02618c5b1df02e9e7a5d3be918cf",
+        "review_score": 5,
+        "order_id": "52324f390c9414a6c6b4a2f1b24964b4"
+      },
+      "distancia": 0.507876455783844
+    },
+    {
+      "documento_id": "[\"85bcb52739a9714716fd164676fb3acc\",\"8b2ceb139bb51537042aac7481130f5f\"]",
+      "texto": "Comentário: Fantástico. Muito rápido. Previsão de chegar em 08/02. Chegou em 29/01",
+      "metadados": {
+        "review_creation_date": "2018-01-30 00:00:00",
+        "review_score": 5,
+        "review_id": "85bcb52739a9714716fd164676fb3acc",
+        "order_id": "8b2ceb139bb51537042aac7481130f5f"
+      },
+      "distancia": 0.5148911476135254
+    },
+    {
+      "documento_id": "[\"a9371e81a0373b7fcda348b5e5ac7f88\",\"589a75d918fe423a0cef1540688e2705\"]",
+      "texto": "Comentário: Ótima Entrega , super rápido chegando antes do prazo previsto 😉😉",
+      "metadados": {
+        "review_score": 5,
+        "review_creation_date": "2018-03-02 00:00:00",
+        "review_id": "a9371e81a0373b7fcda348b5e5ac7f88",
+        "order_id": "589a75d918fe423a0cef1540688e2705"
+      },
+      "distancia": 0.524880588054657
+    },
+    {
+      "documento_id": "[\"aa580c644063e1c7ef1616937aa1c740\",\"86dc88ddd65ce09259b6fa9817363312\"]",
+      "texto": "Comentário: Está programado para o próximo dia útil",
+      "metadados": {
+        "order_id": "86dc88ddd65ce09259b6fa9817363312",
+        "review_score": 1,
+        "review_id": "aa580c644063e1c7ef1616937aa1c740",
+        "review_creation_date": "2017-06-18 00:00:00"
+      },
+      "distancia": 0.5264307260513306
+    },
+    {
+      "documento_id": "[\"48df825d3e1d18c88951706e5860692f\",\"64ba433f9d86e1df4e9cb86b1a3884d1\"]",
+      "texto": "Comentário: Recebemos quase 1 mês antes da previsão , produto muito em conta! !! Recomendo!!!",
+      "metadados": {
+        "review_score": 4,
+        "review_creation_date": "2017-02-08 00:00:00",
+        "order_id": "64ba433f9d86e1df4e9cb86b1a3884d1",
+        "review_id": "48df825d3e1d18c88951706e5860692f"
+      },
+      "distancia": 0.5275765657424927
+    },
+    {
+      "documento_id": "[\"9528c6f7377b78f7cc8c4d4540e0198b\",\"50aac4af5f330951d508c0c255fde322\"]",
+      "texto": "Título: Entrega rápida\nComentário: A previsão para a entrega era para o dia 19/09/18 e me foi entregue no dia 26/08/18 em perfeito estado. Parabéns a todos!",
+      "metadados": {
+        "review_score": 4,
+        "review_id": "9528c6f7377b78f7cc8c4d4540e0198b",
+        "order_id": "50aac4af5f330951d508c0c255fde322",
+        "review_creation_date": "2018-08-27 00:00:00"
+      },
+      "distancia": 0.5330186486244202
+    },
+    {
+      "documento_id": "[\"7f7ed1b467818215d9fb009103f35494\",\"5ae8b767398571b52ebd97dda7f3569c\"]",
+      "texto": "Comentário: Entregou muitíssimo rápido... A previsão para o dia 09 de abril e entregou no dia 29 de março... Fora q fiz o pedido em aproximadamente 05 dias...",
+      "metadados": {
+        "review_creation_date": "2018-03-30 00:00:00",
+        "order_id": "5ae8b767398571b52ebd97dda7f3569c",
+        "review_id": "7f7ed1b467818215d9fb009103f35494",
+        "review_score": 5
+      },
+      "distancia": 0.5336596369743347
+    },
+    {
+      "documento_id": "[\"5f5cf8a268786784ff5b82e6845035fd\",\"e9ccb8277ecd5374b5a0532b5ee47f7c\"]",
+      "texto": "Comentário: Loja muito boa e prazo de entrega para antes da previsão.",
+      "metadados": {
+        "review_score": 4,
+        "review_creation_date": "2017-03-05 00:00:00",
+        "review_id": "5f5cf8a268786784ff5b82e6845035fd",
+        "order_id": "e9ccb8277ecd5374b5a0532b5ee47f7c"
+      },
+      "distancia": 0.5357403755187988
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Qual é a previsão do tempo para amanhã em Guarulhos?",
+    "instante_utc": "2026-11-07T20:45:54.006171+00:00",
+    "status": "fora_escopo",
+    "afirmacoes": [],
+    "fontes_utilizadas": [],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"08a2e8a8cfeac9ae41908e995bea7fac\",\"4e64db31eb34a4e6c86235fedead69eb\"]",
+        "texto": "Comentário: Entrega estava prevista para dia 05/09 e chegou dia 24/08, super rápido!",
+        "nota": 5,
+        "data": "2017-08-25 00:00:00",
+        "review_id": "08a2e8a8cfeac9ae41908e995bea7fac",
+        "order_id": "4e64db31eb34a4e6c86235fedead69eb",
+        "distancia": 0.4639880657196045
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"2944825b321b917a2a79bb809f37f220\",\"a41222506c789f70f25201004288819a\"]",
+        "texto": "Título: excelente\nComentário: Pedi em24/07/2018, A previsão era até o dia 24.08.18 e recebi 27.08.18 muito rápido adorei .",
+        "nota": 5,
+        "data": "2018-07-31 00:00:00",
+        "review_id": "2944825b321b917a2a79bb809f37f220",
+        "order_id": "a41222506c789f70f25201004288819a",
+        "distancia": 0.4919562339782715
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"f06979626ccd3e4540c43c7bccddbaf6\",\"c9db7e953006c9303b92dea9d91878bc\"]",
+        "texto": "Comentário: Meu pedido foi solicitado no dia (30/11) e a previsão de chegada era até dia (26/12) porém ontem dia (15/12) no início da tarde meu produto chegou. Tudo correto!",
+        "nota": 5,
+        "data": "2017-12-16 00:00:00",
+        "review_id": "f06979626ccd3e4540c43c7bccddbaf6",
+        "order_id": "c9db7e953006c9303b92dea9d91878bc",
+        "distancia": 0.5016554594039917
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"55c44c57acb1e65a082ab9bb135ce003\",\"c52b0e0ae184fb645004980db2d194a1\"]",
+        "texto": "Comentário: Previsão estava para 20/12/2017 e ainda não chegou.",
+        "nota": 1,
+        "data": "2017-12-21 00:00:00",
+        "review_id": "55c44c57acb1e65a082ab9bb135ce003",
+        "order_id": "c52b0e0ae184fb645004980db2d194a1",
+        "distancia": 0.501788318157196
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"8e6f02618c5b1df02e9e7a5d3be918cf\",\"52324f390c9414a6c6b4a2f1b24964b4\"]",
+        "texto": "Comentário: Recebi muitos dias antes da previsão. Recomendo!",
+        "nota": 5,
+        "data": "2017-08-12 00:00:00",
+        "review_id": "8e6f02618c5b1df02e9e7a5d3be918cf",
+        "order_id": "52324f390c9414a6c6b4a2f1b24964b4",
+        "distancia": 0.507876455783844
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"85bcb52739a9714716fd164676fb3acc\",\"8b2ceb139bb51537042aac7481130f5f\"]",
+        "texto": "Comentário: Fantástico. Muito rápido. Previsão de chegar em 08/02. Chegou em 29/01",
+        "nota": 5,
+        "data": "2018-01-30 00:00:00",
+        "review_id": "85bcb52739a9714716fd164676fb3acc",
+        "order_id": "8b2ceb139bb51537042aac7481130f5f",
+        "distancia": 0.5148911476135254
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"a9371e81a0373b7fcda348b5e5ac7f88\",\"589a75d918fe423a0cef1540688e2705\"]",
+        "texto": "Comentário: Ótima Entrega , super rápido chegando antes do prazo previsto 😉😉",
+        "nota": 5,
+        "data": "2018-03-02 00:00:00",
+        "review_id": "a9371e81a0373b7fcda348b5e5ac7f88",
+        "order_id": "589a75d918fe423a0cef1540688e2705",
+        "distancia": 0.524880588054657
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"aa580c644063e1c7ef1616937aa1c740\",\"86dc88ddd65ce09259b6fa9817363312\"]",
+        "texto": "Comentário: Está programado para o próximo dia útil",
+        "nota": 1,
+        "data": "2017-06-18 00:00:00",
+        "review_id": "aa580c644063e1c7ef1616937aa1c740",
+        "order_id": "86dc88ddd65ce09259b6fa9817363312",
+        "distancia": 0.5264307260513306
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"48df825d3e1d18c88951706e5860692f\",\"64ba433f9d86e1df4e9cb86b1a3884d1\"]",
+        "texto": "Comentário: Recebemos quase 1 mês antes da previsão , produto muito em conta! !! Recomendo!!!",
+        "nota": 4,
+        "data": "2017-02-08 00:00:00",
+        "review_id": "48df825d3e1d18c88951706e5860692f",
+        "order_id": "64ba433f9d86e1df4e9cb86b1a3884d1",
+        "distancia": 0.5275765657424927
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"9528c6f7377b78f7cc8c4d4540e0198b\",\"50aac4af5f330951d508c0c255fde322\"]",
+        "texto": "Título: Entrega rápida\nComentário: A previsão para a entrega era para o dia 19/09/18 e me foi entregue no dia 26/08/18 em perfeito estado. Parabéns a todos!",
+        "nota": 4,
+        "data": "2018-08-27 00:00:00",
+        "review_id": "9528c6f7377b78f7cc8c4d4540e0198b",
+        "order_id": "50aac4af5f330951d508c0c255fde322",
+        "distancia": 0.5330186486244202
+      }
+    ],
+    "evidencias_selecionadas": [],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"fora_escopo\", \"evidencias\": [], \"justificativa\": \"O pedido é externo às experiências de compra Olist.\"}",
+        "uso": {
+          "completion_tokens": 36,
+          "prompt_tokens": 2911,
+          "total_tokens": 2947,
+          "prompt_tokens_details": {
+            "cached_tokens": 1120
+          },
+          "cache_read_input_tokens": 1120
+        },
+        "latencia_s": 0.9262888010002825,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "llm_declarou_evidencia_insuficiente_ou_fora_escopo",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 0.9267719569998008
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 0.9827635199999349
+}

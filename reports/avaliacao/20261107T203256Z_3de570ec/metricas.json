@@ -1,0 +1,70 @@
+{
+  "perguntas_planejadas": 24,
+  "perguntas_executadas": 24,
+  "cobertura_execucao": 1.0,
+  "distribuicao_status": {
+    "respondido": 16,
+    "fora_escopo": 5,
+    "evidencias_insuficientes": 3
+  },
+  "erros_tecnicos": 0,
+  "p50_latencia_s": 4.71826027599991,
+  "p95_latencia_s": 11.230565071100273,
+  "tokens_total_reportado": 92485,
+  "chamadas_com_uso_reportado": 40,
+  "chamadas_sem_uso_reportado": 0,
+  "observacao_consumo": "Tentativas com erro podem ter consumo não registrado; não foi estimado preço.",
+  "precision_media_por_k_respondiveis_confirmadas": {
+    "3": {
+      "media": 0.875,
+      "perguntas_com_topk_rotulado": 16
+    },
+    "5": {
+      "media": 0.825,
+      "perguntas_com_topk_rotulado": 16
+    },
+    "10": {
+      "media": 0.79375,
+      "perguntas_com_topk_rotulado": 16
+    }
+  },
+  "precision_diagnostica_por_k_todas_perguntas": {
+    "3": {
+      "media": 0.5833333333333334,
+      "perguntas_com_topk_rotulado": 24
+    },
+    "5": {
+      "media": 0.5499999999999999,
+      "perguntas_com_topk_rotulado": 24
+    },
+    "10": {
+      "media": 0.5291666666666667,
+      "perguntas_com_topk_rotulado": 24
+    }
+  },
+  "perguntas_confirmadas_respondiveis_no_plano": 16,
+  "afirmacoes_com_citacao_estrutural_valida": 72,
+  "cobertura_citacao_estrutural": 1.0,
+  "afirmacoes_totais": 72,
+  "afirmacoes_revisadas": 72,
+  "fidelidade_nas_afirmacoes_revisadas": 1.0,
+  "afirmacoes_sem_suporte_revisadas": 0,
+  "completa_taxa_nas_respostas_revisadas": 0.8125,
+  "completa_respostas_revisadas": 16,
+  "clara_taxa_nas_respostas_revisadas": 1.0,
+  "clara_respostas_revisadas": 16,
+  "referencias_confirmadas_no_plano": 24,
+  "perguntas_executadas_com_referencia_confirmada": 24,
+  "acuracia_status_nas_referencias_executadas": 1.0,
+  "casos_abstencao_esperada_executados": 8,
+  "abstencao_correta_status_exato": 1.0,
+  "pendencias": {
+    "perguntas_nao_executadas": 0,
+    "referencias_nao_confirmadas_no_plano": 0,
+    "documentos_sem_rotulo": 0,
+    "afirmacoes_sem_revisao": 0,
+    "respostas_respondidas_sem_completude": 0,
+    "respostas_respondidas_sem_clareza": 0
+  },
+  "estado_avaliacao": "revisao_preenchida"
+}

@@ -1,0 +1,440 @@
+{
+  "pergunta_id": "Q06",
+  "pergunta": "O que os clientes relatam sobre a qualidade dos produtos recebidos?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:37:07.728760+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"845954eef3d6dbd3bc4eaec32798dc4e\",\"ddfc5bfeb3554462248798b6670835a9\"]",
+      "texto": "Comentário: Boa a entrega produto de qualidade",
+      "metadados": {
+        "order_id": "ddfc5bfeb3554462248798b6670835a9",
+        "review_id": "845954eef3d6dbd3bc4eaec32798dc4e",
+        "review_creation_date": "2017-11-01 00:00:00",
+        "review_score": 5
+      },
+      "distancia": 0.22003698348999023
+    },
+    {
+      "documento_id": "[\"396ca63a1ddba5ae532c35316166b90f\",\"24b41566e32a4a737536859707517572\"]",
+      "texto": "Comentário: Entrega e qualidade do produto de acordo com o esperado.",
+      "metadados": {
+        "review_id": "396ca63a1ddba5ae532c35316166b90f",
+        "order_id": "24b41566e32a4a737536859707517572",
+        "review_score": 5,
+        "review_creation_date": "2017-09-12 00:00:00"
+      },
+      "distancia": 0.2257954478263855
+    },
+    {
+      "documento_id": "[\"76df0bd8c9d614662a1e893152b4741f\",\"02e3d94731a28fe10ec1aa91b72b544b\"]",
+      "texto": "Título: Produto de qualidade!\nComentário: Compromisso com o cliente e qualidade no produto resumem essa compra.",
+      "metadados": {
+        "review_creation_date": "2018-05-09 00:00:00",
+        "review_score": 5,
+        "order_id": "02e3d94731a28fe10ec1aa91b72b544b",
+        "review_id": "76df0bd8c9d614662a1e893152b4741f"
+      },
+      "distancia": 0.22985142469406128
+    },
+    {
+      "documento_id": "[\"e159760028d68da0d06b0746697d97a0\",\"6da8ea3c17482ba0eee27ffd63c2d591\"]",
+      "texto": "Comentário: Tanto o produto quanto o atendimento é de qualidade.",
+      "metadados": {
+        "review_score": 5,
+        "review_id": "e159760028d68da0d06b0746697d97a0",
+        "review_creation_date": "2017-12-03 00:00:00",
+        "order_id": "6da8ea3c17482ba0eee27ffd63c2d591"
+      },
+      "distancia": 0.23309075832366943
+    },
+    {
+      "documento_id": "[\"6c612bde41f4ce34be1b41efb17aa695\",\"0e6f7fb47bffbb13f0c144a12443e5a7\"]",
+      "texto": "Comentário: Prazo cumprido, qualidade presente entrega o que vende",
+      "metadados": {
+        "order_id": "0e6f7fb47bffbb13f0c144a12443e5a7",
+        "review_creation_date": "2017-09-20 00:00:00",
+        "review_score": 5,
+        "review_id": "6c612bde41f4ce34be1b41efb17aa695"
+      },
+      "distancia": 0.23350197076797485
+    },
+    {
+      "documento_id": "[\"758890600eb0ae17609443c1df04df60\",\"3c6f2c25e0bc1279d17395ec365ea14c\"]",
+      "texto": "Comentário: MUITO SATISFEITO COM QUALIDADE DE INFORMAÇÕES PASSO A PASSO ATÉ O RECEBIMENTO DO PRODUTO.",
+      "metadados": {
+        "review_creation_date": "2017-02-03 00:00:00",
+        "review_id": "758890600eb0ae17609443c1df04df60",
+        "review_score": 5,
+        "order_id": "3c6f2c25e0bc1279d17395ec365ea14c"
+      },
+      "distancia": 0.2350313663482666
+    },
+    {
+      "documento_id": "[\"00e33c77a57ab8d09dfcc8ac802c5a91\",\"b18d6e6d7db27e38864c85a322985f77\"]",
+      "texto": "Comentário: O produto é de qualidade e de custo benefício",
+      "metadados": {
+        "review_score": 5,
+        "order_id": "b18d6e6d7db27e38864c85a322985f77",
+        "review_id": "00e33c77a57ab8d09dfcc8ac802c5a91",
+        "review_creation_date": "2018-03-09 00:00:00"
+      },
+      "distancia": 0.23848837614059448
+    },
+    {
+      "documento_id": "[\"3a0a9d9d4ed9e6323a527572187a987d\",\"69c7a1e070c1759e15f7a5fd24c36e5b\"]",
+      "texto": "Comentário: Recebiemdo o produto no prazo produtos de Qualidade eu recom",
+      "metadados": {
+        "order_id": "69c7a1e070c1759e15f7a5fd24c36e5b",
+        "review_score": 4,
+        "review_id": "3a0a9d9d4ed9e6323a527572187a987d",
+        "review_creation_date": "2017-04-06 00:00:00"
+      },
+      "distancia": 0.23927438259124756
+    },
+    {
+      "documento_id": "[\"0506a3f1c6eacc9040a9538b1f7d256c\",\"fc5d7fc2903cfc7a873e4669688028aa\"]",
+      "texto": "Comentário: Produto de qualidade e loja séria na entrega.",
+      "metadados": {
+        "review_score": 4,
+        "review_creation_date": "2017-12-08 00:00:00",
+        "review_id": "0506a3f1c6eacc9040a9538b1f7d256c",
+        "order_id": "fc5d7fc2903cfc7a873e4669688028aa"
+      },
+      "distancia": 0.24092614650726318
+    },
+    {
+      "documento_id": "[\"e2ef15f7e4530d14985b64b27913f99b\",\"d80faf302bbccea1f0b613d440de4d33\"]",
+      "texto": "Comentário: Qualidade do produto deixa a desejar",
+      "metadados": {
+        "review_id": "e2ef15f7e4530d14985b64b27913f99b",
+        "review_creation_date": "2018-06-23 00:00:00",
+        "review_score": 4,
+        "order_id": "d80faf302bbccea1f0b613d440de4d33"
+      },
+      "distancia": 0.24174165725708008
+    },
+    {
+      "documento_id": "[\"badd9d2810ff7b1094a20509757d6f0b\",\"b2ae4ac79ec215eb7e8a6f680f0e4957\"]",
+      "texto": "Comentário: produto entregue com qualidade",
+      "metadados": {
+        "review_creation_date": "2018-01-19 00:00:00",
+        "review_id": "badd9d2810ff7b1094a20509757d6f0b",
+        "review_score": 5,
+        "order_id": "b2ae4ac79ec215eb7e8a6f680f0e4957"
+      },
+      "distancia": 0.24434411525726318
+    },
+    {
+      "documento_id": "[\"ac5bb807a20ac6e17c4fea902dd5c2d7\",\"380e56f1fd27f6b37f38fc5fef8c76d0\"]",
+      "texto": "Comentário: Recomendo produtos. Toma qualidade.",
+      "metadados": {
+        "review_id": "ac5bb807a20ac6e17c4fea902dd5c2d7",
+        "review_creation_date": "2017-06-27 00:00:00",
+        "order_id": "380e56f1fd27f6b37f38fc5fef8c76d0",
+        "review_score": 5
+      },
+      "distancia": 0.24605798721313477
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "O que os clientes relatam sobre a qualidade dos produtos recebidos?",
+    "instante_utc": "2026-11-07T20:37:07.811770+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um cliente relata que o produto recebido foi de qualidade.",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Outro cliente afirma que a qualidade do produto estava de acordo com o esperado.",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um cliente elogia a qualidade do produto e o compromisso com o cliente.",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um cliente destaca que tanto o produto quanto o atendimento são de qualidade.",
+        "fontes": [
+          "E4"
+        ]
+      },
+      {
+        "texto": "Um cliente comenta que a entrega cumpriu o prazo e o produto apresentou qualidade.",
+        "fontes": [
+          "E5"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"845954eef3d6dbd3bc4eaec32798dc4e\",\"ddfc5bfeb3554462248798b6670835a9\"]",
+        "texto": "Comentário: Boa a entrega produto de qualidade",
+        "nota": 5,
+        "data": "2017-11-01 00:00:00",
+        "review_id": "845954eef3d6dbd3bc4eaec32798dc4e",
+        "order_id": "ddfc5bfeb3554462248798b6670835a9",
+        "distancia": 0.22003698348999023,
+        "trecho": "Comentário: Boa a entrega produto de qualidade"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"396ca63a1ddba5ae532c35316166b90f\",\"24b41566e32a4a737536859707517572\"]",
+        "texto": "Comentário: Entrega e qualidade do produto de acordo com o esperado.",
+        "nota": 5,
+        "data": "2017-09-12 00:00:00",
+        "review_id": "396ca63a1ddba5ae532c35316166b90f",
+        "order_id": "24b41566e32a4a737536859707517572",
+        "distancia": 0.2257954478263855,
+        "trecho": "Comentário: Entrega e qualidade do produto de acordo com o esperado."
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"76df0bd8c9d614662a1e893152b4741f\",\"02e3d94731a28fe10ec1aa91b72b544b\"]",
+        "texto": "Título: Produto de qualidade!\nComentário: Compromisso com o cliente e qualidade no produto resumem essa compra.",
+        "nota": 5,
+        "data": "2018-05-09 00:00:00",
+        "review_id": "76df0bd8c9d614662a1e893152b4741f",
+        "order_id": "02e3d94731a28fe10ec1aa91b72b544b",
+        "distancia": 0.22985142469406128,
+        "trecho": "Título: Produto de qualidade!\nComentário: Compromisso com o cliente e qualidade no produto resumem essa compra."
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"e159760028d68da0d06b0746697d97a0\",\"6da8ea3c17482ba0eee27ffd63c2d591\"]",
+        "texto": "Comentário: Tanto o produto quanto o atendimento é de qualidade.",
+        "nota": 5,
+        "data": "2017-12-03 00:00:00",
+        "review_id": "e159760028d68da0d06b0746697d97a0",
+        "order_id": "6da8ea3c17482ba0eee27ffd63c2d591",
+        "distancia": 0.23309075832366943,
+        "trecho": "Comentário: Tanto o produto quanto o atendimento é de qualidade."
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"6c612bde41f4ce34be1b41efb17aa695\",\"0e6f7fb47bffbb13f0c144a12443e5a7\"]",
+        "texto": "Comentário: Prazo cumprido, qualidade presente entrega o que vende",
+        "nota": 5,
+        "data": "2017-09-20 00:00:00",
+        "review_id": "6c612bde41f4ce34be1b41efb17aa695",
+        "order_id": "0e6f7fb47bffbb13f0c144a12443e5a7",
+        "distancia": 0.23350197076797485,
+        "trecho": "Comentário: Prazo cumprido, qualidade presente entrega o que vende"
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"845954eef3d6dbd3bc4eaec32798dc4e\",\"ddfc5bfeb3554462248798b6670835a9\"]",
+        "texto": "Comentário: Boa a entrega produto de qualidade",
+        "nota": 5,
+        "data": "2017-11-01 00:00:00",
+        "review_id": "845954eef3d6dbd3bc4eaec32798dc4e",
+        "order_id": "ddfc5bfeb3554462248798b6670835a9",
+        "distancia": 0.22003698348999023
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"396ca63a1ddba5ae532c35316166b90f\",\"24b41566e32a4a737536859707517572\"]",
+        "texto": "Comentário: Entrega e qualidade do produto de acordo com o esperado.",
+        "nota": 5,
+        "data": "2017-09-12 00:00:00",
+        "review_id": "396ca63a1ddba5ae532c35316166b90f",
+        "order_id": "24b41566e32a4a737536859707517572",
+        "distancia": 0.2257954478263855
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"76df0bd8c9d614662a1e893152b4741f\",\"02e3d94731a28fe10ec1aa91b72b544b\"]",
+        "texto": "Título: Produto de qualidade!\nComentário: Compromisso com o cliente e qualidade no produto resumem essa compra.",
+        "nota": 5,
+        "data": "2018-05-09 00:00:00",
+        "review_id": "76df0bd8c9d614662a1e893152b4741f",
+        "order_id": "02e3d94731a28fe10ec1aa91b72b544b",
+        "distancia": 0.22985142469406128
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"e159760028d68da0d06b0746697d97a0\",\"6da8ea3c17482ba0eee27ffd63c2d591\"]",
+        "texto": "Comentário: Tanto o produto quanto o atendimento é de qualidade.",
+        "nota": 5,
+        "data": "2017-12-03 00:00:00",
+        "review_id": "e159760028d68da0d06b0746697d97a0",
+        "order_id": "6da8ea3c17482ba0eee27ffd63c2d591",
+        "distancia": 0.23309075832366943
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"6c612bde41f4ce34be1b41efb17aa695\",\"0e6f7fb47bffbb13f0c144a12443e5a7\"]",
+        "texto": "Comentário: Prazo cumprido, qualidade presente entrega o que vende",
+        "nota": 5,
+        "data": "2017-09-20 00:00:00",
+        "review_id": "6c612bde41f4ce34be1b41efb17aa695",
+        "order_id": "0e6f7fb47bffbb13f0c144a12443e5a7",
+        "distancia": 0.23350197076797485
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"758890600eb0ae17609443c1df04df60\",\"3c6f2c25e0bc1279d17395ec365ea14c\"]",
+        "texto": "Comentário: MUITO SATISFEITO COM QUALIDADE DE INFORMAÇÕES PASSO A PASSO ATÉ O RECEBIMENTO DO PRODUTO.",
+        "nota": 5,
+        "data": "2017-02-03 00:00:00",
+        "review_id": "758890600eb0ae17609443c1df04df60",
+        "order_id": "3c6f2c25e0bc1279d17395ec365ea14c",
+        "distancia": 0.2350313663482666
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"00e33c77a57ab8d09dfcc8ac802c5a91\",\"b18d6e6d7db27e38864c85a322985f77\"]",
+        "texto": "Comentário: O produto é de qualidade e de custo benefício",
+        "nota": 5,
+        "data": "2018-03-09 00:00:00",
+        "review_id": "00e33c77a57ab8d09dfcc8ac802c5a91",
+        "order_id": "b18d6e6d7db27e38864c85a322985f77",
+        "distancia": 0.23848837614059448
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"3a0a9d9d4ed9e6323a527572187a987d\",\"69c7a1e070c1759e15f7a5fd24c36e5b\"]",
+        "texto": "Comentário: Recebiemdo o produto no prazo produtos de Qualidade eu recom",
+        "nota": 4,
+        "data": "2017-04-06 00:00:00",
+        "review_id": "3a0a9d9d4ed9e6323a527572187a987d",
+        "order_id": "69c7a1e070c1759e15f7a5fd24c36e5b",
+        "distancia": 0.23927438259124756
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"0506a3f1c6eacc9040a9538b1f7d256c\",\"fc5d7fc2903cfc7a873e4669688028aa\"]",
+        "texto": "Comentário: Produto de qualidade e loja séria na entrega.",
+        "nota": 4,
+        "data": "2017-12-08 00:00:00",
+        "review_id": "0506a3f1c6eacc9040a9538b1f7d256c",
+        "order_id": "fc5d7fc2903cfc7a873e4669688028aa",
+        "distancia": 0.24092614650726318
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"e2ef15f7e4530d14985b64b27913f99b\",\"d80faf302bbccea1f0b613d440de4d33\"]",
+        "texto": "Comentário: Qualidade do produto deixa a desejar",
+        "nota": 4,
+        "data": "2018-06-23 00:00:00",
+        "review_id": "e2ef15f7e4530d14985b64b27913f99b",
+        "order_id": "d80faf302bbccea1f0b613d440de4d33",
+        "distancia": 0.24174165725708008
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"845954eef3d6dbd3bc4eaec32798dc4e\",\"ddfc5bfeb3554462248798b6670835a9\"]",
+        "texto": "Comentário: Boa a entrega produto de qualidade",
+        "nota": 5,
+        "data": "2017-11-01 00:00:00",
+        "review_id": "845954eef3d6dbd3bc4eaec32798dc4e",
+        "order_id": "ddfc5bfeb3554462248798b6670835a9",
+        "distancia": 0.22003698348999023,
+        "trecho": "Comentário: Boa a entrega produto de qualidade"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"396ca63a1ddba5ae532c35316166b90f\",\"24b41566e32a4a737536859707517572\"]",
+        "texto": "Comentário: Entrega e qualidade do produto de acordo com o esperado.",
+        "nota": 5,
+        "data": "2017-09-12 00:00:00",
+        "review_id": "396ca63a1ddba5ae532c35316166b90f",
+        "order_id": "24b41566e32a4a737536859707517572",
+        "distancia": 0.2257954478263855,
+        "trecho": "Comentário: Entrega e qualidade do produto de acordo com o esperado."
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"76df0bd8c9d614662a1e893152b4741f\",\"02e3d94731a28fe10ec1aa91b72b544b\"]",
+        "texto": "Título: Produto de qualidade!\nComentário: Compromisso com o cliente e qualidade no produto resumem essa compra.",
+        "nota": 5,
+        "data": "2018-05-09 00:00:00",
+        "review_id": "76df0bd8c9d614662a1e893152b4741f",
+        "order_id": "02e3d94731a28fe10ec1aa91b72b544b",
+        "distancia": 0.22985142469406128,
+        "trecho": "Título: Produto de qualidade!\nComentário: Compromisso com o cliente e qualidade no produto resumem essa compra."
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"e159760028d68da0d06b0746697d97a0\",\"6da8ea3c17482ba0eee27ffd63c2d591\"]",
+        "texto": "Comentário: Tanto o produto quanto o atendimento é de qualidade.",
+        "nota": 5,
+        "data": "2017-12-03 00:00:00",
+        "review_id": "e159760028d68da0d06b0746697d97a0",
+        "order_id": "6da8ea3c17482ba0eee27ffd63c2d591",
+        "distancia": 0.23309075832366943,
+        "trecho": "Comentário: Tanto o produto quanto o atendimento é de qualidade."
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"6c612bde41f4ce34be1b41efb17aa695\",\"0e6f7fb47bffbb13f0c144a12443e5a7\"]",
+        "texto": "Comentário: Prazo cumprido, qualidade presente entrega o que vende",
+        "nota": 5,
+        "data": "2017-09-20 00:00:00",
+        "review_id": "6c612bde41f4ce34be1b41efb17aa695",
+        "order_id": "0e6f7fb47bffbb13f0c144a12443e5a7",
+        "distancia": 0.23350197076797485,
+        "trecho": "Comentário: Prazo cumprido, qualidade presente entrega o que vende"
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E4\"}, {\"fonte\": \"E5\"}], \"justificativa\": \"Os clientes relatam que os produtos recebidos têm qualidade, com comentários positivos sobre a entrega e a qualidade dos produtos.\"}",
+        "uso": {
+          "completion_tokens": 89,
+          "prompt_tokens": 2803,
+          "total_tokens": 2892,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 1.5790236830002868,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um cliente relata que o produto recebido foi de qualidade.\", \"fontes\": [\"E1\"]}, {\"texto\": \"Outro cliente afirma que a qualidade do produto estava de acordo com o esperado.\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um cliente elogia a qualidade do produto e o compromisso com o cliente.\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um cliente destaca que tanto o produto quanto o atendimento são de qualidade.\", \"fontes\": [\"E4\"]}, {\"texto\": \"Um cliente comenta que a entrega cumpriu o prazo e o produto apresentou qualidade.\", \"fontes\": [\"E5\"]}]}",
+        "uso": {
+          "completion_tokens": 166,
+          "prompt_tokens": 1347,
+          "total_tokens": 1513,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 3.0906259110001884,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 4.670169600000008
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 4.752855956000076
+}

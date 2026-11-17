@@ -1,0 +1,280 @@
+{
+  "pergunta_id": "Q22",
+  "pergunta": "Qual foi a evolução mensal da taxa de defeitos em toda a base?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:51:32.613888+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"6f24994260dc2504a8dc0781e26d7324\",\"ae06bd80c3727ee5b35770126f4da2e9\"]",
+      "texto": "Comentário: Veio com alguns defeitos, em alguns lugares está descolando",
+      "metadados": {
+        "review_score": 3,
+        "review_creation_date": "2017-12-15 00:00:00",
+        "order_id": "ae06bd80c3727ee5b35770126f4da2e9",
+        "review_id": "6f24994260dc2504a8dc0781e26d7324"
+      },
+      "distancia": 0.4318496584892273
+    },
+    {
+      "documento_id": "[\"95d9b32ceb14e27ec00467d1792b457e\",\"c23296e1255abac91cb3a637f4f084e3\"]",
+      "texto": "Comentário: O produto veio com dimensões erradas e avariado.",
+      "metadados": {
+        "review_score": 1,
+        "order_id": "c23296e1255abac91cb3a637f4f084e3",
+        "review_creation_date": "2017-05-17 00:00:00",
+        "review_id": "95d9b32ceb14e27ec00467d1792b457e"
+      },
+      "distancia": 0.44206929206848145
+    },
+    {
+      "documento_id": "[\"893659b7a097572978ae507c5aba896c\",\"ac9389991e196542581dc80f6be7e5fe\"]",
+      "texto": "Comentário: Produto diferente do oferecido, e cheio de defeitos.",
+      "metadados": {
+        "review_creation_date": "2018-01-13 00:00:00",
+        "order_id": "ac9389991e196542581dc80f6be7e5fe",
+        "review_score": 1,
+        "review_id": "893659b7a097572978ae507c5aba896c"
+      },
+      "distancia": 0.44331657886505127
+    },
+    {
+      "documento_id": "[\"95cfb15ad3477fec574b561d1daea972\",\"fc24613395700f29adf22b2383c12bb0\"]",
+      "texto": "Comentário: Produto veio com defeito",
+      "metadados": {
+        "review_id": "95cfb15ad3477fec574b561d1daea972",
+        "review_creation_date": "2017-08-09 00:00:00",
+        "review_score": 1,
+        "order_id": "fc24613395700f29adf22b2383c12bb0"
+      },
+      "distancia": 0.4563971757888794
+    },
+    {
+      "documento_id": "[\"95cfb15ad3477fec574b561d1daea972\",\"4ed4a6e12e74982dd78c78df1ed3f372\"]",
+      "texto": "Comentário: Produto veio com defeito",
+      "metadados": {
+        "order_id": "4ed4a6e12e74982dd78c78df1ed3f372",
+        "review_id": "95cfb15ad3477fec574b561d1daea972",
+        "review_creation_date": "2017-08-09 00:00:00",
+        "review_score": 1
+      },
+      "distancia": 0.45639723539352417
+    },
+    {
+      "documento_id": "[\"f6bc2b7fb670edc173862b9d84fd12c5\",\"d34d57040fbd8cc561fddf442352f8eb\"]",
+      "texto": "Comentário: Produto chegou com um pequeno defeito.",
+      "metadados": {
+        "review_creation_date": "2018-07-04 00:00:00",
+        "order_id": "d34d57040fbd8cc561fddf442352f8eb",
+        "review_id": "f6bc2b7fb670edc173862b9d84fd12c5",
+        "review_score": 2
+      },
+      "distancia": 0.45928412675857544
+    },
+    {
+      "documento_id": "[\"8b4c14417bccab81710772ecb8b23fd6\",\"62a575a2a9f2c005b7ec7ff7dd76d5ee\"]",
+      "texto": "Comentário: produto deu defeito na 1 vez de uso.",
+      "metadados": {
+        "review_score": 1,
+        "review_creation_date": "2018-08-03 00:00:00",
+        "order_id": "62a575a2a9f2c005b7ec7ff7dd76d5ee",
+        "review_id": "8b4c14417bccab81710772ecb8b23fd6"
+      },
+      "distancia": 0.4864204525947571
+    },
+    {
+      "documento_id": "[\"49b3a0f3ee5cab9c2a57b37c2e0c67b3\",\"a5feb0197f260c5208284d3d53639266\"]",
+      "texto": "Comentário: Desorganização, produto veio errado.",
+      "metadados": {
+        "order_id": "a5feb0197f260c5208284d3d53639266",
+        "review_creation_date": "2017-03-09 00:00:00",
+        "review_id": "49b3a0f3ee5cab9c2a57b37c2e0c67b3",
+        "review_score": 1
+      },
+      "distancia": 0.48646676540374756
+    },
+    {
+      "documento_id": "[\"60f94367afe0dfb43a258543fa81a3f4\",\"9bcfea969358b43046969a17bfa436b9\"]",
+      "texto": "Comentário: ao começar a usar o produto o mesmo apresentou defeito.",
+      "metadados": {
+        "review_score": 1,
+        "review_creation_date": "2018-03-23 00:00:00",
+        "review_id": "60f94367afe0dfb43a258543fa81a3f4",
+        "order_id": "9bcfea969358b43046969a17bfa436b9"
+      },
+      "distancia": 0.48935484886169434
+    },
+    {
+      "documento_id": "[\"ea0036b547cb7e145507d50c4d64ce2a\",\"f1551636056618e77921de4bd2bb5e7c\"]",
+      "texto": "Comentário: produto veio com defeito",
+      "metadados": {
+        "review_id": "ea0036b547cb7e145507d50c4d64ce2a",
+        "review_creation_date": "2017-04-20 00:00:00",
+        "order_id": "f1551636056618e77921de4bd2bb5e7c",
+        "review_score": 1
+      },
+      "distancia": 0.4907222390174866
+    },
+    {
+      "documento_id": "[\"34ee873be6f5542bb7db307ede801315\",\"216bc8ebe70b73bb6e7e3270d9a5df56\"]",
+      "texto": "Comentário: Veio uma tesoura na medida 5.5 e a outra veio 6. 0 Já tinha adquirido outra vez as tesouras mas desta vez veio errada cada uma de uma medida e o estojo veio com uma qualidade inferior a outra vez",
+      "metadados": {
+        "order_id": "216bc8ebe70b73bb6e7e3270d9a5df56",
+        "review_id": "34ee873be6f5542bb7db307ede801315",
+        "review_score": 5,
+        "review_creation_date": "2017-10-10 00:00:00"
+      },
+      "distancia": 0.49195432662963867
+    },
+    {
+      "documento_id": "[\"85e03781a16161fcf85ff0d9f4abb4b3\",\"762daee2f96924ae9dd917fee13176a2\"]",
+      "texto": "Comentário: Chegou antes do prazo tudo certinho ,mais trabalhando com o produto notei algumas falhas não foi o que eu espera até pq ser um produto mais novo e de ótima procedência",
+      "metadados": {
+        "review_creation_date": "2017-06-22 00:00:00",
+        "review_score": 3,
+        "review_id": "85e03781a16161fcf85ff0d9f4abb4b3",
+        "order_id": "762daee2f96924ae9dd917fee13176a2"
+      },
+      "distancia": 0.49272507429122925
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Qual foi a evolução mensal da taxa de defeitos em toda a base?",
+    "instante_utc": "2026-11-07T20:51:32.714081+00:00",
+    "status": "evidencias_insuficientes",
+    "afirmacoes": [],
+    "fontes_utilizadas": [],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"6f24994260dc2504a8dc0781e26d7324\",\"ae06bd80c3727ee5b35770126f4da2e9\"]",
+        "texto": "Comentário: Veio com alguns defeitos, em alguns lugares está descolando",
+        "nota": 3,
+        "data": "2017-12-15 00:00:00",
+        "review_id": "6f24994260dc2504a8dc0781e26d7324",
+        "order_id": "ae06bd80c3727ee5b35770126f4da2e9",
+        "distancia": 0.4318496584892273
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"95d9b32ceb14e27ec00467d1792b457e\",\"c23296e1255abac91cb3a637f4f084e3\"]",
+        "texto": "Comentário: O produto veio com dimensões erradas e avariado.",
+        "nota": 1,
+        "data": "2017-05-17 00:00:00",
+        "review_id": "95d9b32ceb14e27ec00467d1792b457e",
+        "order_id": "c23296e1255abac91cb3a637f4f084e3",
+        "distancia": 0.44206929206848145
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"893659b7a097572978ae507c5aba896c\",\"ac9389991e196542581dc80f6be7e5fe\"]",
+        "texto": "Comentário: Produto diferente do oferecido, e cheio de defeitos.",
+        "nota": 1,
+        "data": "2018-01-13 00:00:00",
+        "review_id": "893659b7a097572978ae507c5aba896c",
+        "order_id": "ac9389991e196542581dc80f6be7e5fe",
+        "distancia": 0.44331657886505127
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"95cfb15ad3477fec574b561d1daea972\",\"fc24613395700f29adf22b2383c12bb0\"]",
+        "texto": "Comentário: Produto veio com defeito",
+        "nota": 1,
+        "data": "2017-08-09 00:00:00",
+        "review_id": "95cfb15ad3477fec574b561d1daea972",
+        "order_id": "fc24613395700f29adf22b2383c12bb0",
+        "distancia": 0.4563971757888794
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"f6bc2b7fb670edc173862b9d84fd12c5\",\"d34d57040fbd8cc561fddf442352f8eb\"]",
+        "texto": "Comentário: Produto chegou com um pequeno defeito.",
+        "nota": 2,
+        "data": "2018-07-04 00:00:00",
+        "review_id": "f6bc2b7fb670edc173862b9d84fd12c5",
+        "order_id": "d34d57040fbd8cc561fddf442352f8eb",
+        "distancia": 0.45928412675857544
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"8b4c14417bccab81710772ecb8b23fd6\",\"62a575a2a9f2c005b7ec7ff7dd76d5ee\"]",
+        "texto": "Comentário: produto deu defeito na 1 vez de uso.",
+        "nota": 1,
+        "data": "2018-08-03 00:00:00",
+        "review_id": "8b4c14417bccab81710772ecb8b23fd6",
+        "order_id": "62a575a2a9f2c005b7ec7ff7dd76d5ee",
+        "distancia": 0.4864204525947571
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"49b3a0f3ee5cab9c2a57b37c2e0c67b3\",\"a5feb0197f260c5208284d3d53639266\"]",
+        "texto": "Comentário: Desorganização, produto veio errado.",
+        "nota": 1,
+        "data": "2017-03-09 00:00:00",
+        "review_id": "49b3a0f3ee5cab9c2a57b37c2e0c67b3",
+        "order_id": "a5feb0197f260c5208284d3d53639266",
+        "distancia": 0.48646676540374756
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"60f94367afe0dfb43a258543fa81a3f4\",\"9bcfea969358b43046969a17bfa436b9\"]",
+        "texto": "Comentário: ao começar a usar o produto o mesmo apresentou defeito.",
+        "nota": 1,
+        "data": "2018-03-23 00:00:00",
+        "review_id": "60f94367afe0dfb43a258543fa81a3f4",
+        "order_id": "9bcfea969358b43046969a17bfa436b9",
+        "distancia": 0.48935484886169434
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"ea0036b547cb7e145507d50c4d64ce2a\",\"f1551636056618e77921de4bd2bb5e7c\"]",
+        "texto": "Comentário: produto veio com defeito",
+        "nota": 1,
+        "data": "2017-04-20 00:00:00",
+        "review_id": "ea0036b547cb7e145507d50c4d64ce2a",
+        "order_id": "f1551636056618e77921de4bd2bb5e7c",
+        "distancia": 0.4907222390174866
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"34ee873be6f5542bb7db307ede801315\",\"216bc8ebe70b73bb6e7e3270d9a5df56\"]",
+        "texto": "Comentário: Veio uma tesoura na medida 5.5 e a outra veio 6. 0 Já tinha adquirido outra vez as tesouras mas desta vez veio errada cada uma de uma medida e o estojo veio com uma qualidade inferior a outra vez",
+        "nota": 5,
+        "data": "2017-10-10 00:00:00",
+        "review_id": "34ee873be6f5542bb7db307ede801315",
+        "order_id": "216bc8ebe70b73bb6e7e3270d9a5df56",
+        "distancia": 0.49195432662963867
+      }
+    ],
+    "evidencias_selecionadas": [],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"evidencias_insuficientes\", \"evidencias\": [], \"justificativa\": \"O pedido exige informação ou agregação indisponível, como a evolução mensal da taxa de defeitos em toda a base, o que não pode ser calculado com os relatos disponíveis.\"}",
+        "uso": {
+          "completion_tokens": 70,
+          "prompt_tokens": 2784,
+          "total_tokens": 2854,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 1.1439832480000405,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "llm_declarou_evidencia_insuficiente_ou_fora_escopo",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 1.1446948940001676
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 1.2442774459996144
+}

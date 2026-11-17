@@ -1,0 +1,384 @@
+{
+  "pergunta_id": "Q03",
+  "pergunta": "Há relatos recuperados de pedidos que ainda não chegaram?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:33:42.451770+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"3058caa14cbdac741c17eb300fdb96e1\",\"ce500b2ca0d960f937fb4d24282d3291\"]",
+      "texto": "Comentário: Preciso de informaçãoes sobre o pedido que não chegou ainda",
+      "metadados": {
+        "review_creation_date": "2017-02-16 00:00:00",
+        "review_id": "3058caa14cbdac741c17eb300fdb96e1",
+        "order_id": "ce500b2ca0d960f937fb4d24282d3291",
+        "review_score": 1
+      },
+      "distancia": 0.2248244285583496
+    },
+    {
+      "documento_id": "[\"95fa4c67912e2e46bf4ecd606e3623ee\",\"ebc1b6869013db46733e56deb933dd5a\"]",
+      "texto": "Comentário: Até o momento meus pedidos não foram entregues, o que está acontecendo",
+      "metadados": {
+        "review_score": 1,
+        "review_id": "95fa4c67912e2e46bf4ecd606e3623ee",
+        "review_creation_date": "2018-02-23 00:00:00",
+        "order_id": "ebc1b6869013db46733e56deb933dd5a"
+      },
+      "distancia": 0.23599112033843994
+    },
+    {
+      "documento_id": "[\"d1ff675d7abf2c6d02ba6c30a756cbb5\",\"528ef07892f35406f1e19482c11714a4\"]",
+      "texto": "Comentário: Fiz um pedido a mais de mês, e ainda não foi entregue.",
+      "metadados": {
+        "review_id": "d1ff675d7abf2c6d02ba6c30a756cbb5",
+        "review_creation_date": "2018-02-07 00:00:00",
+        "review_score": 1,
+        "order_id": "528ef07892f35406f1e19482c11714a4"
+      },
+      "distancia": 0.27695149183273315
+    },
+    {
+      "documento_id": "[\"801b85d8529718addf3352ea962e89f5\",\"ae8b5df90eaf220f63f5ed4865cd222c\"]",
+      "texto": "Comentário: Meus pedidos não foram entregues.",
+      "metadados": {
+        "review_score": 1,
+        "review_creation_date": "2018-04-03 00:00:00",
+        "order_id": "ae8b5df90eaf220f63f5ed4865cd222c",
+        "review_id": "801b85d8529718addf3352ea962e89f5"
+      },
+      "distancia": 0.29800325632095337
+    },
+    {
+      "documento_id": "[\"bf8dad1ed02a48807cbe4027625c5bc8\",\"43bd50a07cc1758b29b32804f1a6d552\"]",
+      "texto": "Comentário: Já recebi diferentes e-mails: confirmação da entrega, dificuldades para confirmar pedido, pedido ainda não confirmado e mais uma vez, de confirmação da entrega. Será que chega?",
+      "metadados": {
+        "review_score": 1,
+        "order_id": "43bd50a07cc1758b29b32804f1a6d552",
+        "review_creation_date": "2017-10-19 00:00:00",
+        "review_id": "bf8dad1ed02a48807cbe4027625c5bc8"
+      },
+      "distancia": 0.30274713039398193
+    },
+    {
+      "documento_id": "[\"e6514bfb990b35522784418f8e227ae8\",\"00bcee890eba57a9767c7b5ca12d3a1b\"]",
+      "texto": "Comentário: Pedido ainda não foi totalmente entregue. Continuo aguardando pois ainda não expirou o prazo de entrega.",
+      "metadados": {
+        "review_id": "e6514bfb990b35522784418f8e227ae8",
+        "review_creation_date": "2017-07-28 00:00:00",
+        "review_score": 3,
+        "order_id": "00bcee890eba57a9767c7b5ca12d3a1b"
+      },
+      "distancia": 0.30390459299087524
+    },
+    {
+      "documento_id": "[\"765ba204ffdc662f5bc54651edcfb0a1\",\"56a879c57a3b6118c13d30799d1ae6a2\"]",
+      "texto": "Comentário: Pedidos anteriores foram recebidos. Somente essa ultima compra não foi entregue ainda.",
+      "metadados": {
+        "review_creation_date": "2018-04-27 00:00:00",
+        "review_id": "765ba204ffdc662f5bc54651edcfb0a1",
+        "order_id": "56a879c57a3b6118c13d30799d1ae6a2",
+        "review_score": 3
+      },
+      "distancia": 0.3071950674057007
+    },
+    {
+      "documento_id": "[\"70d5fe5af7e8d9de730af7bfee57a6b5\",\"19fac8726c95312e1eb2a67af89f7723\"]",
+      "texto": "Comentário: Pedido veio incompleto estou aguardando a resposta da minha reclamação e até agora nada!",
+      "metadados": {
+        "review_id": "70d5fe5af7e8d9de730af7bfee57a6b5",
+        "review_score": 1,
+        "order_id": "19fac8726c95312e1eb2a67af89f7723",
+        "review_creation_date": "2017-12-14 00:00:00"
+      },
+      "distancia": 0.308529257774353
+    },
+    {
+      "documento_id": "[\"6c84bb989c958289b6301979e35c93d9\",\"b4e38e01065499f65724c74404a21c64\"]",
+      "texto": "Comentário: Meu pedido não foi entregue.... Gostaria de maiores informações",
+      "metadados": {
+        "review_score": 1,
+        "order_id": "b4e38e01065499f65724c74404a21c64",
+        "review_creation_date": "2018-05-01 00:00:00",
+        "review_id": "6c84bb989c958289b6301979e35c93d9"
+      },
+      "distancia": 0.30985569953918457
+    },
+    {
+      "documento_id": "[\"d142bde4a4b7698a2713538cf9bd2057\",\"df5f65d2dec68b07404b0aa6f09aee32\"]",
+      "texto": "Comentário: Já fiz varias solicitações de devolução, sem retorno. Aguardo.",
+      "metadados": {
+        "order_id": "df5f65d2dec68b07404b0aa6f09aee32",
+        "review_creation_date": "2017-08-10 00:00:00",
+        "review_id": "d142bde4a4b7698a2713538cf9bd2057",
+        "review_score": 1
+      },
+      "distancia": 0.3156953454017639
+    },
+    {
+      "documento_id": "[\"1792b41a34c6e0619c0387e9fa8f80af\",\"773f515d33d86f596ef646f6864670c0\"]",
+      "texto": "Comentário: Ainda não foi entregue o pedido e já passou do prazo da entrega. O status do pedido não era atualizado diariamente. Foi atualizado hoje que estava vindo para minha cidade, espero a entrega.",
+      "metadados": {
+        "order_id": "773f515d33d86f596ef646f6864670c0",
+        "review_creation_date": "2018-04-11 00:00:00",
+        "review_score": 1,
+        "review_id": "1792b41a34c6e0619c0387e9fa8f80af"
+      },
+      "distancia": 0.3157936930656433
+    },
+    {
+      "documento_id": "[\"386870d1d6b8918cd637bcf13af72f72\",\"39f428ffba2a9207ffb6406237ffe25a\"]",
+      "texto": "Comentário: Pedido ainda não entregue.",
+      "metadados": {
+        "review_score": 1,
+        "order_id": "39f428ffba2a9207ffb6406237ffe25a",
+        "review_creation_date": "2018-03-17 00:00:00",
+        "review_id": "386870d1d6b8918cd637bcf13af72f72"
+      },
+      "distancia": 0.31727010011672974
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Há relatos recuperados de pedidos que ainda não chegaram?",
+    "instante_utc": "2026-11-07T20:33:42.541802+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato menciona a necessidade de informação sobre um pedido que não chegou ainda.",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Outro relato expressa preocupação com pedidos que não foram entregues.",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um cliente relata ter feito um pedido há mais de um mês e ainda não ter recebido.",
+        "fontes": [
+          "E3"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"3058caa14cbdac741c17eb300fdb96e1\",\"ce500b2ca0d960f937fb4d24282d3291\"]",
+        "texto": "Comentário: Preciso de informaçãoes sobre o pedido que não chegou ainda",
+        "nota": 1,
+        "data": "2017-02-16 00:00:00",
+        "review_id": "3058caa14cbdac741c17eb300fdb96e1",
+        "order_id": "ce500b2ca0d960f937fb4d24282d3291",
+        "distancia": 0.2248244285583496,
+        "trecho": "Comentário: Preciso de informaçãoes sobre o pedido que não chegou ainda"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"95fa4c67912e2e46bf4ecd606e3623ee\",\"ebc1b6869013db46733e56deb933dd5a\"]",
+        "texto": "Comentário: Até o momento meus pedidos não foram entregues, o que está acontecendo",
+        "nota": 1,
+        "data": "2018-02-23 00:00:00",
+        "review_id": "95fa4c67912e2e46bf4ecd606e3623ee",
+        "order_id": "ebc1b6869013db46733e56deb933dd5a",
+        "distancia": 0.23599112033843994,
+        "trecho": "Comentário: Até o momento meus pedidos não foram entregues, o que está acontecendo"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"d1ff675d7abf2c6d02ba6c30a756cbb5\",\"528ef07892f35406f1e19482c11714a4\"]",
+        "texto": "Comentário: Fiz um pedido a mais de mês, e ainda não foi entregue.",
+        "nota": 1,
+        "data": "2018-02-07 00:00:00",
+        "review_id": "d1ff675d7abf2c6d02ba6c30a756cbb5",
+        "order_id": "528ef07892f35406f1e19482c11714a4",
+        "distancia": 0.27695149183273315,
+        "trecho": "Comentário: Fiz um pedido a mais de mês, e ainda não foi entregue."
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"3058caa14cbdac741c17eb300fdb96e1\",\"ce500b2ca0d960f937fb4d24282d3291\"]",
+        "texto": "Comentário: Preciso de informaçãoes sobre o pedido que não chegou ainda",
+        "nota": 1,
+        "data": "2017-02-16 00:00:00",
+        "review_id": "3058caa14cbdac741c17eb300fdb96e1",
+        "order_id": "ce500b2ca0d960f937fb4d24282d3291",
+        "distancia": 0.2248244285583496
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"95fa4c67912e2e46bf4ecd606e3623ee\",\"ebc1b6869013db46733e56deb933dd5a\"]",
+        "texto": "Comentário: Até o momento meus pedidos não foram entregues, o que está acontecendo",
+        "nota": 1,
+        "data": "2018-02-23 00:00:00",
+        "review_id": "95fa4c67912e2e46bf4ecd606e3623ee",
+        "order_id": "ebc1b6869013db46733e56deb933dd5a",
+        "distancia": 0.23599112033843994
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"d1ff675d7abf2c6d02ba6c30a756cbb5\",\"528ef07892f35406f1e19482c11714a4\"]",
+        "texto": "Comentário: Fiz um pedido a mais de mês, e ainda não foi entregue.",
+        "nota": 1,
+        "data": "2018-02-07 00:00:00",
+        "review_id": "d1ff675d7abf2c6d02ba6c30a756cbb5",
+        "order_id": "528ef07892f35406f1e19482c11714a4",
+        "distancia": 0.27695149183273315
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"801b85d8529718addf3352ea962e89f5\",\"ae8b5df90eaf220f63f5ed4865cd222c\"]",
+        "texto": "Comentário: Meus pedidos não foram entregues.",
+        "nota": 1,
+        "data": "2018-04-03 00:00:00",
+        "review_id": "801b85d8529718addf3352ea962e89f5",
+        "order_id": "ae8b5df90eaf220f63f5ed4865cd222c",
+        "distancia": 0.29800325632095337
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"bf8dad1ed02a48807cbe4027625c5bc8\",\"43bd50a07cc1758b29b32804f1a6d552\"]",
+        "texto": "Comentário: Já recebi diferentes e-mails: confirmação da entrega, dificuldades para confirmar pedido, pedido ainda não confirmado e mais uma vez, de confirmação da entrega. Será que chega?",
+        "nota": 1,
+        "data": "2017-10-19 00:00:00",
+        "review_id": "bf8dad1ed02a48807cbe4027625c5bc8",
+        "order_id": "43bd50a07cc1758b29b32804f1a6d552",
+        "distancia": 0.30274713039398193
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"e6514bfb990b35522784418f8e227ae8\",\"00bcee890eba57a9767c7b5ca12d3a1b\"]",
+        "texto": "Comentário: Pedido ainda não foi totalmente entregue. Continuo aguardando pois ainda não expirou o prazo de entrega.",
+        "nota": 3,
+        "data": "2017-07-28 00:00:00",
+        "review_id": "e6514bfb990b35522784418f8e227ae8",
+        "order_id": "00bcee890eba57a9767c7b5ca12d3a1b",
+        "distancia": 0.30390459299087524
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"765ba204ffdc662f5bc54651edcfb0a1\",\"56a879c57a3b6118c13d30799d1ae6a2\"]",
+        "texto": "Comentário: Pedidos anteriores foram recebidos. Somente essa ultima compra não foi entregue ainda.",
+        "nota": 3,
+        "data": "2018-04-27 00:00:00",
+        "review_id": "765ba204ffdc662f5bc54651edcfb0a1",
+        "order_id": "56a879c57a3b6118c13d30799d1ae6a2",
+        "distancia": 0.3071950674057007
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"70d5fe5af7e8d9de730af7bfee57a6b5\",\"19fac8726c95312e1eb2a67af89f7723\"]",
+        "texto": "Comentário: Pedido veio incompleto estou aguardando a resposta da minha reclamação e até agora nada!",
+        "nota": 1,
+        "data": "2017-12-14 00:00:00",
+        "review_id": "70d5fe5af7e8d9de730af7bfee57a6b5",
+        "order_id": "19fac8726c95312e1eb2a67af89f7723",
+        "distancia": 0.308529257774353
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"6c84bb989c958289b6301979e35c93d9\",\"b4e38e01065499f65724c74404a21c64\"]",
+        "texto": "Comentário: Meu pedido não foi entregue.... Gostaria de maiores informações",
+        "nota": 1,
+        "data": "2018-05-01 00:00:00",
+        "review_id": "6c84bb989c958289b6301979e35c93d9",
+        "order_id": "b4e38e01065499f65724c74404a21c64",
+        "distancia": 0.30985569953918457
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"d142bde4a4b7698a2713538cf9bd2057\",\"df5f65d2dec68b07404b0aa6f09aee32\"]",
+        "texto": "Comentário: Já fiz varias solicitações de devolução, sem retorno. Aguardo.",
+        "nota": 1,
+        "data": "2017-08-10 00:00:00",
+        "review_id": "d142bde4a4b7698a2713538cf9bd2057",
+        "order_id": "df5f65d2dec68b07404b0aa6f09aee32",
+        "distancia": 0.3156953454017639
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"3058caa14cbdac741c17eb300fdb96e1\",\"ce500b2ca0d960f937fb4d24282d3291\"]",
+        "texto": "Comentário: Preciso de informaçãoes sobre o pedido que não chegou ainda",
+        "nota": 1,
+        "data": "2017-02-16 00:00:00",
+        "review_id": "3058caa14cbdac741c17eb300fdb96e1",
+        "order_id": "ce500b2ca0d960f937fb4d24282d3291",
+        "distancia": 0.2248244285583496,
+        "trecho": "Comentário: Preciso de informaçãoes sobre o pedido que não chegou ainda"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"95fa4c67912e2e46bf4ecd606e3623ee\",\"ebc1b6869013db46733e56deb933dd5a\"]",
+        "texto": "Comentário: Até o momento meus pedidos não foram entregues, o que está acontecendo",
+        "nota": 1,
+        "data": "2018-02-23 00:00:00",
+        "review_id": "95fa4c67912e2e46bf4ecd606e3623ee",
+        "order_id": "ebc1b6869013db46733e56deb933dd5a",
+        "distancia": 0.23599112033843994,
+        "trecho": "Comentário: Até o momento meus pedidos não foram entregues, o que está acontecendo"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"d1ff675d7abf2c6d02ba6c30a756cbb5\",\"528ef07892f35406f1e19482c11714a4\"]",
+        "texto": "Comentário: Fiz um pedido a mais de mês, e ainda não foi entregue.",
+        "nota": 1,
+        "data": "2018-02-07 00:00:00",
+        "review_id": "d1ff675d7abf2c6d02ba6c30a756cbb5",
+        "order_id": "528ef07892f35406f1e19482c11714a4",
+        "distancia": 0.27695149183273315,
+        "trecho": "Comentário: Fiz um pedido a mais de mês, e ainda não foi entregue."
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}], \"justificativa\": \"Os comentários das fontes E1, E2 e E3 descrevem pedidos que ainda não chegaram, o que está relacionado à pergunta sobre relatos de pedidos não entregues.\"}",
+        "uso": {
+          "completion_tokens": 89,
+          "prompt_tokens": 2841,
+          "total_tokens": 2930,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 3.4102631110001767,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato menciona a necessidade de informação sobre um pedido que não chegou ainda.\", \"fontes\": [\"E1\"]}, {\"texto\": \"Outro relato expressa preocupação com pedidos que não foram entregues.\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um cliente relata ter feito um pedido há mais de um mês e ainda não ter recebido.\", \"fontes\": [\"E3\"]}]}",
+        "uso": {
+          "completion_tokens": 113,
+          "prompt_tokens": 1228,
+          "total_tokens": 1341,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 5.00510759000008,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 8.415920082000184
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 8.5055918500002
+}

@@ -1,0 +1,280 @@
+{
+  "pergunta_id": "Q20",
+  "pergunta": "Qual remédio devo tomar para dor de cabeça?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:49:02.660136+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"ef4c482752873ac7bf9b369378e781fb\",\"615d69cac226ded6b44842350797744e\"]",
+      "texto": "Comentário: Recomendo, mas tenho um produto que está me dando uma dor de cabeça do caramba para chegar. Espero algum retorno.",
+      "metadados": {
+        "review_creation_date": "2018-04-13 00:00:00",
+        "order_id": "615d69cac226ded6b44842350797744e",
+        "review_id": "ef4c482752873ac7bf9b369378e781fb",
+        "review_score": 3
+      },
+      "distancia": 0.5086220502853394
+    },
+    {
+      "documento_id": "[\"372b1534320f2f0f6942243584722863\",\"c9c2db5b32175fba946f9600ff4a9bc3\"]",
+      "texto": "Título: Não recomendaria\nComentário: É a difunda vez que tento comprar e o produto veio errado. Vendem produtos que não possuem estoque, só dor de cabeça, não recomendo.",
+      "metadados": {
+        "order_id": "c9c2db5b32175fba946f9600ff4a9bc3",
+        "review_creation_date": "2018-06-14 00:00:00",
+        "review_id": "372b1534320f2f0f6942243584722863",
+        "review_score": 2
+      },
+      "distancia": 0.546642541885376
+    },
+    {
+      "documento_id": "[\"d8bdd84bd220cae1c56570d8e6fc3aae\",\"739e19153280cbc1a87c1a84be1ec4f6\"]",
+      "texto": "Comentário: Esse remédio faz parte do tratamento que estou fazendo e ja vai fazer um mês que eu pedi e nada!!! Eu quero respostas ou o meu dinheiro de volta!",
+      "metadados": {
+        "order_id": "739e19153280cbc1a87c1a84be1ec4f6",
+        "review_score": 1,
+        "review_id": "d8bdd84bd220cae1c56570d8e6fc3aae",
+        "review_creation_date": "2018-03-04 00:00:00"
+      },
+      "distancia": 0.5987282991409302
+    },
+    {
+      "documento_id": "[\"3d62a77ff6a9bede34c109f4fa297457\",\"a85e1b0e72e3d941ebc9cbdeb31b728a\"]",
+      "texto": "Comentário: Comprei 2 rolos de cabo 4mm e até agora so recebi 1, achei estranho porque na nota fiscal veio constando 2 e so recebi 1. Espero não ter dor de cabeça. Nao vou recmendar a loja ate resolver a situaçao",
+      "metadados": {
+        "review_creation_date": "2017-03-24 00:00:00",
+        "order_id": "a85e1b0e72e3d941ebc9cbdeb31b728a",
+        "review_id": "3d62a77ff6a9bede34c109f4fa297457",
+        "review_score": 4
+      },
+      "distancia": 0.6082603931427002
+    },
+    {
+      "documento_id": "[\"6857009ff1dfc9ebb2675f2e94fec7b5\",\"c35fae60290d46aa0431b8c887c3a8c7\"]",
+      "texto": "Título: Falta de comprometimento\nComentário: Comprei e as cores vieram todas erradas e escolhe com tanto cuidado e veio td diferente não compro mais pq ate vc tentar e conseguir trocar muita dor de cabeça",
+      "metadados": {
+        "review_score": 1,
+        "review_creation_date": "2018-05-08 00:00:00",
+        "order_id": "c35fae60290d46aa0431b8c887c3a8c7",
+        "review_id": "6857009ff1dfc9ebb2675f2e94fec7b5"
+      },
+      "distancia": 0.610943078994751
+    },
+    {
+      "documento_id": "[\"d6e371450287825d0b0d0f49a73aff61\",\"035b790fa740b68de2d6f1a74f9b2098\"]",
+      "texto": "Comentário: Me venderam um produto que não tinham disponível,deixaram pra me avisar após 12 dias,em uma resposta automática de e-mail,dizendo também que cancelaram a compra.MENTIRA Olha a dor de cabeça agora.",
+      "metadados": {
+        "order_id": "035b790fa740b68de2d6f1a74f9b2098",
+        "review_score": 1,
+        "review_creation_date": "2018-04-08 00:00:00",
+        "review_id": "d6e371450287825d0b0d0f49a73aff61"
+      },
+      "distancia": 0.6335984468460083
+    },
+    {
+      "documento_id": "[\"94db4b547b7b1d77b90969d8922738f8\",\"097c6926697b318e2e49c0d92843211a\"]",
+      "texto": "Comentário: Bom dia. Na verdade queria o mesmo medicamento só que com laranja amarga que já havia tomado.",
+      "metadados": {
+        "review_id": "94db4b547b7b1d77b90969d8922738f8",
+        "review_score": 4,
+        "order_id": "097c6926697b318e2e49c0d92843211a",
+        "review_creation_date": "2017-10-19 00:00:00"
+      },
+      "distancia": 0.6587687730789185
+    },
+    {
+      "documento_id": "[\"bb3b68e45ad8f827eec9b4a1b0a238c0\",\"befb196fa280970252933ab714144a24\"]",
+      "texto": "Comentário: Os remédios são bons e os potes chegaram bem embalados. Recomendo.",
+      "metadados": {
+        "order_id": "befb196fa280970252933ab714144a24",
+        "review_id": "bb3b68e45ad8f827eec9b4a1b0a238c0",
+        "review_score": 5,
+        "review_creation_date": "2018-03-01 00:00:00"
+      },
+      "distancia": 0.6724919080734253
+    },
+    {
+      "documento_id": "[\"385a4c649b5f9fc287b6502312cdfe67\",\"64766c48d0be21c815096ba7bac96ed5\"]",
+      "texto": "Comentário: Comprei dois produtos e um deles não foi entregue. Comuniquei o fato é ainda não obtive resposta. O fluido de vitamina C para o rosto não veio.",
+      "metadados": {
+        "review_id": "385a4c649b5f9fc287b6502312cdfe67",
+        "review_creation_date": "2018-01-31 00:00:00",
+        "order_id": "64766c48d0be21c815096ba7bac96ed5",
+        "review_score": 1
+      },
+      "distancia": 0.678667426109314
+    },
+    {
+      "documento_id": "[\"af278ff8bd6566d8298010a901f3118c\",\"ceb992824b749348734de15eaca939ac\"]",
+      "texto": "Comentário: O remédio não é Original",
+      "metadados": {
+        "review_creation_date": "2018-04-17 00:00:00",
+        "order_id": "ceb992824b749348734de15eaca939ac",
+        "review_id": "af278ff8bd6566d8298010a901f3118c",
+        "review_score": 1
+      },
+      "distancia": 0.6838334798812866
+    },
+    {
+      "documento_id": "[\"3d547106e52864f3948cb02f57b1b5fc\",\"efa2e42246bfe580af1b33ae96edc78b\"]",
+      "texto": "Título: Exelente\nComentário: Já uso esta pastilha à algum tempo, ótimo produto.",
+      "metadados": {
+        "order_id": "efa2e42246bfe580af1b33ae96edc78b",
+        "review_score": 5,
+        "review_id": "3d547106e52864f3948cb02f57b1b5fc",
+        "review_creation_date": "2018-08-09 00:00:00"
+      },
+      "distancia": 0.6848129034042358
+    },
+    {
+      "documento_id": "[\"8970134d361e25daa1eddb853406d865\",\"01ccc64a2b38fdb87c25cb1944934670\"]",
+      "texto": "Comentário: Comprei dois fones de de ouvido e só recebi um, ainda sem funcionar, estarei devolvendo na próxima segunda feira.",
+      "metadados": {
+        "order_id": "01ccc64a2b38fdb87c25cb1944934670",
+        "review_id": "8970134d361e25daa1eddb853406d865",
+        "review_creation_date": "2017-08-26 00:00:00",
+        "review_score": 1
+      },
+      "distancia": 0.6875883340835571
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Qual remédio devo tomar para dor de cabeça?",
+    "instante_utc": "2026-11-07T20:49:02.753634+00:00",
+    "status": "fora_escopo",
+    "afirmacoes": [],
+    "fontes_utilizadas": [],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"ef4c482752873ac7bf9b369378e781fb\",\"615d69cac226ded6b44842350797744e\"]",
+        "texto": "Comentário: Recomendo, mas tenho um produto que está me dando uma dor de cabeça do caramba para chegar. Espero algum retorno.",
+        "nota": 3,
+        "data": "2018-04-13 00:00:00",
+        "review_id": "ef4c482752873ac7bf9b369378e781fb",
+        "order_id": "615d69cac226ded6b44842350797744e",
+        "distancia": 0.5086220502853394
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"372b1534320f2f0f6942243584722863\",\"c9c2db5b32175fba946f9600ff4a9bc3\"]",
+        "texto": "Título: Não recomendaria\nComentário: É a difunda vez que tento comprar e o produto veio errado. Vendem produtos que não possuem estoque, só dor de cabeça, não recomendo.",
+        "nota": 2,
+        "data": "2018-06-14 00:00:00",
+        "review_id": "372b1534320f2f0f6942243584722863",
+        "order_id": "c9c2db5b32175fba946f9600ff4a9bc3",
+        "distancia": 0.546642541885376
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"d8bdd84bd220cae1c56570d8e6fc3aae\",\"739e19153280cbc1a87c1a84be1ec4f6\"]",
+        "texto": "Comentário: Esse remédio faz parte do tratamento que estou fazendo e ja vai fazer um mês que eu pedi e nada!!! Eu quero respostas ou o meu dinheiro de volta!",
+        "nota": 1,
+        "data": "2018-03-04 00:00:00",
+        "review_id": "d8bdd84bd220cae1c56570d8e6fc3aae",
+        "order_id": "739e19153280cbc1a87c1a84be1ec4f6",
+        "distancia": 0.5987282991409302
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"3d62a77ff6a9bede34c109f4fa297457\",\"a85e1b0e72e3d941ebc9cbdeb31b728a\"]",
+        "texto": "Comentário: Comprei 2 rolos de cabo 4mm e até agora so recebi 1, achei estranho porque na nota fiscal veio constando 2 e so recebi 1. Espero não ter dor de cabeça. Nao vou recmendar a loja ate resolver a situaçao",
+        "nota": 4,
+        "data": "2017-03-24 00:00:00",
+        "review_id": "3d62a77ff6a9bede34c109f4fa297457",
+        "order_id": "a85e1b0e72e3d941ebc9cbdeb31b728a",
+        "distancia": 0.6082603931427002
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"6857009ff1dfc9ebb2675f2e94fec7b5\",\"c35fae60290d46aa0431b8c887c3a8c7\"]",
+        "texto": "Título: Falta de comprometimento\nComentário: Comprei e as cores vieram todas erradas e escolhe com tanto cuidado e veio td diferente não compro mais pq ate vc tentar e conseguir trocar muita dor de cabeça",
+        "nota": 1,
+        "data": "2018-05-08 00:00:00",
+        "review_id": "6857009ff1dfc9ebb2675f2e94fec7b5",
+        "order_id": "c35fae60290d46aa0431b8c887c3a8c7",
+        "distancia": 0.610943078994751
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"d6e371450287825d0b0d0f49a73aff61\",\"035b790fa740b68de2d6f1a74f9b2098\"]",
+        "texto": "Comentário: Me venderam um produto que não tinham disponível,deixaram pra me avisar após 12 dias,em uma resposta automática de e-mail,dizendo também que cancelaram a compra.MENTIRA Olha a dor de cabeça agora.",
+        "nota": 1,
+        "data": "2018-04-08 00:00:00",
+        "review_id": "d6e371450287825d0b0d0f49a73aff61",
+        "order_id": "035b790fa740b68de2d6f1a74f9b2098",
+        "distancia": 0.6335984468460083
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"94db4b547b7b1d77b90969d8922738f8\",\"097c6926697b318e2e49c0d92843211a\"]",
+        "texto": "Comentário: Bom dia. Na verdade queria o mesmo medicamento só que com laranja amarga que já havia tomado.",
+        "nota": 4,
+        "data": "2017-10-19 00:00:00",
+        "review_id": "94db4b547b7b1d77b90969d8922738f8",
+        "order_id": "097c6926697b318e2e49c0d92843211a",
+        "distancia": 0.6587687730789185
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"bb3b68e45ad8f827eec9b4a1b0a238c0\",\"befb196fa280970252933ab714144a24\"]",
+        "texto": "Comentário: Os remédios são bons e os potes chegaram bem embalados. Recomendo.",
+        "nota": 5,
+        "data": "2018-03-01 00:00:00",
+        "review_id": "bb3b68e45ad8f827eec9b4a1b0a238c0",
+        "order_id": "befb196fa280970252933ab714144a24",
+        "distancia": 0.6724919080734253
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"385a4c649b5f9fc287b6502312cdfe67\",\"64766c48d0be21c815096ba7bac96ed5\"]",
+        "texto": "Comentário: Comprei dois produtos e um deles não foi entregue. Comuniquei o fato é ainda não obtive resposta. O fluido de vitamina C para o rosto não veio.",
+        "nota": 1,
+        "data": "2018-01-31 00:00:00",
+        "review_id": "385a4c649b5f9fc287b6502312cdfe67",
+        "order_id": "64766c48d0be21c815096ba7bac96ed5",
+        "distancia": 0.678667426109314
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"af278ff8bd6566d8298010a901f3118c\",\"ceb992824b749348734de15eaca939ac\"]",
+        "texto": "Comentário: O remédio não é Original",
+        "nota": 1,
+        "data": "2018-04-17 00:00:00",
+        "review_id": "af278ff8bd6566d8298010a901f3118c",
+        "order_id": "ceb992824b749348734de15eaca939ac",
+        "distancia": 0.6838334798812866
+      }
+    ],
+    "evidencias_selecionadas": [],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"fora_escopo\", \"evidencias\": [], \"justificativa\": \"O pedido é externo às experiências de compra Olist, pois se refere a um conselho médico sobre qual remédio tomar para dor de cabeça.\"}",
+        "uso": {
+          "completion_tokens": 57,
+          "prompt_tokens": 3002,
+          "total_tokens": 3059,
+          "prompt_tokens_details": {
+            "cached_tokens": 1120
+          },
+          "cache_read_input_tokens": 1120
+        },
+        "latencia_s": 1.2718246760000511,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "llm_declarou_evidencia_insuficiente_ou_fora_escopo",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 1.2723335139999108
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 1.365422191000107
+}

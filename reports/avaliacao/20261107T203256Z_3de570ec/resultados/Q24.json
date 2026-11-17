@@ -1,0 +1,280 @@
+{
+  "pergunta_id": "Q24",
+  "pergunta": "Qual transportadora teve a maior taxa de atrasos em toda a base?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:51:49.549889+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"e7b23b015000d93205923171b39862d9\",\"979f8ea562e84d3ed962b250fc08976f\"]",
+      "texto": "Comentário: entregas via transportadora muito demorada",
+      "metadados": {
+        "review_score": 4,
+        "order_id": "979f8ea562e84d3ed962b250fc08976f",
+        "review_id": "e7b23b015000d93205923171b39862d9",
+        "review_creation_date": "2017-06-29 00:00:00"
+      },
+      "distancia": 0.35289376974105835
+    },
+    {
+      "documento_id": "[\"7fb6f98f7823ed02e9a3791a1557851e\",\"5691108060e2d41f29c317bb5f4d70ab\"]",
+      "texto": "Comentário: Houve problema no transporte e em consequência disso um grande atraso. Mas foi a primeira vez que ocorreu. Os produtos sempre são entregues antes do prazo.",
+      "metadados": {
+        "order_id": "5691108060e2d41f29c317bb5f4d70ab",
+        "review_score": 5,
+        "review_creation_date": "2018-03-08 00:00:00",
+        "review_id": "7fb6f98f7823ed02e9a3791a1557851e"
+      },
+      "distancia": 0.3605806231498718
+    },
+    {
+      "documento_id": "[\"0ec4b5c91e28e5b94840c2f6facc17f4\",\"2e34c4ee86e4ace97b31109afa1f2bb0\"]",
+      "texto": "Comentário: Foi entregue antes do prazo mesmo com a paralização dos caminhoneiros",
+      "metadados": {
+        "review_creation_date": "2018-05-29 00:00:00",
+        "review_score": 4,
+        "order_id": "2e34c4ee86e4ace97b31109afa1f2bb0",
+        "review_id": "0ec4b5c91e28e5b94840c2f6facc17f4"
+      },
+      "distancia": 0.39064621925354004
+    },
+    {
+      "documento_id": "[\"82dbb86cd473f9145976711279d2ad95\",\"a14990206b64de40d5aa9e4a235bcc64\"]",
+      "texto": "Comentário: Super enrolado.. transporte desatualizado, e fora do prazo. Mais de 30 dias esperando .",
+      "metadados": {
+        "review_id": "82dbb86cd473f9145976711279d2ad95",
+        "review_creation_date": "2017-12-20 00:00:00",
+        "review_score": 2,
+        "order_id": "a14990206b64de40d5aa9e4a235bcc64"
+      },
+      "distancia": 0.3941240906715393
+    },
+    {
+      "documento_id": "[\"d96d6316e6830be91bffda6c7b103de0\",\"911cd0cf037580ad6a00dfd5690bda12\"]",
+      "texto": "Comentário: Só acho que se fosse entregue através de transportadora seria mais rápido",
+      "metadados": {
+        "order_id": "911cd0cf037580ad6a00dfd5690bda12",
+        "review_id": "d96d6316e6830be91bffda6c7b103de0",
+        "review_creation_date": "2017-04-13 00:00:00",
+        "review_score": 5
+      },
+      "distancia": 0.4098120927810669
+    },
+    {
+      "documento_id": "[\"08a86da22498172adb6cefaa99fdfaf7\",\"3c0f91a7a3493bb46260f52f2e6ab61a\"]",
+      "texto": "Comentário: Prazo de entrega gigante e mesmo assim conseguiram atrasar a entrega.",
+      "metadados": {
+        "order_id": "3c0f91a7a3493bb46260f52f2e6ab61a",
+        "review_creation_date": "2018-03-28 00:00:00",
+        "review_id": "08a86da22498172adb6cefaa99fdfaf7",
+        "review_score": 1
+      },
+      "distancia": 0.41948580741882324
+    },
+    {
+      "documento_id": "[\"08a86da22498172adb6cefaa99fdfaf7\",\"c775dea8bfab02a285d4d3b9f247808d\"]",
+      "texto": "Comentário: Prazo de entrega gigante e mesmo assim conseguiram atrasar a entrega.",
+      "metadados": {
+        "review_score": 1,
+        "review_id": "08a86da22498172adb6cefaa99fdfaf7",
+        "review_creation_date": "2018-03-28 00:00:00",
+        "order_id": "c775dea8bfab02a285d4d3b9f247808d"
+      },
+      "distancia": 0.41948580741882324
+    },
+    {
+      "documento_id": "[\"4aadd830f69552d605e52eca8b9d2a87\",\"89ed06112208a473f65e0f9f40fc5af5\"]",
+      "texto": "Comentário: O atraso na entrega foi dos Correios, conforme rastreamento feito.",
+      "metadados": {
+        "review_id": "4aadd830f69552d605e52eca8b9d2a87",
+        "review_score": 5,
+        "review_creation_date": "2018-01-27 00:00:00",
+        "order_id": "89ed06112208a473f65e0f9f40fc5af5"
+      },
+      "distancia": 0.42489558458328247
+    },
+    {
+      "documento_id": "[\"679d4fe5103e0d403c091c9dbb3b5a12\",\"cf6d45bae6017043952a20f3457379fd\"]",
+      "texto": "Comentário: Boa tarde, o produto demorou a chegar. Se vocês enviassem via transportadora particular cumpririam o prazo, uma vez que os Correios está uma bagunça.",
+      "metadados": {
+        "review_creation_date": "2017-05-07 00:00:00",
+        "review_id": "679d4fe5103e0d403c091c9dbb3b5a12",
+        "review_score": 2,
+        "order_id": "cf6d45bae6017043952a20f3457379fd"
+      },
+      "distancia": 0.4281560778617859
+    },
+    {
+      "documento_id": "[\"a26afad18557f639bf49781bce978798\",\"768351bcdb7630b77da379eb5a54e9b3\"]",
+      "texto": "Comentário: Único problema foi o atraso, mas ai o problema foi com os Correios...",
+      "metadados": {
+        "review_score": 4,
+        "review_creation_date": "2017-04-08 00:00:00",
+        "order_id": "768351bcdb7630b77da379eb5a54e9b3",
+        "review_id": "a26afad18557f639bf49781bce978798"
+      },
+      "distancia": 0.43166130781173706
+    },
+    {
+      "documento_id": "[\"0aa7152d13873e28191bf7f13266c398\",\"c67741bd4d11de0a38dd4b3947612f70\"]",
+      "texto": "Comentário: Gostei muito pelo comprimento do tempo de entrega,bem rapido Estão de parabens",
+      "metadados": {
+        "review_id": "0aa7152d13873e28191bf7f13266c398",
+        "review_creation_date": "2018-04-11 00:00:00",
+        "review_score": 5,
+        "order_id": "c67741bd4d11de0a38dd4b3947612f70"
+      },
+      "distancia": 0.43711984157562256
+    },
+    {
+      "documento_id": "[\"c40ac9052280bd0ef25f33876f68797d\",\"bac84a37ff8746de71d3ba5a6aadecdd\"]",
+      "texto": "Comentário: Muito ruim a demora na entrega. Se fosse por transportadora seria mesmo valor e muito mais rápido a entrega.",
+      "metadados": {
+        "review_creation_date": "2018-02-16 00:00:00",
+        "review_id": "c40ac9052280bd0ef25f33876f68797d",
+        "order_id": "bac84a37ff8746de71d3ba5a6aadecdd",
+        "review_score": 2
+      },
+      "distancia": 0.44689953327178955
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Qual transportadora teve a maior taxa de atrasos em toda a base?",
+    "instante_utc": "2026-11-07T20:51:49.697967+00:00",
+    "status": "evidencias_insuficientes",
+    "afirmacoes": [],
+    "fontes_utilizadas": [],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"e7b23b015000d93205923171b39862d9\",\"979f8ea562e84d3ed962b250fc08976f\"]",
+        "texto": "Comentário: entregas via transportadora muito demorada",
+        "nota": 4,
+        "data": "2017-06-29 00:00:00",
+        "review_id": "e7b23b015000d93205923171b39862d9",
+        "order_id": "979f8ea562e84d3ed962b250fc08976f",
+        "distancia": 0.35289376974105835
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"7fb6f98f7823ed02e9a3791a1557851e\",\"5691108060e2d41f29c317bb5f4d70ab\"]",
+        "texto": "Comentário: Houve problema no transporte e em consequência disso um grande atraso. Mas foi a primeira vez que ocorreu. Os produtos sempre são entregues antes do prazo.",
+        "nota": 5,
+        "data": "2018-03-08 00:00:00",
+        "review_id": "7fb6f98f7823ed02e9a3791a1557851e",
+        "order_id": "5691108060e2d41f29c317bb5f4d70ab",
+        "distancia": 0.3605806231498718
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"0ec4b5c91e28e5b94840c2f6facc17f4\",\"2e34c4ee86e4ace97b31109afa1f2bb0\"]",
+        "texto": "Comentário: Foi entregue antes do prazo mesmo com a paralização dos caminhoneiros",
+        "nota": 4,
+        "data": "2018-05-29 00:00:00",
+        "review_id": "0ec4b5c91e28e5b94840c2f6facc17f4",
+        "order_id": "2e34c4ee86e4ace97b31109afa1f2bb0",
+        "distancia": 0.39064621925354004
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"82dbb86cd473f9145976711279d2ad95\",\"a14990206b64de40d5aa9e4a235bcc64\"]",
+        "texto": "Comentário: Super enrolado.. transporte desatualizado, e fora do prazo. Mais de 30 dias esperando .",
+        "nota": 2,
+        "data": "2017-12-20 00:00:00",
+        "review_id": "82dbb86cd473f9145976711279d2ad95",
+        "order_id": "a14990206b64de40d5aa9e4a235bcc64",
+        "distancia": 0.3941240906715393
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"d96d6316e6830be91bffda6c7b103de0\",\"911cd0cf037580ad6a00dfd5690bda12\"]",
+        "texto": "Comentário: Só acho que se fosse entregue através de transportadora seria mais rápido",
+        "nota": 5,
+        "data": "2017-04-13 00:00:00",
+        "review_id": "d96d6316e6830be91bffda6c7b103de0",
+        "order_id": "911cd0cf037580ad6a00dfd5690bda12",
+        "distancia": 0.4098120927810669
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"08a86da22498172adb6cefaa99fdfaf7\",\"3c0f91a7a3493bb46260f52f2e6ab61a\"]",
+        "texto": "Comentário: Prazo de entrega gigante e mesmo assim conseguiram atrasar a entrega.",
+        "nota": 1,
+        "data": "2018-03-28 00:00:00",
+        "review_id": "08a86da22498172adb6cefaa99fdfaf7",
+        "order_id": "3c0f91a7a3493bb46260f52f2e6ab61a",
+        "distancia": 0.41948580741882324
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"4aadd830f69552d605e52eca8b9d2a87\",\"89ed06112208a473f65e0f9f40fc5af5\"]",
+        "texto": "Comentário: O atraso na entrega foi dos Correios, conforme rastreamento feito.",
+        "nota": 5,
+        "data": "2018-01-27 00:00:00",
+        "review_id": "4aadd830f69552d605e52eca8b9d2a87",
+        "order_id": "89ed06112208a473f65e0f9f40fc5af5",
+        "distancia": 0.42489558458328247
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"679d4fe5103e0d403c091c9dbb3b5a12\",\"cf6d45bae6017043952a20f3457379fd\"]",
+        "texto": "Comentário: Boa tarde, o produto demorou a chegar. Se vocês enviassem via transportadora particular cumpririam o prazo, uma vez que os Correios está uma bagunça.",
+        "nota": 2,
+        "data": "2017-05-07 00:00:00",
+        "review_id": "679d4fe5103e0d403c091c9dbb3b5a12",
+        "order_id": "cf6d45bae6017043952a20f3457379fd",
+        "distancia": 0.4281560778617859
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"a26afad18557f639bf49781bce978798\",\"768351bcdb7630b77da379eb5a54e9b3\"]",
+        "texto": "Comentário: Único problema foi o atraso, mas ai o problema foi com os Correios...",
+        "nota": 4,
+        "data": "2017-04-08 00:00:00",
+        "review_id": "a26afad18557f639bf49781bce978798",
+        "order_id": "768351bcdb7630b77da379eb5a54e9b3",
+        "distancia": 0.43166130781173706
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"0aa7152d13873e28191bf7f13266c398\",\"c67741bd4d11de0a38dd4b3947612f70\"]",
+        "texto": "Comentário: Gostei muito pelo comprimento do tempo de entrega,bem rapido Estão de parabens",
+        "nota": 5,
+        "data": "2018-04-11 00:00:00",
+        "review_id": "0aa7152d13873e28191bf7f13266c398",
+        "order_id": "c67741bd4d11de0a38dd4b3947612f70",
+        "distancia": 0.43711984157562256
+      }
+    ],
+    "evidencias_selecionadas": [],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"evidencias_insuficientes\", \"evidencias\": [], \"justificativa\": \"O pedido exige informação ou agregação indisponível, como a taxa de atrasos de todas as transportadoras em toda a base, o que não pode ser calculado com os relatos disponíveis.\"}",
+        "uso": {
+          "completion_tokens": 70,
+          "prompt_tokens": 2865,
+          "total_tokens": 2935,
+          "prompt_tokens_details": {
+            "cached_tokens": 1120
+          },
+          "cache_read_input_tokens": 1120
+        },
+        "latencia_s": 1.3288000909997209,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "llm_declarou_evidencia_insuficiente_ou_fora_escopo",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 1.3292950129998644
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 1.4770080220000636
+}

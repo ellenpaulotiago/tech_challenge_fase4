@@ -1,0 +1,166 @@
+{
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Qual é a previsão do tempo para amanhã em Guarulhos?",
+    "instante_utc": "2026-11-07T19:47:06.407323+00:00",
+    "status": "fora_escopo",
+    "afirmacoes": [],
+    "fontes_utilizadas": [],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"08a2e8a8cfeac9ae41908e995bea7fac\",\"4e64db31eb34a4e6c86235fedead69eb\"]",
+        "texto": "Comentário: Entrega estava prevista para dia 05/09 e chegou dia 24/08, super rápido!",
+        "nota": 5,
+        "data": "2017-08-25 00:00:00",
+        "review_id": "08a2e8a8cfeac9ae41908e995bea7fac",
+        "order_id": "4e64db31eb34a4e6c86235fedead69eb",
+        "distancia": 0.4639880657196045
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"2944825b321b917a2a79bb809f37f220\",\"a41222506c789f70f25201004288819a\"]",
+        "texto": "Título: excelente\nComentário: Pedi em24/07/2018, A previsão era até o dia 24.08.18 e recebi 27.08.18 muito rápido adorei .",
+        "nota": 5,
+        "data": "2018-07-31 00:00:00",
+        "review_id": "2944825b321b917a2a79bb809f37f220",
+        "order_id": "a41222506c789f70f25201004288819a",
+        "distancia": 0.4919562339782715
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"f06979626ccd3e4540c43c7bccddbaf6\",\"c9db7e953006c9303b92dea9d91878bc\"]",
+        "texto": "Comentário: Meu pedido foi solicitado no dia (30/11) e a previsão de chegada era até dia (26/12) porém ontem dia (15/12) no início da tarde meu produto chegou. Tudo correto!",
+        "nota": 5,
+        "data": "2017-12-16 00:00:00",
+        "review_id": "f06979626ccd3e4540c43c7bccddbaf6",
+        "order_id": "c9db7e953006c9303b92dea9d91878bc",
+        "distancia": 0.5016554594039917
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"55c44c57acb1e65a082ab9bb135ce003\",\"c52b0e0ae184fb645004980db2d194a1\"]",
+        "texto": "Comentário: Previsão estava para 20/12/2017 e ainda não chegou.",
+        "nota": 1,
+        "data": "2017-12-21 00:00:00",
+        "review_id": "55c44c57acb1e65a082ab9bb135ce003",
+        "order_id": "c52b0e0ae184fb645004980db2d194a1",
+        "distancia": 0.501788318157196
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"b6728b37c38513f1a99648ab2edafbed\",\"9d0e0cc4232165056ade2cc2d2bae530\"]",
+        "texto": "Comentário: Lindas!!! ... Porém mantém a temperatura por menos tempo do que o informado.",
+        "nota": 3,
+        "data": "2018-03-07 00:00:00",
+        "review_id": "b6728b37c38513f1a99648ab2edafbed",
+        "order_id": "9d0e0cc4232165056ade2cc2d2bae530",
+        "distancia": 0.5069875717163086
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"8e6f02618c5b1df02e9e7a5d3be918cf\",\"52324f390c9414a6c6b4a2f1b24964b4\"]",
+        "texto": "Comentário: Recebi muitos dias antes da previsão. Recomendo!",
+        "nota": 5,
+        "data": "2017-08-12 00:00:00",
+        "review_id": "8e6f02618c5b1df02e9e7a5d3be918cf",
+        "order_id": "52324f390c9414a6c6b4a2f1b24964b4",
+        "distancia": 0.507876455783844
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"85bcb52739a9714716fd164676fb3acc\",\"8b2ceb139bb51537042aac7481130f5f\"]",
+        "texto": "Comentário: Fantástico. Muito rápido. Previsão de chegar em 08/02. Chegou em 29/01",
+        "nota": 5,
+        "data": "2018-01-30 00:00:00",
+        "review_id": "85bcb52739a9714716fd164676fb3acc",
+        "order_id": "8b2ceb139bb51537042aac7481130f5f",
+        "distancia": 0.5148911476135254
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"a9371e81a0373b7fcda348b5e5ac7f88\",\"589a75d918fe423a0cef1540688e2705\"]",
+        "texto": "Comentário: Ótima Entrega , super rápido chegando antes do prazo previsto 😉😉",
+        "nota": 5,
+        "data": "2018-03-02 00:00:00",
+        "review_id": "a9371e81a0373b7fcda348b5e5ac7f88",
+        "order_id": "589a75d918fe423a0cef1540688e2705",
+        "distancia": 0.524880588054657
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"aa580c644063e1c7ef1616937aa1c740\",\"86dc88ddd65ce09259b6fa9817363312\"]",
+        "texto": "Comentário: Está programado para o próximo dia útil",
+        "nota": 1,
+        "data": "2017-06-18 00:00:00",
+        "review_id": "aa580c644063e1c7ef1616937aa1c740",
+        "order_id": "86dc88ddd65ce09259b6fa9817363312",
+        "distancia": 0.5264307260513306
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"48df825d3e1d18c88951706e5860692f\",\"64ba433f9d86e1df4e9cb86b1a3884d1\"]",
+        "texto": "Comentário: Recebemos quase 1 mês antes da previsão , produto muito em conta! !! Recomendo!!!",
+        "nota": 4,
+        "data": "2017-02-08 00:00:00",
+        "review_id": "48df825d3e1d18c88951706e5860692f",
+        "order_id": "64ba433f9d86e1df4e9cb86b1a3884d1",
+        "distancia": 0.5275765657424927
+      }
+    ],
+    "evidencias_selecionadas": [],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"fora_escopo\", \"evidencias\": [], \"justificativa\": \"O pedido é externo às experiências de compra Olist, pois se refere à previsão do tempo em Guarulhos.\"}",
+        "uso": {
+          "completion_tokens": 50,
+          "prompt_tokens": 2876,
+          "total_tokens": 2926,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 6.934967725000206,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "llm_declarou_evidencia_insuficiente_ou_fora_escopo",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 7.040137553000022
+  },
+  "llm": {
+    "endpoint": "databricks-meta-llama-3-3-70b-instruct",
+    "modelo_versao_informada": "Meta Llama 3.3 70B Instruct; endpoint gerenciado Databricks",
+    "provedor": "databricks_model_serving",
+    "fixacao_imutavel_modelo": false,
+    "observacao": "Identificação informada pelo usuário; endpoint pode ser atualizado pelo provedor.",
+    "temperatura": 0.0,
+    "max_tokens_por_chamada": 1400,
+    "timeout_s": 300,
+    "custo_observacao": "Inferência Databricks: consultar preço e faturamento do modelo escolhido."
+  },
+  "hash_base_jsonl_npy": "a5ed17eb2a175bf8313f0222435f218a332abf719a117d0a95b594b0a5c1d381",
+  "ambiente": {
+    "sentence-transformers": "5.1.0",
+    "chromadb": "1.0.20",
+    "databricks-sdk": "0.122.0",
+    "numpy": "2.3.4",
+    "pandas": "2.3.3"
+  },
+  "modelo_embeddings": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "config_recuperacao": {
+    "quantidade": 12,
+    "max_documentos_contexto": 10,
+    "max_caracteres_contexto": 12000
+  },
+  "hash_modulo_busca": "c15c8793091ac6ca8faf36480dbe718cd36dbf866c5e47bd726a927bee328d5f"
+}
