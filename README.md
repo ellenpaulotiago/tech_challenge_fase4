@@ -86,7 +86,7 @@ Para evitar alucinações e garantir a confiabilidade do sistema:
 
 ---
 
-### Olist RAG — Tech Challenge Fase 4
+### 4. Olist RAG — Tech Challenge Fase 4
 O projeto responde, em português, a perguntas sobre experiências de compra registradas nas avaliações do  **Olist Brazilian E-Commerce** . A busca vetorial recupera comentários da base; o modelo de linguagem seleciona as evidências e gera afirmações com fontes. Se a pergunta for externa ao domínio ou exigir dados que os relatos recuperados não fornecem, o sistema se abstém.
 Na rodada de  **7 de novembro de 2026** , o pipeline no Databricks executou  **24 de 24 perguntas** , acertou os  **24 status esperados**  e produziu  **13 respostas completas entre as 16 geradas** .
 #### Ambiente e arquivos
