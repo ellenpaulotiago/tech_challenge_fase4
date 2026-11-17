@@ -202,7 +202,7 @@ Os três registros do Notebook 04, em reports/notebook04/, são:
 | Q21 | consulta_013e652c40c54d08bf6c83d91dfd5fa6.json |
 
 ## 5. Diretório do Projeto
-
+```text
 tech-challenge-fase4/
 ├── README.md
 ├── requirements.txt
@@ -283,5 +283,6 @@ tech-challenge-fase4/
             │
             └── resultados/
                 └── [JSONs individuais das 24 perguntas]
+```
 
 Feche a demonstração no resumo_avaliacao.md da rodada do Notebook 05. Mostre os  **24 status corretos** , as  **oito abstenções corretas**  e a diferença entre resposta sustentada e resposta completa, usando a Q10 como exemplo.
