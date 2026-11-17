@@ -1,0 +1,89 @@
+# Tech Challenge Fase 4 - Olist RAG
+# Renomear para .gitignore e salvar na raiz do repositorio.
+# Mantem notebooks, src, docs e evidencias pequenas em reports.
+# Arquivos ja rastreados pelo Git nao sao removidos por estas regras.
+
+# Dados completos no S3/Volume; preservar documentacao e marcadores.
+/data/raw/**
+!/data/raw/**/
+!/data/raw/**/README.md
+!/data/raw/**/.gitkeep
+/data/processed/**
+!/data/processed/**/
+!/data/processed/**/README.md
+!/data/processed/**/.gitkeep
+/data/interim/**
+!/data/interim/**/
+!/data/interim/**/README.md
+!/data/interim/**/.gitkeep
+
+# Embeddings, pesos e indices locais reconstruiveis.
+*.npy
+*.npz
+*.safetensors
+*.gguf
+*.pt
+*.pth
+*.onnx
+chroma/
+chroma_db/
+.chroma/
+vector_store/
+.huggingface/
+.ollama/
+chroma.sqlite3
+chroma.sqlite3-*
+
+# Python, ambientes virtuais e empacotamento.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Caches de notebooks, ferramentas e testes.
+.ipynb_checkpoints/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Configuracoes e credenciais locais.
+.env
+.env.*
+!.env.example
+!.env.template
+.databrickscfg
+.databricks/
+.aws/
+credentials.json
+service_account.json
+service-account*.json
+*.pem
+*.key
+
+# Temporarios e logs.
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+~$*
+/tmp/
+/temp/
+
+# Arquivos do sistema operacional.
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Nao ignorar globalmente *.csv, *.json, *.md ou *.ipynb.
+# reports/ contem plano, manifesto, revisoes, metricas e demonstracoes.

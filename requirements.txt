@@ -1,0 +1,41 @@
+# Tech Challenge Fase 4 - Olist RAG
+# Referencia: rodada Databricks 20261107T203256Z_3de570ec.
+# Ambiente: Standard v6, Python 3.12, CPU.
+#
+# %pip install -r requirements.txt
+# Em outra celula:
+# dbutils.library.restartPython()
+# %pip check
+#
+# Nao usar --upgrade. Instalar antes dos imports e da configuracao.
+# O Databricks fornece PySpark, dbutils e autenticacao do workspace.
+# Este arquivo fixa as dependencias diretas e protecoes conhecidas;
+# nao e um lockfile completo das dependencias transitivas.
+# A instalacao deste arquivo consolidado deve ser verificada no workspace.
+
+# Fonte adicional oficial para a distribuicao CPU do PyTorch.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Dados.
+numpy==2.3.4
+pandas==2.3.3
+
+# Embeddings e recuperacao vetorial.
+torch==2.6.0+cpu
+transformers==4.57.6
+sentence-transformers==5.1.0
+chromadb==1.0.20
+
+# Integracao utilizada com Databricks Model Serving.
+databricks-sdk==0.122.0
+openai==1.109.1
+
+# Versoes base observadas apos a instalacao validada.
+# Preservam a compatibilidade registrada com botocore e o notebook.
+python-dateutil==2.9.0.post0
+packaging==24.0
+six==1.16.0
+
+# Ollama nao e necessario no Databricks.
+# O LLM e consultado pelo endpoint do workspace; nao e carregado no compute.
+# Nao adicionar databricks-openai sem adaptar e testar o cliente do pipeline.
