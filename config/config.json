@@ -1,0 +1,15 @@
+{
+  "project": "tech_challenge_fase4",
+  "external_volume": "workspace.default.vol_trio_drive",
+  "volume_root": "/Volumes/workspace/default/vol_trio_drive",
+  "s3_uri": "s3://s3tc2/projetos/fiap/tech_challenge_fase4/",
+  "data_root": "/Volumes/workspace/default/vol_trio_drive/projetos/fiap/tech_challenge_fase4",
+  "paths": {
+    "raw": "/Volumes/workspace/default/vol_trio_drive/projetos/fiap/tech_challenge_fase4/data/raw",
+    "processed": "/Volumes/workspace/default/vol_trio_drive/projetos/fiap/tech_challenge_fase4/data/processed",
+    "reports": "/Volumes/workspace/default/vol_trio_drive/projetos/fiap/tech_challenge_fase4/reports"
+  },
+  "status": "PRONTO_PARA_NOTEBOOK_01",
+  "pendentes": [],
+  "execution_ts_utc": "2026-10-26T11:39:06.321497+00:00"
+}
