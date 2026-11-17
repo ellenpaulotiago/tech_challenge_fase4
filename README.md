@@ -2,20 +2,6 @@
 
 Projeto de **Voice of Customer Intelligence** baseado em **Retrieval-Augmented Generation (RAG)** para análise inteligente de avaliações de clientes do e-commerce Olist. Desenvolvido como entregável principal do **Tech Challenge — Fase 4** da pós-graduação FIAP / PosTech em Inteligência Artificial Generativa, em parceria com a Databricks Academy (*Generative AI Engineering Pathway*).
 
----
-
-## 📌 Sumário
-1. [Visão Geral e Problema de Negócio](#-1-visão-geral-e-problema-de-negócio)
-2. [Arquitetura da Solução e Fluxo RAG](#-2-arquitetura-da-solução-e-fluxo-rag)
-3. [Atendimento aos Requisitos do Desafio](#-3-atendimento-aos-requisitos-do-desafio)
-4. [Estrutura do Repositório e Ambiente](#-4-estrutura-do-repositório-e-ambiente)
-5. [Instalação e Dependências](#-5-instalação-e-dependências)
-6. [Ordem de Execução dos Notebooks](#-6-ordem-de-execução-dos-notebooks)
-7. [Resultados da Avaliação e Métricas](#-7-resultados-da-avaliação-e-métricas)
-8. [Roteiro de Demonstração em Vídeo](#-8-roteiro-de-demonstração-em-vídeo)
-9. [Limitações Observadas e Trabalhos Futuros](#-9-limitações-observadas-e-trabalhos-futuros)
-
----
 
 ## 🎯 1. Visão Geral e Problema de Negócio
 
