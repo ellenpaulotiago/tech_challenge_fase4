@@ -196,6 +196,8 @@ tech-challenge-fase4/
 ├── requirements.txt
 ├── .gitignore
 │
+├── apresentação/
+│   ├── tc4 - Ellen Paulo e Tiago - Vídeo Executivo.mp4
 ├── notebooks/
 │   ├── 00_configuracao_ambiente.ipynb
 │   ├── 01_exploracao_dados.ipynb
