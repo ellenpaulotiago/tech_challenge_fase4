@@ -1,0 +1,440 @@
+{
+  "pergunta_id": "Q09",
+  "pergunta": "Quais relatos mencionam produto diferente do que foi pedido?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:38:48.268813+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"6137736e63c63b146f3012dd3419e657\",\"8283cff259b1a37c914671e1385a2f72\"]",
+      "texto": "Comentário: Recebi o produto diferente do que foi anunciado e comprado.",
+      "metadados": {
+        "review_score": 1,
+        "review_creation_date": "2017-12-12 00:00:00",
+        "order_id": "8283cff259b1a37c914671e1385a2f72",
+        "review_id": "6137736e63c63b146f3012dd3419e657"
+      },
+      "distancia": 0.25861656665802
+    },
+    {
+      "documento_id": "[\"2d90bdb77533cae4c2957b2e9f315a91\",\"622313cbbf2c6fb616025bc038e3bba6\"]",
+      "texto": "Comentário: Anunciou um produto entregou diferente",
+      "metadados": {
+        "review_creation_date": "2018-07-01 00:00:00",
+        "order_id": "622313cbbf2c6fb616025bc038e3bba6",
+        "review_score": 1,
+        "review_id": "2d90bdb77533cae4c2957b2e9f315a91"
+      },
+      "distancia": 0.2716583013534546
+    },
+    {
+      "documento_id": "[\"014552bc1539eed96d4937a07ef1ba03\",\"3e60f029bab712985ebe5bb542730b6e\"]",
+      "texto": "Comentário: Produto entregue diferente da compra",
+      "metadados": {
+        "review_creation_date": "2017-08-01 00:00:00",
+        "review_id": "014552bc1539eed96d4937a07ef1ba03",
+        "review_score": 2,
+        "order_id": "3e60f029bab712985ebe5bb542730b6e"
+      },
+      "distancia": 0.2732686996459961
+    },
+    {
+      "documento_id": "[\"ed19d7f5da6c2c6d4d79f4ec2425f63f\",\"02f751c4c2fc8ca376b65c8847b65f4d\"]",
+      "texto": "Comentário: produto entregue totalmente diferente do comprado",
+      "metadados": {
+        "review_score": 2,
+        "review_creation_date": "2018-06-21 00:00:00",
+        "order_id": "02f751c4c2fc8ca376b65c8847b65f4d",
+        "review_id": "ed19d7f5da6c2c6d4d79f4ec2425f63f"
+      },
+      "distancia": 0.2735132575035095
+    },
+    {
+      "documento_id": "[\"c94fe7161f7932281babee672d4b4248\",\"8440ebc9a2a4aaa712d4064c35e52995\"]",
+      "texto": "Comentário: O produto chegou diferente do comprado",
+      "metadados": {
+        "review_id": "c94fe7161f7932281babee672d4b4248",
+        "review_score": 1,
+        "order_id": "8440ebc9a2a4aaa712d4064c35e52995",
+        "review_creation_date": "2017-12-12 00:00:00"
+      },
+      "distancia": 0.28079307079315186
+    },
+    {
+      "documento_id": "[\"d44b85fda6987ad606e1b7c62dd481e4\",\"87ecc025e6e05e1bd65706f6d689856c\"]",
+      "texto": "Comentário: produto entregue conforme anunciado.",
+      "metadados": {
+        "review_creation_date": "2017-09-05 00:00:00",
+        "order_id": "87ecc025e6e05e1bd65706f6d689856c",
+        "review_score": 4,
+        "review_id": "d44b85fda6987ad606e1b7c62dd481e4"
+      },
+      "distancia": 0.293667197227478
+    },
+    {
+      "documento_id": "[\"6651d31e8f40b2444a4601ca46433649\",\"db55d12cb2a29fdf6814668f79a90b1c\"]",
+      "texto": "Comentário: Há divergência entre o produto apresentado e o entregue.",
+      "metadados": {
+        "order_id": "db55d12cb2a29fdf6814668f79a90b1c",
+        "review_creation_date": "2018-03-10 00:00:00",
+        "review_id": "6651d31e8f40b2444a4601ca46433649",
+        "review_score": 4
+      },
+      "distancia": 0.2938542366027832
+    },
+    {
+      "documento_id": "[\"c6ed438a3a03ab4c6ae0aeff74c3f32b\",\"890b59a3c92690ae11b0cfe321e979fc\"]",
+      "texto": "Comentário: Sobre o produto tem dúvidas se e original",
+      "metadados": {
+        "review_score": 4,
+        "review_id": "c6ed438a3a03ab4c6ae0aeff74c3f32b",
+        "order_id": "890b59a3c92690ae11b0cfe321e979fc",
+        "review_creation_date": "2018-04-01 00:00:00"
+      },
+      "distancia": 0.29428428411483765
+    },
+    {
+      "documento_id": "[\"be9a200280b9391660028c659857af3d\",\"bd4b5585c4d7c16db3fe69d062fcafb0\"]",
+      "texto": "Comentário: O produto recebido não correspondeu às informações de descrições do mesmo quando do ato da pesquisa antes da compra. Produto ruim.",
+      "metadados": {
+        "review_creation_date": "2017-02-22 00:00:00",
+        "order_id": "bd4b5585c4d7c16db3fe69d062fcafb0",
+        "review_id": "be9a200280b9391660028c659857af3d",
+        "review_score": 3
+      },
+      "distancia": 0.2974328398704529
+    },
+    {
+      "documento_id": "[\"f85ae141a0d912defb1c690f27ce57ce\",\"c147eb82165b5b541fc943d0747eede3\"]",
+      "texto": "Comentário: O produto chegou diferente do anunciado.",
+      "metadados": {
+        "review_score": 1,
+        "review_id": "f85ae141a0d912defb1c690f27ce57ce",
+        "order_id": "c147eb82165b5b541fc943d0747eede3",
+        "review_creation_date": "2017-10-15 01:00:00"
+      },
+      "distancia": 0.29794251918792725
+    },
+    {
+      "documento_id": "[\"83d24d478d948b180721be139af82c2b\",\"8b0899ff4934074e16ecacb55c7c2303\"]",
+      "texto": "Comentário: produto entregue conforme anunciado",
+      "metadados": {
+        "review_creation_date": "2017-05-11 00:00:00",
+        "order_id": "8b0899ff4934074e16ecacb55c7c2303",
+        "review_score": 4,
+        "review_id": "83d24d478d948b180721be139af82c2b"
+      },
+      "distancia": 0.302711546421051
+    },
+    {
+      "documento_id": "[\"37a24aab8abb14b25c79815829193af4\",\"238d28bb25bc75bccaab22efd258df33\"]",
+      "texto": "Comentário: Precisa mais detalhes sabre os produtos.",
+      "metadados": {
+        "review_score": 4,
+        "order_id": "238d28bb25bc75bccaab22efd258df33",
+        "review_id": "37a24aab8abb14b25c79815829193af4",
+        "review_creation_date": "2018-01-10 00:00:00"
+      },
+      "distancia": 0.30463409423828125
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Quais relatos mencionam produto diferente do que foi pedido?",
+    "instante_utc": "2026-11-07T20:38:48.339449+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato menciona que o produto recebido foi diferente do que foi anunciado e comprado.",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Um relato afirma que o produto anunciado foi diferente do entregue.",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um relato informa que o produto entregue foi diferente da compra.",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um relato relata que o produto entregue foi totalmente diferente do comprado.",
+        "fontes": [
+          "E4"
+        ]
+      },
+      {
+        "texto": "Um relato menciona que o produto chegou diferente do comprado.",
+        "fontes": [
+          "E5"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"6137736e63c63b146f3012dd3419e657\",\"8283cff259b1a37c914671e1385a2f72\"]",
+        "texto": "Comentário: Recebi o produto diferente do que foi anunciado e comprado.",
+        "nota": 1,
+        "data": "2017-12-12 00:00:00",
+        "review_id": "6137736e63c63b146f3012dd3419e657",
+        "order_id": "8283cff259b1a37c914671e1385a2f72",
+        "distancia": 0.25861656665802,
+        "trecho": "Comentário: Recebi o produto diferente do que foi anunciado e comprado."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"2d90bdb77533cae4c2957b2e9f315a91\",\"622313cbbf2c6fb616025bc038e3bba6\"]",
+        "texto": "Comentário: Anunciou um produto entregou diferente",
+        "nota": 1,
+        "data": "2018-07-01 00:00:00",
+        "review_id": "2d90bdb77533cae4c2957b2e9f315a91",
+        "order_id": "622313cbbf2c6fb616025bc038e3bba6",
+        "distancia": 0.2716583013534546,
+        "trecho": "Comentário: Anunciou um produto entregou diferente"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"014552bc1539eed96d4937a07ef1ba03\",\"3e60f029bab712985ebe5bb542730b6e\"]",
+        "texto": "Comentário: Produto entregue diferente da compra",
+        "nota": 2,
+        "data": "2017-08-01 00:00:00",
+        "review_id": "014552bc1539eed96d4937a07ef1ba03",
+        "order_id": "3e60f029bab712985ebe5bb542730b6e",
+        "distancia": 0.2732686996459961,
+        "trecho": "Comentário: Produto entregue diferente da compra"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"ed19d7f5da6c2c6d4d79f4ec2425f63f\",\"02f751c4c2fc8ca376b65c8847b65f4d\"]",
+        "texto": "Comentário: produto entregue totalmente diferente do comprado",
+        "nota": 2,
+        "data": "2018-06-21 00:00:00",
+        "review_id": "ed19d7f5da6c2c6d4d79f4ec2425f63f",
+        "order_id": "02f751c4c2fc8ca376b65c8847b65f4d",
+        "distancia": 0.2735132575035095,
+        "trecho": "Comentário: produto entregue totalmente diferente do comprado"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"c94fe7161f7932281babee672d4b4248\",\"8440ebc9a2a4aaa712d4064c35e52995\"]",
+        "texto": "Comentário: O produto chegou diferente do comprado",
+        "nota": 1,
+        "data": "2017-12-12 00:00:00",
+        "review_id": "c94fe7161f7932281babee672d4b4248",
+        "order_id": "8440ebc9a2a4aaa712d4064c35e52995",
+        "distancia": 0.28079307079315186,
+        "trecho": "Comentário: O produto chegou diferente do comprado"
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"6137736e63c63b146f3012dd3419e657\",\"8283cff259b1a37c914671e1385a2f72\"]",
+        "texto": "Comentário: Recebi o produto diferente do que foi anunciado e comprado.",
+        "nota": 1,
+        "data": "2017-12-12 00:00:00",
+        "review_id": "6137736e63c63b146f3012dd3419e657",
+        "order_id": "8283cff259b1a37c914671e1385a2f72",
+        "distancia": 0.25861656665802
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"2d90bdb77533cae4c2957b2e9f315a91\",\"622313cbbf2c6fb616025bc038e3bba6\"]",
+        "texto": "Comentário: Anunciou um produto entregou diferente",
+        "nota": 1,
+        "data": "2018-07-01 00:00:00",
+        "review_id": "2d90bdb77533cae4c2957b2e9f315a91",
+        "order_id": "622313cbbf2c6fb616025bc038e3bba6",
+        "distancia": 0.2716583013534546
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"014552bc1539eed96d4937a07ef1ba03\",\"3e60f029bab712985ebe5bb542730b6e\"]",
+        "texto": "Comentário: Produto entregue diferente da compra",
+        "nota": 2,
+        "data": "2017-08-01 00:00:00",
+        "review_id": "014552bc1539eed96d4937a07ef1ba03",
+        "order_id": "3e60f029bab712985ebe5bb542730b6e",
+        "distancia": 0.2732686996459961
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"ed19d7f5da6c2c6d4d79f4ec2425f63f\",\"02f751c4c2fc8ca376b65c8847b65f4d\"]",
+        "texto": "Comentário: produto entregue totalmente diferente do comprado",
+        "nota": 2,
+        "data": "2018-06-21 00:00:00",
+        "review_id": "ed19d7f5da6c2c6d4d79f4ec2425f63f",
+        "order_id": "02f751c4c2fc8ca376b65c8847b65f4d",
+        "distancia": 0.2735132575035095
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"c94fe7161f7932281babee672d4b4248\",\"8440ebc9a2a4aaa712d4064c35e52995\"]",
+        "texto": "Comentário: O produto chegou diferente do comprado",
+        "nota": 1,
+        "data": "2017-12-12 00:00:00",
+        "review_id": "c94fe7161f7932281babee672d4b4248",
+        "order_id": "8440ebc9a2a4aaa712d4064c35e52995",
+        "distancia": 0.28079307079315186
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"d44b85fda6987ad606e1b7c62dd481e4\",\"87ecc025e6e05e1bd65706f6d689856c\"]",
+        "texto": "Comentário: produto entregue conforme anunciado.",
+        "nota": 4,
+        "data": "2017-09-05 00:00:00",
+        "review_id": "d44b85fda6987ad606e1b7c62dd481e4",
+        "order_id": "87ecc025e6e05e1bd65706f6d689856c",
+        "distancia": 0.293667197227478
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"6651d31e8f40b2444a4601ca46433649\",\"db55d12cb2a29fdf6814668f79a90b1c\"]",
+        "texto": "Comentário: Há divergência entre o produto apresentado e o entregue.",
+        "nota": 4,
+        "data": "2018-03-10 00:00:00",
+        "review_id": "6651d31e8f40b2444a4601ca46433649",
+        "order_id": "db55d12cb2a29fdf6814668f79a90b1c",
+        "distancia": 0.2938542366027832
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"c6ed438a3a03ab4c6ae0aeff74c3f32b\",\"890b59a3c92690ae11b0cfe321e979fc\"]",
+        "texto": "Comentário: Sobre o produto tem dúvidas se e original",
+        "nota": 4,
+        "data": "2018-04-01 00:00:00",
+        "review_id": "c6ed438a3a03ab4c6ae0aeff74c3f32b",
+        "order_id": "890b59a3c92690ae11b0cfe321e979fc",
+        "distancia": 0.29428428411483765
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"be9a200280b9391660028c659857af3d\",\"bd4b5585c4d7c16db3fe69d062fcafb0\"]",
+        "texto": "Comentário: O produto recebido não correspondeu às informações de descrições do mesmo quando do ato da pesquisa antes da compra. Produto ruim.",
+        "nota": 3,
+        "data": "2017-02-22 00:00:00",
+        "review_id": "be9a200280b9391660028c659857af3d",
+        "order_id": "bd4b5585c4d7c16db3fe69d062fcafb0",
+        "distancia": 0.2974328398704529
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"f85ae141a0d912defb1c690f27ce57ce\",\"c147eb82165b5b541fc943d0747eede3\"]",
+        "texto": "Comentário: O produto chegou diferente do anunciado.",
+        "nota": 1,
+        "data": "2017-10-15 01:00:00",
+        "review_id": "f85ae141a0d912defb1c690f27ce57ce",
+        "order_id": "c147eb82165b5b541fc943d0747eede3",
+        "distancia": 0.29794251918792725
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"6137736e63c63b146f3012dd3419e657\",\"8283cff259b1a37c914671e1385a2f72\"]",
+        "texto": "Comentário: Recebi o produto diferente do que foi anunciado e comprado.",
+        "nota": 1,
+        "data": "2017-12-12 00:00:00",
+        "review_id": "6137736e63c63b146f3012dd3419e657",
+        "order_id": "8283cff259b1a37c914671e1385a2f72",
+        "distancia": 0.25861656665802,
+        "trecho": "Comentário: Recebi o produto diferente do que foi anunciado e comprado."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"2d90bdb77533cae4c2957b2e9f315a91\",\"622313cbbf2c6fb616025bc038e3bba6\"]",
+        "texto": "Comentário: Anunciou um produto entregou diferente",
+        "nota": 1,
+        "data": "2018-07-01 00:00:00",
+        "review_id": "2d90bdb77533cae4c2957b2e9f315a91",
+        "order_id": "622313cbbf2c6fb616025bc038e3bba6",
+        "distancia": 0.2716583013534546,
+        "trecho": "Comentário: Anunciou um produto entregou diferente"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"014552bc1539eed96d4937a07ef1ba03\",\"3e60f029bab712985ebe5bb542730b6e\"]",
+        "texto": "Comentário: Produto entregue diferente da compra",
+        "nota": 2,
+        "data": "2017-08-01 00:00:00",
+        "review_id": "014552bc1539eed96d4937a07ef1ba03",
+        "order_id": "3e60f029bab712985ebe5bb542730b6e",
+        "distancia": 0.2732686996459961,
+        "trecho": "Comentário: Produto entregue diferente da compra"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"ed19d7f5da6c2c6d4d79f4ec2425f63f\",\"02f751c4c2fc8ca376b65c8847b65f4d\"]",
+        "texto": "Comentário: produto entregue totalmente diferente do comprado",
+        "nota": 2,
+        "data": "2018-06-21 00:00:00",
+        "review_id": "ed19d7f5da6c2c6d4d79f4ec2425f63f",
+        "order_id": "02f751c4c2fc8ca376b65c8847b65f4d",
+        "distancia": 0.2735132575035095,
+        "trecho": "Comentário: produto entregue totalmente diferente do comprado"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"c94fe7161f7932281babee672d4b4248\",\"8440ebc9a2a4aaa712d4064c35e52995\"]",
+        "texto": "Comentário: O produto chegou diferente do comprado",
+        "nota": 1,
+        "data": "2017-12-12 00:00:00",
+        "review_id": "c94fe7161f7932281babee672d4b4248",
+        "order_id": "8440ebc9a2a4aaa712d4064c35e52995",
+        "distancia": 0.28079307079315186,
+        "trecho": "Comentário: O produto chegou diferente do comprado"
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E4\"}, {\"fonte\": \"E5\"}], \"justificativa\": \"Os relatos mencionam produto diferente do que foi pedido, como por exemplo, 'Recebi o produto diferente do que foi anunciado e comprado.', 'Anunciou um produto entregou diferente', 'Produto entregue diferente da compra', 'produto entregue totalmente diferente do comprado' e 'O produto chegou diferente do comprado'.\"}",
+        "uso": {
+          "completion_tokens": 135,
+          "prompt_tokens": 2756,
+          "total_tokens": 2891,
+          "prompt_tokens_details": {
+            "cached_tokens": 1120
+          },
+          "cache_read_input_tokens": 1120
+        },
+        "latencia_s": 8.219808233000094,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato menciona que o produto recebido foi diferente do que foi anunciado e comprado.\", \"fontes\": [\"E1\"]}, {\"texto\": \"Um relato afirma que o produto anunciado foi diferente do entregue.\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um relato informa que o produto entregue foi diferente da compra.\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um relato relata que o produto entregue foi totalmente diferente do comprado.\", \"fontes\": [\"E4\"]}, {\"texto\": \"Um relato menciona que o produto chegou diferente do comprado.\", \"fontes\": [\"E5\"]}]}",
+        "uso": {
+          "completion_tokens": 163,
+          "prompt_tokens": 1321,
+          "total_tokens": 1484,
+          "prompt_tokens_details": {
+            "cached_tokens": 1024
+          },
+          "cache_read_input_tokens": 1024
+        },
+        "latencia_s": 2.99638058499977,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 11.216719995999938
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 11.287026785000307
+}

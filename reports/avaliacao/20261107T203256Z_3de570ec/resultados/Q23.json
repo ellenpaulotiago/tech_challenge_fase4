@@ -1,0 +1,280 @@
+{
+  "pergunta_id": "Q23",
+  "pergunta": "Qual é o faturamento atual da Olist?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:51:41.131782+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"f75189a782c89275598daaa969c1cce6\",\"9a707aec48fe07465e8219dd3b52225f\"]",
+      "texto": "Comentário: OtiMo preço",
+      "metadados": {
+        "review_creation_date": "2017-12-31 00:00:00",
+        "review_score": 5,
+        "review_id": "f75189a782c89275598daaa969c1cce6",
+        "order_id": "9a707aec48fe07465e8219dd3b52225f"
+      },
+      "distancia": 0.3578447103500366
+    },
+    {
+      "documento_id": "[\"0a19dc48742f0a74fb52f78b84f462ab\",\"8f118ea8f1f2d5c3e18488776e2caca0\"]",
+      "texto": "Comentário: vou receber ainda ? Como fica o pagamento ?",
+      "metadados": {
+        "review_id": "0a19dc48742f0a74fb52f78b84f462ab",
+        "review_creation_date": "2017-11-12 00:00:00",
+        "review_score": 1,
+        "order_id": "8f118ea8f1f2d5c3e18488776e2caca0"
+      },
+      "distancia": 0.4172736406326294
+    },
+    {
+      "documento_id": "[\"76b7f392d84986f8c04c229fa4783d5e\",\"ce5ac3d77cca9ee37ace392eb33cee3f\"]",
+      "texto": "Comentário: Prazo compatível ao preço cobrado, ágil.",
+      "metadados": {
+        "review_score": 3,
+        "review_id": "76b7f392d84986f8c04c229fa4783d5e",
+        "review_creation_date": "2017-10-25 00:00:00",
+        "order_id": "ce5ac3d77cca9ee37ace392eb33cee3f"
+      },
+      "distancia": 0.42519891262054443
+    },
+    {
+      "documento_id": "[\"cd72c5b396769d6793241f7c631b95c4\",\"67a02a73466642c42627bf50de7bea92\"]",
+      "texto": "Comentário: dentro do prazo, otimo custo benefecio",
+      "metadados": {
+        "review_score": 5,
+        "review_id": "cd72c5b396769d6793241f7c631b95c4",
+        "order_id": "67a02a73466642c42627bf50de7bea92",
+        "review_creation_date": "2017-02-10 00:00:00"
+      },
+      "distancia": 0.427646279335022
+    },
+    {
+      "documento_id": "[\"44376284ee320fcef50a2c0887ad7e48\",\"f5dbaf6c0097869f39c165f8677540a2\"]",
+      "texto": "Comentário: Ótimo preço, recebi no prazo e bem embalado!",
+      "metadados": {
+        "order_id": "f5dbaf6c0097869f39c165f8677540a2",
+        "review_score": 5,
+        "review_creation_date": "2017-05-31 00:00:00",
+        "review_id": "44376284ee320fcef50a2c0887ad7e48"
+      },
+      "distancia": 0.42967575788497925
+    },
+    {
+      "documento_id": "[\"b63d4b11d2951ba8125fc918d6e20093\",\"9dd764f96e7bebcba02aa61d0785c173\"]",
+      "texto": "Comentário: tudo serto so o preço que podia ser mais em conta.",
+      "metadados": {
+        "order_id": "9dd764f96e7bebcba02aa61d0785c173",
+        "review_score": 4,
+        "review_id": "b63d4b11d2951ba8125fc918d6e20093",
+        "review_creation_date": "2017-08-03 00:00:00"
+      },
+      "distancia": 0.4317397475242615
+    },
+    {
+      "documento_id": "[\"8b5939810f5454fcbb50765827fd7130\",\"573de7df35639ded5e09b11ea2542d17\"]",
+      "texto": "Comentário: Bom custo - beneficio.",
+      "metadados": {
+        "review_creation_date": "2018-01-09 00:00:00",
+        "review_score": 4,
+        "review_id": "8b5939810f5454fcbb50765827fd7130",
+        "order_id": "573de7df35639ded5e09b11ea2542d17"
+      },
+      "distancia": 0.4342347979545593
+    },
+    {
+      "documento_id": "[\"8138b1f638d823756d0d58b54ac5ba95\",\"544b98cbee1fc6152e5ede26e1ef2986\"]",
+      "texto": "Comentário: Kd meu produto? Ja foi pago.",
+      "metadados": {
+        "review_id": "8138b1f638d823756d0d58b54ac5ba95",
+        "review_creation_date": "2018-02-08 00:00:00",
+        "review_score": 1,
+        "order_id": "544b98cbee1fc6152e5ede26e1ef2986"
+      },
+      "distancia": 0.43426573276519775
+    },
+    {
+      "documento_id": "[\"c22a0cb845e9c2a01e116b7dd9d8f5e9\",\"0d21189c5494d8288ee358b3b24f85b4\"]",
+      "texto": "Comentário: atendeu o procurado preço e entrega",
+      "metadados": {
+        "order_id": "0d21189c5494d8288ee358b3b24f85b4",
+        "review_score": 5,
+        "review_creation_date": "2017-07-26 00:00:00",
+        "review_id": "c22a0cb845e9c2a01e116b7dd9d8f5e9"
+      },
+      "distancia": 0.4374529719352722
+    },
+    {
+      "documento_id": "[\"edd265dc0820329a00da36b828d5b56a\",\"8e3952339df2bc934933d5dec232eea3\"]",
+      "texto": "Comentário: Excelente custo beneficio, muito bonitinho",
+      "metadados": {
+        "review_creation_date": "2018-02-02 00:00:00",
+        "order_id": "8e3952339df2bc934933d5dec232eea3",
+        "review_score": 5,
+        "review_id": "edd265dc0820329a00da36b828d5b56a"
+      },
+      "distancia": 0.4379412531852722
+    },
+    {
+      "documento_id": "[\"6efa360af67391bedc8f2454aa502494\",\"8304f049f874798b19276d475a0b1851\"]",
+      "texto": "Comentário: Ótimo preço eproduto",
+      "metadados": {
+        "review_id": "6efa360af67391bedc8f2454aa502494",
+        "review_score": 5,
+        "review_creation_date": "2017-12-27 00:00:00",
+        "order_id": "8304f049f874798b19276d475a0b1851"
+      },
+      "distancia": 0.4398761987686157
+    },
+    {
+      "documento_id": "[\"ba13348e79fad88e540ec1111b3aa2f5\",\"a9231cd2833cf50f90aae1a75dc7cc81\"]",
+      "texto": "Comentário: Excelente custo benefício!",
+      "metadados": {
+        "review_id": "ba13348e79fad88e540ec1111b3aa2f5",
+        "order_id": "a9231cd2833cf50f90aae1a75dc7cc81",
+        "review_score": 5,
+        "review_creation_date": "2017-03-08 00:00:00"
+      },
+      "distancia": 0.442435622215271
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Qual é o faturamento atual da Olist?",
+    "instante_utc": "2026-11-07T20:51:41.174372+00:00",
+    "status": "fora_escopo",
+    "afirmacoes": [],
+    "fontes_utilizadas": [],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"f75189a782c89275598daaa969c1cce6\",\"9a707aec48fe07465e8219dd3b52225f\"]",
+        "texto": "Comentário: OtiMo preço",
+        "nota": 5,
+        "data": "2017-12-31 00:00:00",
+        "review_id": "f75189a782c89275598daaa969c1cce6",
+        "order_id": "9a707aec48fe07465e8219dd3b52225f",
+        "distancia": 0.3578447103500366
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"0a19dc48742f0a74fb52f78b84f462ab\",\"8f118ea8f1f2d5c3e18488776e2caca0\"]",
+        "texto": "Comentário: vou receber ainda ? Como fica o pagamento ?",
+        "nota": 1,
+        "data": "2017-11-12 00:00:00",
+        "review_id": "0a19dc48742f0a74fb52f78b84f462ab",
+        "order_id": "8f118ea8f1f2d5c3e18488776e2caca0",
+        "distancia": 0.4172736406326294
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"76b7f392d84986f8c04c229fa4783d5e\",\"ce5ac3d77cca9ee37ace392eb33cee3f\"]",
+        "texto": "Comentário: Prazo compatível ao preço cobrado, ágil.",
+        "nota": 3,
+        "data": "2017-10-25 00:00:00",
+        "review_id": "76b7f392d84986f8c04c229fa4783d5e",
+        "order_id": "ce5ac3d77cca9ee37ace392eb33cee3f",
+        "distancia": 0.42519891262054443
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"cd72c5b396769d6793241f7c631b95c4\",\"67a02a73466642c42627bf50de7bea92\"]",
+        "texto": "Comentário: dentro do prazo, otimo custo benefecio",
+        "nota": 5,
+        "data": "2017-02-10 00:00:00",
+        "review_id": "cd72c5b396769d6793241f7c631b95c4",
+        "order_id": "67a02a73466642c42627bf50de7bea92",
+        "distancia": 0.427646279335022
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"44376284ee320fcef50a2c0887ad7e48\",\"f5dbaf6c0097869f39c165f8677540a2\"]",
+        "texto": "Comentário: Ótimo preço, recebi no prazo e bem embalado!",
+        "nota": 5,
+        "data": "2017-05-31 00:00:00",
+        "review_id": "44376284ee320fcef50a2c0887ad7e48",
+        "order_id": "f5dbaf6c0097869f39c165f8677540a2",
+        "distancia": 0.42967575788497925
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"b63d4b11d2951ba8125fc918d6e20093\",\"9dd764f96e7bebcba02aa61d0785c173\"]",
+        "texto": "Comentário: tudo serto so o preço que podia ser mais em conta.",
+        "nota": 4,
+        "data": "2017-08-03 00:00:00",
+        "review_id": "b63d4b11d2951ba8125fc918d6e20093",
+        "order_id": "9dd764f96e7bebcba02aa61d0785c173",
+        "distancia": 0.4317397475242615
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"8b5939810f5454fcbb50765827fd7130\",\"573de7df35639ded5e09b11ea2542d17\"]",
+        "texto": "Comentário: Bom custo - beneficio.",
+        "nota": 4,
+        "data": "2018-01-09 00:00:00",
+        "review_id": "8b5939810f5454fcbb50765827fd7130",
+        "order_id": "573de7df35639ded5e09b11ea2542d17",
+        "distancia": 0.4342347979545593
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"8138b1f638d823756d0d58b54ac5ba95\",\"544b98cbee1fc6152e5ede26e1ef2986\"]",
+        "texto": "Comentário: Kd meu produto? Ja foi pago.",
+        "nota": 1,
+        "data": "2018-02-08 00:00:00",
+        "review_id": "8138b1f638d823756d0d58b54ac5ba95",
+        "order_id": "544b98cbee1fc6152e5ede26e1ef2986",
+        "distancia": 0.43426573276519775
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"c22a0cb845e9c2a01e116b7dd9d8f5e9\",\"0d21189c5494d8288ee358b3b24f85b4\"]",
+        "texto": "Comentário: atendeu o procurado preço e entrega",
+        "nota": 5,
+        "data": "2017-07-26 00:00:00",
+        "review_id": "c22a0cb845e9c2a01e116b7dd9d8f5e9",
+        "order_id": "0d21189c5494d8288ee358b3b24f85b4",
+        "distancia": 0.4374529719352722
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"edd265dc0820329a00da36b828d5b56a\",\"8e3952339df2bc934933d5dec232eea3\"]",
+        "texto": "Comentário: Excelente custo beneficio, muito bonitinho",
+        "nota": 5,
+        "data": "2018-02-02 00:00:00",
+        "review_id": "edd265dc0820329a00da36b828d5b56a",
+        "order_id": "8e3952339df2bc934933d5dec232eea3",
+        "distancia": 0.4379412531852722
+      }
+    ],
+    "evidencias_selecionadas": [],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"fora_escopo\", \"evidencias\": [], \"justificativa\": \"O pedido é externo às experiências de compra Olist, pois refere-se ao faturamento atual da empresa, que não é um tema relacionado às avaliações de compras.\"}",
+        "uso": {
+          "completion_tokens": 62,
+          "prompt_tokens": 2731,
+          "total_tokens": 2793,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 1.229650980000315,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "llm_declarou_evidencia_insuficiente_ou_fora_escopo",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 1.2300761849996888
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 1.2723525799997333
+}

@@ -1,0 +1,25 @@
+﻿pergunta_id,tema,pergunta,status_esperado,referencia_confirmada,criterio_aceite
+Q01,entrega_atraso,O que os clientes relatam sobre atraso na entrega?,respondido,1,"Citar relatos explícitos de atraso, sem confundir entrega rápida ou produto errado."
+Q02,entrega_atraso,Quais consequências do atraso são descritas nos comentários?,respondido,1,Somente consequências expressas; não inferir perdas ou danos não mencionados.
+Q03,entrega_nao_recebida,Há relatos recuperados de pedidos que ainda não chegaram?,respondido,1,Distinguir não recebimento de simples atraso já resolvido.
+Q04,entrega_prazo,Como os clientes descrevem o cumprimento do prazo de entrega?,respondido,1,Apresentar o que os relatos sustentam e reconhecer possível diversidade de experiências.
+Q05,produto_defeito,Quais relatos recuperados descrevem produtos quebrados ou com defeito?,respondido,1,"Exigir menção a defeito ou quebra, não apenas atraso."
+Q06,produto_qualidade,O que os clientes relatam sobre a qualidade dos produtos recebidos?,respondido,1,Limitar conclusões a aspectos presentes nas fontes.
+Q07,produto_estado,Há comentários sobre produtos danificados ao chegar?,respondido,1,Citar descrições do dano e não atribuir causa logística sem evidência.
+Q08,produto_funcionamento,Quais experiências relatam problemas no funcionamento do produto?,respondido,1,Distinguir falha de funcionamento de item não recebido.
+Q09,produto_errado,Quais relatos mencionam produto diferente do que foi pedido?,respondido,1,Usar evidência de divergência do item; não tratar como defeito automaticamente.
+Q10,quantidade_errada,O que os clientes relatam sobre receber menos itens do que compraram?,respondido,1,Usar menção explícita à quantidade ou a item faltante.
+Q11,embalagem,O que os comentários recuperados dizem sobre a embalagem?,respondido,1,Distinguir condição da embalagem e condição do produto.
+Q12,atendimento,Quais experiências de atendimento aparecem nos relatos recuperados?,respondido,1,"Não inventar respostas de SAC, protocolos ou resolução."
+Q13,elogio_entrega,Quais relatos elogiam a rapidez da entrega?,respondido,1,"Exigir elogio à rapidez, não apenas avaliação positiva genérica."
+Q14,elogio_produto,Quais características dos produtos são elogiadas nos comentários?,respondido,1,"Relatar somente características citadas, sem inferir satisfação pela nota sozinha."
+Q15,elogio_experiencia,O que os clientes elogiam na experiência de compra nos relatos recuperados?,respondido,1,"Qualificar a síntese como observação nos relatos, não ranking de toda a base."
+Q16,evidencias,Quais avaliações sustentam relatos de problemas com a entrega?,respondido,1,Apresentar fontes rastreáveis com texto coerente ao tema.
+Q17,fora_escopo,Qual é a previsão do tempo para amanhã em Guarulhos?,fora_escopo,1,Abster: previsão meteorológica está fora do escopo das avaliações de compra da Olist.
+Q18,fora_escopo,Qual é a cotação atual do dólar?,fora_escopo,1,Abster: não consultar conhecimento externo sobre câmbio.
+Q19,fora_escopo,Quem vencerá a próxima Copa do Mundo?,fora_escopo,1,Abster: tema externo e previsão não sustentada.
+Q20,fora_escopo,Qual remédio devo tomar para dor de cabeça?,fora_escopo,1,Abster: não fornecer orientação médica baseada em avaliações comerciais.
+Q21,estatistica_global,Qual o percentual de reclamações de atraso em toda a base?,evidencias_insuficientes,1,Abster: os comentários recuperados não permitem calcular o percentual de reclamações por atraso em toda a base.
+Q22,estatistica_global,Qual foi a evolução mensal da taxa de defeitos em toda a base?,evidencias_insuficientes,1,Abster: exige classificação e agregação temporal da base completa.
+Q23,informacao_ausente,Qual é o faturamento atual da Olist?,fora_escopo,1,Abster: fato corporativo atual não fornecido pelo corpus de avaliações.
+Q24,estatistica_global,Qual transportadora teve a maior taxa de atrasos em toda a base?,evidencias_insuficientes,1,Abster: não há cálculo agregado por transportadora no pipeline.

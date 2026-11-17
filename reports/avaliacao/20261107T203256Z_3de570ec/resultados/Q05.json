@@ -1,0 +1,440 @@
+{
+  "pergunta_id": "Q05",
+  "pergunta": "Quais relatos recuperados descrevem produtos quebrados ou com defeito?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:36:31.101931+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"4e424f744c8185c17c7d275a562ac344\",\"3b9671a31679fa4544b9b7a1e55ffe4f\"]",
+      "texto": "Comentário: Produto avariado, quebrado",
+      "metadados": {
+        "review_id": "4e424f744c8185c17c7d275a562ac344",
+        "order_id": "3b9671a31679fa4544b9b7a1e55ffe4f",
+        "review_creation_date": "2018-01-31 00:00:00",
+        "review_score": 1
+      },
+      "distancia": 0.26709020137786865
+    },
+    {
+      "documento_id": "[\"556e5259e2d5b0cbeec371d7a22bef5a\",\"49267f83c9f436f1147915577fdeb110\"]",
+      "texto": "Comentário: O produto veio estragado",
+      "metadados": {
+        "review_creation_date": "2017-11-04 00:00:00",
+        "review_score": 1,
+        "order_id": "49267f83c9f436f1147915577fdeb110",
+        "review_id": "556e5259e2d5b0cbeec371d7a22bef5a"
+      },
+      "distancia": 0.2731616497039795
+    },
+    {
+      "documento_id": "[\"cb770d3c460119845882aa6a04606e56\",\"ce7e2fea4efc732fbc5fd04753f2e549\"]",
+      "texto": "Comentário: produto veio danificado",
+      "metadados": {
+        "review_id": "cb770d3c460119845882aa6a04606e56",
+        "order_id": "ce7e2fea4efc732fbc5fd04753f2e549",
+        "review_creation_date": "2018-04-18 00:00:00",
+        "review_score": 2
+      },
+      "distancia": 0.2750319838523865
+    },
+    {
+      "documento_id": "[\"c8b00b8c7a3d22c6e66417bdc3aac0e8\",\"ab4b599b4beedfa0477ae471de03ffa0\"]",
+      "texto": "Comentário: O produto chegou com uns parte quebrada",
+      "metadados": {
+        "review_score": 1,
+        "order_id": "ab4b599b4beedfa0477ae471de03ffa0",
+        "review_id": "c8b00b8c7a3d22c6e66417bdc3aac0e8",
+        "review_creation_date": "2017-07-11 00:00:00"
+      },
+      "distancia": 0.2918747067451477
+    },
+    {
+      "documento_id": "[\"2c4fe37c5a6e8ab012281739e27196f6\",\"61d9b48d85b81cc207e948c13dbd633b\"]",
+      "texto": "Comentário: Produto entregue conforme anuncio, porém com vários defeitos ( quebrado, trincado, peça solta ), e até momento não tive retorno para a devolução ou troca do produto..",
+      "metadados": {
+        "review_score": 1,
+        "review_id": "2c4fe37c5a6e8ab012281739e27196f6",
+        "review_creation_date": "2018-03-22 00:00:00",
+        "order_id": "61d9b48d85b81cc207e948c13dbd633b"
+      },
+      "distancia": 0.30198895931243896
+    },
+    {
+      "documento_id": "[\"8aa52fdf8b2ebc5f5d5e09fcac3225e9\",\"f2371429f5b226299bc9410009b465b2\"]",
+      "texto": "Comentário: O produto que comprei chegou quebrado e as pilhas totalmente amassadas",
+      "metadados": {
+        "review_score": 2,
+        "review_id": "8aa52fdf8b2ebc5f5d5e09fcac3225e9",
+        "order_id": "f2371429f5b226299bc9410009b465b2",
+        "review_creation_date": "2018-05-09 00:00:00"
+      },
+      "distancia": 0.3022680878639221
+    },
+    {
+      "documento_id": "[\"ea13f408f9f91e78274f1caa2c9663d2\",\"a5be0f3a1b2874d7a949d0234acd688f\"]",
+      "texto": "Comentário: Produto chegou quebrado, ficaram de trocar",
+      "metadados": {
+        "review_creation_date": "2017-08-16 00:00:00",
+        "review_score": 1,
+        "order_id": "a5be0f3a1b2874d7a949d0234acd688f",
+        "review_id": "ea13f408f9f91e78274f1caa2c9663d2"
+      },
+      "distancia": 0.3094944357872009
+    },
+    {
+      "documento_id": "[\"eed7eaa5642e6e0f1ba87f8826860579\",\"20bc33ea85750fd7d20d7b72c5c4b36d\"]",
+      "texto": "Comentário: O produto veio rasgado",
+      "metadados": {
+        "review_score": 1,
+        "review_id": "eed7eaa5642e6e0f1ba87f8826860579",
+        "order_id": "20bc33ea85750fd7d20d7b72c5c4b36d",
+        "review_creation_date": "2017-08-01 00:00:00"
+      },
+      "distancia": 0.3112815022468567
+    },
+    {
+      "documento_id": "[\"a20c24976e5130fdc8ac993ecd6b649b\",\"2d7112fbe786c9c56050866c853e3a7f\"]",
+      "texto": "Comentário: O produto chegou rasgado",
+      "metadados": {
+        "review_score": 2,
+        "review_id": "a20c24976e5130fdc8ac993ecd6b649b",
+        "review_creation_date": "2017-12-11 00:00:00",
+        "order_id": "2d7112fbe786c9c56050866c853e3a7f"
+      },
+      "distancia": 0.31132298707962036
+    },
+    {
+      "documento_id": "[\"a20c24976e5130fdc8ac993ecd6b649b\",\"061f2692f309a270bc04537e0a2508bb\"]",
+      "texto": "Comentário: O produto chegou rasgado",
+      "metadados": {
+        "review_score": 2,
+        "order_id": "061f2692f309a270bc04537e0a2508bb",
+        "review_creation_date": "2017-12-11 00:00:00",
+        "review_id": "a20c24976e5130fdc8ac993ecd6b649b"
+      },
+      "distancia": 0.31132298707962036
+    },
+    {
+      "documento_id": "[\"1f9abf59f4b7b1ccfcb945f669ffad9a\",\"a0d8479e0bc26a5baa9988711c4320b1\"]",
+      "texto": "Comentário: o produto veio quebrado",
+      "metadados": {
+        "review_creation_date": "2017-07-25 00:00:00",
+        "review_score": 1,
+        "order_id": "a0d8479e0bc26a5baa9988711c4320b1",
+        "review_id": "1f9abf59f4b7b1ccfcb945f669ffad9a"
+      },
+      "distancia": 0.31337839365005493
+    },
+    {
+      "documento_id": "[\"ae26ce42d96b4959b446788cc57ef469\",\"e710c7377f2f29b3d369420d354b5abb\"]",
+      "texto": "Comentário: Produto veio quebrado, não podendo ser montado. Além de extrema baixa qualidade nas peças. Veio todo descascado, com medidas diferentes, amassado. Solicito troca urgente por um produto em boas condico",
+      "metadados": {
+        "review_score": 1,
+        "review_id": "ae26ce42d96b4959b446788cc57ef469",
+        "review_creation_date": "2017-08-22 00:00:00",
+        "order_id": "e710c7377f2f29b3d369420d354b5abb"
+      },
+      "distancia": 0.3156627416610718
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Quais relatos recuperados descrevem produtos quebrados ou com defeito?",
+    "instante_utc": "2026-11-07T20:36:31.145919+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato descreve um produto avariado, quebrado",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Um relato descreve o produto vindo estragado",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um relato descreve o produto vindo danificado",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um relato descreve o produto chegando com uma parte quebrada",
+        "fontes": [
+          "E4"
+        ]
+      },
+      {
+        "texto": "Um relato descreve o produto entregue com vários defeitos, incluindo quebrado, trincado e peça solta",
+        "fontes": [
+          "E5"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"4e424f744c8185c17c7d275a562ac344\",\"3b9671a31679fa4544b9b7a1e55ffe4f\"]",
+        "texto": "Comentário: Produto avariado, quebrado",
+        "nota": 1,
+        "data": "2018-01-31 00:00:00",
+        "review_id": "4e424f744c8185c17c7d275a562ac344",
+        "order_id": "3b9671a31679fa4544b9b7a1e55ffe4f",
+        "distancia": 0.26709020137786865,
+        "trecho": "Comentário: Produto avariado, quebrado"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"556e5259e2d5b0cbeec371d7a22bef5a\",\"49267f83c9f436f1147915577fdeb110\"]",
+        "texto": "Comentário: O produto veio estragado",
+        "nota": 1,
+        "data": "2017-11-04 00:00:00",
+        "review_id": "556e5259e2d5b0cbeec371d7a22bef5a",
+        "order_id": "49267f83c9f436f1147915577fdeb110",
+        "distancia": 0.2731616497039795,
+        "trecho": "Comentário: O produto veio estragado"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"cb770d3c460119845882aa6a04606e56\",\"ce7e2fea4efc732fbc5fd04753f2e549\"]",
+        "texto": "Comentário: produto veio danificado",
+        "nota": 2,
+        "data": "2018-04-18 00:00:00",
+        "review_id": "cb770d3c460119845882aa6a04606e56",
+        "order_id": "ce7e2fea4efc732fbc5fd04753f2e549",
+        "distancia": 0.2750319838523865,
+        "trecho": "Comentário: produto veio danificado"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"c8b00b8c7a3d22c6e66417bdc3aac0e8\",\"ab4b599b4beedfa0477ae471de03ffa0\"]",
+        "texto": "Comentário: O produto chegou com uns parte quebrada",
+        "nota": 1,
+        "data": "2017-07-11 00:00:00",
+        "review_id": "c8b00b8c7a3d22c6e66417bdc3aac0e8",
+        "order_id": "ab4b599b4beedfa0477ae471de03ffa0",
+        "distancia": 0.2918747067451477,
+        "trecho": "Comentário: O produto chegou com uns parte quebrada"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"2c4fe37c5a6e8ab012281739e27196f6\",\"61d9b48d85b81cc207e948c13dbd633b\"]",
+        "texto": "Comentário: Produto entregue conforme anuncio, porém com vários defeitos ( quebrado, trincado, peça solta ), e até momento não tive retorno para a devolução ou troca do produto..",
+        "nota": 1,
+        "data": "2018-03-22 00:00:00",
+        "review_id": "2c4fe37c5a6e8ab012281739e27196f6",
+        "order_id": "61d9b48d85b81cc207e948c13dbd633b",
+        "distancia": 0.30198895931243896,
+        "trecho": "Comentário: Produto entregue conforme anuncio, porém com vários defeitos ( quebrado, trincado, peça solta ), e até momento não tive retorno para a devolução ou troca do produto.."
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"4e424f744c8185c17c7d275a562ac344\",\"3b9671a31679fa4544b9b7a1e55ffe4f\"]",
+        "texto": "Comentário: Produto avariado, quebrado",
+        "nota": 1,
+        "data": "2018-01-31 00:00:00",
+        "review_id": "4e424f744c8185c17c7d275a562ac344",
+        "order_id": "3b9671a31679fa4544b9b7a1e55ffe4f",
+        "distancia": 0.26709020137786865
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"556e5259e2d5b0cbeec371d7a22bef5a\",\"49267f83c9f436f1147915577fdeb110\"]",
+        "texto": "Comentário: O produto veio estragado",
+        "nota": 1,
+        "data": "2017-11-04 00:00:00",
+        "review_id": "556e5259e2d5b0cbeec371d7a22bef5a",
+        "order_id": "49267f83c9f436f1147915577fdeb110",
+        "distancia": 0.2731616497039795
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"cb770d3c460119845882aa6a04606e56\",\"ce7e2fea4efc732fbc5fd04753f2e549\"]",
+        "texto": "Comentário: produto veio danificado",
+        "nota": 2,
+        "data": "2018-04-18 00:00:00",
+        "review_id": "cb770d3c460119845882aa6a04606e56",
+        "order_id": "ce7e2fea4efc732fbc5fd04753f2e549",
+        "distancia": 0.2750319838523865
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"c8b00b8c7a3d22c6e66417bdc3aac0e8\",\"ab4b599b4beedfa0477ae471de03ffa0\"]",
+        "texto": "Comentário: O produto chegou com uns parte quebrada",
+        "nota": 1,
+        "data": "2017-07-11 00:00:00",
+        "review_id": "c8b00b8c7a3d22c6e66417bdc3aac0e8",
+        "order_id": "ab4b599b4beedfa0477ae471de03ffa0",
+        "distancia": 0.2918747067451477
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"2c4fe37c5a6e8ab012281739e27196f6\",\"61d9b48d85b81cc207e948c13dbd633b\"]",
+        "texto": "Comentário: Produto entregue conforme anuncio, porém com vários defeitos ( quebrado, trincado, peça solta ), e até momento não tive retorno para a devolução ou troca do produto..",
+        "nota": 1,
+        "data": "2018-03-22 00:00:00",
+        "review_id": "2c4fe37c5a6e8ab012281739e27196f6",
+        "order_id": "61d9b48d85b81cc207e948c13dbd633b",
+        "distancia": 0.30198895931243896
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"8aa52fdf8b2ebc5f5d5e09fcac3225e9\",\"f2371429f5b226299bc9410009b465b2\"]",
+        "texto": "Comentário: O produto que comprei chegou quebrado e as pilhas totalmente amassadas",
+        "nota": 2,
+        "data": "2018-05-09 00:00:00",
+        "review_id": "8aa52fdf8b2ebc5f5d5e09fcac3225e9",
+        "order_id": "f2371429f5b226299bc9410009b465b2",
+        "distancia": 0.3022680878639221
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"ea13f408f9f91e78274f1caa2c9663d2\",\"a5be0f3a1b2874d7a949d0234acd688f\"]",
+        "texto": "Comentário: Produto chegou quebrado, ficaram de trocar",
+        "nota": 1,
+        "data": "2017-08-16 00:00:00",
+        "review_id": "ea13f408f9f91e78274f1caa2c9663d2",
+        "order_id": "a5be0f3a1b2874d7a949d0234acd688f",
+        "distancia": 0.3094944357872009
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"eed7eaa5642e6e0f1ba87f8826860579\",\"20bc33ea85750fd7d20d7b72c5c4b36d\"]",
+        "texto": "Comentário: O produto veio rasgado",
+        "nota": 1,
+        "data": "2017-08-01 00:00:00",
+        "review_id": "eed7eaa5642e6e0f1ba87f8826860579",
+        "order_id": "20bc33ea85750fd7d20d7b72c5c4b36d",
+        "distancia": 0.3112815022468567
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"a20c24976e5130fdc8ac993ecd6b649b\",\"2d7112fbe786c9c56050866c853e3a7f\"]",
+        "texto": "Comentário: O produto chegou rasgado",
+        "nota": 2,
+        "data": "2017-12-11 00:00:00",
+        "review_id": "a20c24976e5130fdc8ac993ecd6b649b",
+        "order_id": "2d7112fbe786c9c56050866c853e3a7f",
+        "distancia": 0.31132298707962036
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"1f9abf59f4b7b1ccfcb945f669ffad9a\",\"a0d8479e0bc26a5baa9988711c4320b1\"]",
+        "texto": "Comentário: o produto veio quebrado",
+        "nota": 1,
+        "data": "2017-07-25 00:00:00",
+        "review_id": "1f9abf59f4b7b1ccfcb945f669ffad9a",
+        "order_id": "a0d8479e0bc26a5baa9988711c4320b1",
+        "distancia": 0.31337839365005493
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"4e424f744c8185c17c7d275a562ac344\",\"3b9671a31679fa4544b9b7a1e55ffe4f\"]",
+        "texto": "Comentário: Produto avariado, quebrado",
+        "nota": 1,
+        "data": "2018-01-31 00:00:00",
+        "review_id": "4e424f744c8185c17c7d275a562ac344",
+        "order_id": "3b9671a31679fa4544b9b7a1e55ffe4f",
+        "distancia": 0.26709020137786865,
+        "trecho": "Comentário: Produto avariado, quebrado"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"556e5259e2d5b0cbeec371d7a22bef5a\",\"49267f83c9f436f1147915577fdeb110\"]",
+        "texto": "Comentário: O produto veio estragado",
+        "nota": 1,
+        "data": "2017-11-04 00:00:00",
+        "review_id": "556e5259e2d5b0cbeec371d7a22bef5a",
+        "order_id": "49267f83c9f436f1147915577fdeb110",
+        "distancia": 0.2731616497039795,
+        "trecho": "Comentário: O produto veio estragado"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"cb770d3c460119845882aa6a04606e56\",\"ce7e2fea4efc732fbc5fd04753f2e549\"]",
+        "texto": "Comentário: produto veio danificado",
+        "nota": 2,
+        "data": "2018-04-18 00:00:00",
+        "review_id": "cb770d3c460119845882aa6a04606e56",
+        "order_id": "ce7e2fea4efc732fbc5fd04753f2e549",
+        "distancia": 0.2750319838523865,
+        "trecho": "Comentário: produto veio danificado"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"c8b00b8c7a3d22c6e66417bdc3aac0e8\",\"ab4b599b4beedfa0477ae471de03ffa0\"]",
+        "texto": "Comentário: O produto chegou com uns parte quebrada",
+        "nota": 1,
+        "data": "2017-07-11 00:00:00",
+        "review_id": "c8b00b8c7a3d22c6e66417bdc3aac0e8",
+        "order_id": "ab4b599b4beedfa0477ae471de03ffa0",
+        "distancia": 0.2918747067451477,
+        "trecho": "Comentário: O produto chegou com uns parte quebrada"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"2c4fe37c5a6e8ab012281739e27196f6\",\"61d9b48d85b81cc207e948c13dbd633b\"]",
+        "texto": "Comentário: Produto entregue conforme anuncio, porém com vários defeitos ( quebrado, trincado, peça solta ), e até momento não tive retorno para a devolução ou troca do produto..",
+        "nota": 1,
+        "data": "2018-03-22 00:00:00",
+        "review_id": "2c4fe37c5a6e8ab012281739e27196f6",
+        "order_id": "61d9b48d85b81cc207e948c13dbd633b",
+        "distancia": 0.30198895931243896,
+        "trecho": "Comentário: Produto entregue conforme anuncio, porém com vários defeitos ( quebrado, trincado, peça solta ), e até momento não tive retorno para a devolução ou troca do produto.."
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E4\"}, {\"fonte\": \"E5\"}], \"justificativa\": \"As fontes descrevem produtos quebrados ou com defeito, como por exemplo, 'Produto avariado, quebrado', 'O produto veio estragado', 'produto veio danificado', 'O produto chegou com uns parte quebrada' e 'Produto entregue conforme anuncio, porém com vários defeitos ( quebrado, trincado, peça solta )'.\"}",
+        "uso": {
+          "completion_tokens": 151,
+          "prompt_tokens": 2811,
+          "total_tokens": 2962,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 22.076728865000405,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato descreve um produto avariado, quebrado\", \"fontes\": [\"E1\"]}, {\"texto\": \"Um relato descreve o produto vindo estragado\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um relato descreve o produto vindo danificado\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um relato descreve o produto chegando com uma parte quebrada\", \"fontes\": [\"E4\"]}, {\"texto\": \"Um relato descreve o produto entregue com vários defeitos, incluindo quebrado, trincado e peça solta\", \"fontes\": [\"E5\"]}]}",
+        "uso": {
+          "completion_tokens": 170,
+          "prompt_tokens": 1358,
+          "total_tokens": 1528,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 7.184247054000025,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 29.26149853700008
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 29.30517620799992
+}

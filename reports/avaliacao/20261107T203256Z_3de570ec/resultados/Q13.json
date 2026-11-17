@@ -1,0 +1,440 @@
+{
+  "pergunta_id": "Q13",
+  "pergunta": "Quais relatos elogiam a rapidez da entrega?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:42:59.422338+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"dcabe2a4ee873f7a0dd07d46977cfcf7\",\"82a4587415d59443dce9ac6d0ce8720f\"]",
+      "texto": "Comentário: Muito bom a rapidez da entrega",
+      "metadados": {
+        "review_score": 5,
+        "review_id": "dcabe2a4ee873f7a0dd07d46977cfcf7",
+        "order_id": "82a4587415d59443dce9ac6d0ce8720f",
+        "review_creation_date": "2017-05-17 00:00:00"
+      },
+      "distancia": 0.16970127820968628
+    },
+    {
+      "documento_id": "[\"25e5a291379ef17ad99115818c978f68\",\"2d28ab17a7a4eaa06618d69734143c37\"]",
+      "texto": "Comentário: Parabens pelo rapidez na entrega.",
+      "metadados": {
+        "review_score": 5,
+        "review_creation_date": "2018-03-24 00:00:00",
+        "order_id": "2d28ab17a7a4eaa06618d69734143c37",
+        "review_id": "25e5a291379ef17ad99115818c978f68"
+      },
+      "distancia": 0.1728113293647766
+    },
+    {
+      "documento_id": "[\"2040f26b60ebec871246a85e13e90ff6\",\"2ee77ee9cd8288db14b7af33ba98c163\"]",
+      "texto": "Comentário: a entrega foi rapida",
+      "metadados": {
+        "review_score": 5,
+        "order_id": "2ee77ee9cd8288db14b7af33ba98c163",
+        "review_id": "2040f26b60ebec871246a85e13e90ff6",
+        "review_creation_date": "2017-10-22 00:00:00"
+      },
+      "distancia": 0.18515437841415405
+    },
+    {
+      "documento_id": "[\"f447b1aa1d48db7c8d8a1e04d8db54ff\",\"934f5cbffbb010f2c0b4a1663d2c14fd\"]",
+      "texto": "Comentário: a entrega surpreende pela rapidez.",
+      "metadados": {
+        "review_creation_date": "2017-08-11 00:00:00",
+        "review_id": "f447b1aa1d48db7c8d8a1e04d8db54ff",
+        "order_id": "934f5cbffbb010f2c0b4a1663d2c14fd",
+        "review_score": 5
+      },
+      "distancia": 0.18639147281646729
+    },
+    {
+      "documento_id": "[\"d5d0b99a43170ffc72b90294ee9a05b8\",\"e6f4dcae8f74d19df7183854d1276023\"]",
+      "texto": "Comentário: rapidez na entrega...ótimo",
+      "metadados": {
+        "review_score": 5,
+        "order_id": "e6f4dcae8f74d19df7183854d1276023",
+        "review_creation_date": "2017-06-22 00:00:00",
+        "review_id": "d5d0b99a43170ffc72b90294ee9a05b8"
+      },
+      "distancia": 0.18910086154937744
+    },
+    {
+      "documento_id": "[\"74faa8128ffe6b654dfc1330eb4e61aa\",\"219f831fcedecf53187489f9aad154eb\"]",
+      "texto": "Comentário: entrega foi rapida",
+      "metadados": {
+        "review_creation_date": "2017-08-15 00:00:00",
+        "review_score": 5,
+        "review_id": "74faa8128ffe6b654dfc1330eb4e61aa",
+        "order_id": "219f831fcedecf53187489f9aad154eb"
+      },
+      "distancia": 0.19110733270645142
+    },
+    {
+      "documento_id": "[\"706ffd0fca9eb4f93d2f6ddead6f61a5\",\"1228dac9977828d7f61c8785ee414064\"]",
+      "texto": "Comentário: Excelente rapidez na entrega !",
+      "metadados": {
+        "review_score": 5,
+        "order_id": "1228dac9977828d7f61c8785ee414064",
+        "review_creation_date": "2017-07-27 00:00:00",
+        "review_id": "706ffd0fca9eb4f93d2f6ddead6f61a5"
+      },
+      "distancia": 0.19513320922851562
+    },
+    {
+      "documento_id": "[\"f425e2bb0ddbb908f854037ff7f763bc\",\"90ce89533b41eda077534cdb0b9c9b82\"]",
+      "texto": "Comentário: Ótima entrega é rápido",
+      "metadados": {
+        "review_creation_date": "2017-12-24 00:00:00",
+        "order_id": "90ce89533b41eda077534cdb0b9c9b82",
+        "review_id": "f425e2bb0ddbb908f854037ff7f763bc",
+        "review_score": 5
+      },
+      "distancia": 0.19641023874282837
+    },
+    {
+      "documento_id": "[\"abe34daf93e11da011eba48bcfc32b48\",\"856a6bef735f48ac9d2c56835924921d\"]",
+      "texto": "Comentário: a entrega foi bem rápida",
+      "metadados": {
+        "review_score": 4,
+        "review_id": "abe34daf93e11da011eba48bcfc32b48",
+        "review_creation_date": "2018-04-10 00:00:00",
+        "order_id": "856a6bef735f48ac9d2c56835924921d"
+      },
+      "distancia": 0.20570415258407593
+    },
+    {
+      "documento_id": "[\"7031f4fdf9c78f09287aeeb95751a762\",\"49b40d0575b7f9b42d51d5faa0aab91a\"]",
+      "texto": "Comentário: A entrega foi muito rápida",
+      "metadados": {
+        "review_score": 5,
+        "order_id": "49b40d0575b7f9b42d51d5faa0aab91a",
+        "review_id": "7031f4fdf9c78f09287aeeb95751a762",
+        "review_creation_date": "2017-02-17 00:00:00"
+      },
+      "distancia": 0.2065938115119934
+    },
+    {
+      "documento_id": "[\"55cb26ac603f6c5dd0b9347d0d117efa\",\"b8f158c49d2b09fe06025a4c5dc346f7\"]",
+      "texto": "Comentário: rapidez na entrega",
+      "metadados": {
+        "review_creation_date": "2017-08-05 00:00:00",
+        "order_id": "b8f158c49d2b09fe06025a4c5dc346f7",
+        "review_id": "55cb26ac603f6c5dd0b9347d0d117efa",
+        "review_score": 4
+      },
+      "distancia": 0.20791029930114746
+    },
+    {
+      "documento_id": "[\"2031e682a1a66dd7ed0fb46b0d8df0b0\",\"419d6e22eba13162bab9a27445a72179\"]",
+      "texto": "Comentário: rapidez na entrega.",
+      "metadados": {
+        "review_score": 3,
+        "review_id": "2031e682a1a66dd7ed0fb46b0d8df0b0",
+        "order_id": "419d6e22eba13162bab9a27445a72179",
+        "review_creation_date": "2018-01-27 00:00:00"
+      },
+      "distancia": 0.21168643236160278
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Quais relatos elogiam a rapidez da entrega?",
+    "instante_utc": "2026-11-07T20:42:59.522661+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato elogia a rapidez da entrega",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Outro relato parabeniza a rapidez na entrega",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um comentário menciona que a entrega foi rápida",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um relato destaca que a entrega surpreende pela rapidez",
+        "fontes": [
+          "E4"
+        ]
+      },
+      {
+        "texto": "Um comentário elogia a rapidez na entrega como ótimo",
+        "fontes": [
+          "E5"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"dcabe2a4ee873f7a0dd07d46977cfcf7\",\"82a4587415d59443dce9ac6d0ce8720f\"]",
+        "texto": "Comentário: Muito bom a rapidez da entrega",
+        "nota": 5,
+        "data": "2017-05-17 00:00:00",
+        "review_id": "dcabe2a4ee873f7a0dd07d46977cfcf7",
+        "order_id": "82a4587415d59443dce9ac6d0ce8720f",
+        "distancia": 0.16970127820968628,
+        "trecho": "Comentário: Muito bom a rapidez da entrega"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"25e5a291379ef17ad99115818c978f68\",\"2d28ab17a7a4eaa06618d69734143c37\"]",
+        "texto": "Comentário: Parabens pelo rapidez na entrega.",
+        "nota": 5,
+        "data": "2018-03-24 00:00:00",
+        "review_id": "25e5a291379ef17ad99115818c978f68",
+        "order_id": "2d28ab17a7a4eaa06618d69734143c37",
+        "distancia": 0.1728113293647766,
+        "trecho": "Comentário: Parabens pelo rapidez na entrega."
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"2040f26b60ebec871246a85e13e90ff6\",\"2ee77ee9cd8288db14b7af33ba98c163\"]",
+        "texto": "Comentário: a entrega foi rapida",
+        "nota": 5,
+        "data": "2017-10-22 00:00:00",
+        "review_id": "2040f26b60ebec871246a85e13e90ff6",
+        "order_id": "2ee77ee9cd8288db14b7af33ba98c163",
+        "distancia": 0.18515437841415405,
+        "trecho": "Comentário: a entrega foi rapida"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"f447b1aa1d48db7c8d8a1e04d8db54ff\",\"934f5cbffbb010f2c0b4a1663d2c14fd\"]",
+        "texto": "Comentário: a entrega surpreende pela rapidez.",
+        "nota": 5,
+        "data": "2017-08-11 00:00:00",
+        "review_id": "f447b1aa1d48db7c8d8a1e04d8db54ff",
+        "order_id": "934f5cbffbb010f2c0b4a1663d2c14fd",
+        "distancia": 0.18639147281646729,
+        "trecho": "Comentário: a entrega surpreende pela rapidez."
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"d5d0b99a43170ffc72b90294ee9a05b8\",\"e6f4dcae8f74d19df7183854d1276023\"]",
+        "texto": "Comentário: rapidez na entrega...ótimo",
+        "nota": 5,
+        "data": "2017-06-22 00:00:00",
+        "review_id": "d5d0b99a43170ffc72b90294ee9a05b8",
+        "order_id": "e6f4dcae8f74d19df7183854d1276023",
+        "distancia": 0.18910086154937744,
+        "trecho": "Comentário: rapidez na entrega...ótimo"
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"dcabe2a4ee873f7a0dd07d46977cfcf7\",\"82a4587415d59443dce9ac6d0ce8720f\"]",
+        "texto": "Comentário: Muito bom a rapidez da entrega",
+        "nota": 5,
+        "data": "2017-05-17 00:00:00",
+        "review_id": "dcabe2a4ee873f7a0dd07d46977cfcf7",
+        "order_id": "82a4587415d59443dce9ac6d0ce8720f",
+        "distancia": 0.16970127820968628
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"25e5a291379ef17ad99115818c978f68\",\"2d28ab17a7a4eaa06618d69734143c37\"]",
+        "texto": "Comentário: Parabens pelo rapidez na entrega.",
+        "nota": 5,
+        "data": "2018-03-24 00:00:00",
+        "review_id": "25e5a291379ef17ad99115818c978f68",
+        "order_id": "2d28ab17a7a4eaa06618d69734143c37",
+        "distancia": 0.1728113293647766
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"2040f26b60ebec871246a85e13e90ff6\",\"2ee77ee9cd8288db14b7af33ba98c163\"]",
+        "texto": "Comentário: a entrega foi rapida",
+        "nota": 5,
+        "data": "2017-10-22 00:00:00",
+        "review_id": "2040f26b60ebec871246a85e13e90ff6",
+        "order_id": "2ee77ee9cd8288db14b7af33ba98c163",
+        "distancia": 0.18515437841415405
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"f447b1aa1d48db7c8d8a1e04d8db54ff\",\"934f5cbffbb010f2c0b4a1663d2c14fd\"]",
+        "texto": "Comentário: a entrega surpreende pela rapidez.",
+        "nota": 5,
+        "data": "2017-08-11 00:00:00",
+        "review_id": "f447b1aa1d48db7c8d8a1e04d8db54ff",
+        "order_id": "934f5cbffbb010f2c0b4a1663d2c14fd",
+        "distancia": 0.18639147281646729
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"d5d0b99a43170ffc72b90294ee9a05b8\",\"e6f4dcae8f74d19df7183854d1276023\"]",
+        "texto": "Comentário: rapidez na entrega...ótimo",
+        "nota": 5,
+        "data": "2017-06-22 00:00:00",
+        "review_id": "d5d0b99a43170ffc72b90294ee9a05b8",
+        "order_id": "e6f4dcae8f74d19df7183854d1276023",
+        "distancia": 0.18910086154937744
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"74faa8128ffe6b654dfc1330eb4e61aa\",\"219f831fcedecf53187489f9aad154eb\"]",
+        "texto": "Comentário: entrega foi rapida",
+        "nota": 5,
+        "data": "2017-08-15 00:00:00",
+        "review_id": "74faa8128ffe6b654dfc1330eb4e61aa",
+        "order_id": "219f831fcedecf53187489f9aad154eb",
+        "distancia": 0.19110733270645142
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"706ffd0fca9eb4f93d2f6ddead6f61a5\",\"1228dac9977828d7f61c8785ee414064\"]",
+        "texto": "Comentário: Excelente rapidez na entrega !",
+        "nota": 5,
+        "data": "2017-07-27 00:00:00",
+        "review_id": "706ffd0fca9eb4f93d2f6ddead6f61a5",
+        "order_id": "1228dac9977828d7f61c8785ee414064",
+        "distancia": 0.19513320922851562
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"f425e2bb0ddbb908f854037ff7f763bc\",\"90ce89533b41eda077534cdb0b9c9b82\"]",
+        "texto": "Comentário: Ótima entrega é rápido",
+        "nota": 5,
+        "data": "2017-12-24 00:00:00",
+        "review_id": "f425e2bb0ddbb908f854037ff7f763bc",
+        "order_id": "90ce89533b41eda077534cdb0b9c9b82",
+        "distancia": 0.19641023874282837
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"abe34daf93e11da011eba48bcfc32b48\",\"856a6bef735f48ac9d2c56835924921d\"]",
+        "texto": "Comentário: a entrega foi bem rápida",
+        "nota": 4,
+        "data": "2018-04-10 00:00:00",
+        "review_id": "abe34daf93e11da011eba48bcfc32b48",
+        "order_id": "856a6bef735f48ac9d2c56835924921d",
+        "distancia": 0.20570415258407593
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"7031f4fdf9c78f09287aeeb95751a762\",\"49b40d0575b7f9b42d51d5faa0aab91a\"]",
+        "texto": "Comentário: A entrega foi muito rápida",
+        "nota": 5,
+        "data": "2017-02-17 00:00:00",
+        "review_id": "7031f4fdf9c78f09287aeeb95751a762",
+        "order_id": "49b40d0575b7f9b42d51d5faa0aab91a",
+        "distancia": 0.2065938115119934
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"dcabe2a4ee873f7a0dd07d46977cfcf7\",\"82a4587415d59443dce9ac6d0ce8720f\"]",
+        "texto": "Comentário: Muito bom a rapidez da entrega",
+        "nota": 5,
+        "data": "2017-05-17 00:00:00",
+        "review_id": "dcabe2a4ee873f7a0dd07d46977cfcf7",
+        "order_id": "82a4587415d59443dce9ac6d0ce8720f",
+        "distancia": 0.16970127820968628,
+        "trecho": "Comentário: Muito bom a rapidez da entrega"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"25e5a291379ef17ad99115818c978f68\",\"2d28ab17a7a4eaa06618d69734143c37\"]",
+        "texto": "Comentário: Parabens pelo rapidez na entrega.",
+        "nota": 5,
+        "data": "2018-03-24 00:00:00",
+        "review_id": "25e5a291379ef17ad99115818c978f68",
+        "order_id": "2d28ab17a7a4eaa06618d69734143c37",
+        "distancia": 0.1728113293647766,
+        "trecho": "Comentário: Parabens pelo rapidez na entrega."
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"2040f26b60ebec871246a85e13e90ff6\",\"2ee77ee9cd8288db14b7af33ba98c163\"]",
+        "texto": "Comentário: a entrega foi rapida",
+        "nota": 5,
+        "data": "2017-10-22 00:00:00",
+        "review_id": "2040f26b60ebec871246a85e13e90ff6",
+        "order_id": "2ee77ee9cd8288db14b7af33ba98c163",
+        "distancia": 0.18515437841415405,
+        "trecho": "Comentário: a entrega foi rapida"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"f447b1aa1d48db7c8d8a1e04d8db54ff\",\"934f5cbffbb010f2c0b4a1663d2c14fd\"]",
+        "texto": "Comentário: a entrega surpreende pela rapidez.",
+        "nota": 5,
+        "data": "2017-08-11 00:00:00",
+        "review_id": "f447b1aa1d48db7c8d8a1e04d8db54ff",
+        "order_id": "934f5cbffbb010f2c0b4a1663d2c14fd",
+        "distancia": 0.18639147281646729,
+        "trecho": "Comentário: a entrega surpreende pela rapidez."
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"d5d0b99a43170ffc72b90294ee9a05b8\",\"e6f4dcae8f74d19df7183854d1276023\"]",
+        "texto": "Comentário: rapidez na entrega...ótimo",
+        "nota": 5,
+        "data": "2017-06-22 00:00:00",
+        "review_id": "d5d0b99a43170ffc72b90294ee9a05b8",
+        "order_id": "e6f4dcae8f74d19df7183854d1276023",
+        "distancia": 0.18910086154937744,
+        "trecho": "Comentário: rapidez na entrega...ótimo"
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E4\"}, {\"fonte\": \"E5\"}], \"justificativa\": \"Os relatos elogiam a rapidez da entrega, utilizando expressões como 'Muito bom a rapidez da entrega', 'Parabens pelo rapidez na entrega', 'a entrega foi rapida', 'a entrega surpreende pela rapidez' e 'rapidez na entrega...ótimo'.\"}",
+        "uso": {
+          "completion_tokens": 127,
+          "prompt_tokens": 2705,
+          "total_tokens": 2832,
+          "prompt_tokens_details": {
+            "cached_tokens": 1120
+          },
+          "cache_read_input_tokens": 1120
+        },
+        "latencia_s": 2.208747269000014,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato elogia a rapidez da entrega\", \"fontes\": [\"E1\"]}, {\"texto\": \"Outro relato parabeniza a rapidez na entrega\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um comentário menciona que a entrega foi rápida\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um relato destaca que a entrega surpreende pela rapidez\", \"fontes\": [\"E4\"]}, {\"texto\": \"Um comentário elogia a rapidez na entrega como ótimo\", \"fontes\": [\"E5\"]}]}",
+        "uso": {
+          "completion_tokens": 147,
+          "prompt_tokens": 1313,
+          "total_tokens": 1460,
+          "prompt_tokens_details": {
+            "cached_tokens": 704
+          },
+          "cache_read_input_tokens": 704
+        },
+        "latencia_s": 2.230259531000229,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 4.439528931999575
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 4.539527248000013
+}

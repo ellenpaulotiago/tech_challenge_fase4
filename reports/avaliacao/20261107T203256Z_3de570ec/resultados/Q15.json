@@ -1,0 +1,440 @@
+{
+  "pergunta_id": "Q15",
+  "pergunta": "O que os clientes elogiam na experiência de compra nos relatos recuperados?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:43:22.457373+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"d616c8b2fc1e9b6e150b77e78967a4ea\",\"1da5abde88d474271f7a8d3dc9206c6a\"]",
+      "texto": "Comentário: A experiência da compra foi muito satisfatória.",
+      "metadados": {
+        "order_id": "1da5abde88d474271f7a8d3dc9206c6a",
+        "review_id": "d616c8b2fc1e9b6e150b77e78967a4ea",
+        "review_score": 5,
+        "review_creation_date": "2017-12-14 00:00:00"
+      },
+      "distancia": 0.2569401264190674
+    },
+    {
+      "documento_id": "[\"0d65bf6c54e217b5ba5d38b2f4edfd0d\",\"e73242af72f21b83ed57aeb572c4f62c\"]",
+      "texto": "Comentário: Adorei a experiência de compra",
+      "metadados": {
+        "review_id": "0d65bf6c54e217b5ba5d38b2f4edfd0d",
+        "review_creation_date": "2018-01-09 00:00:00",
+        "order_id": "e73242af72f21b83ed57aeb572c4f62c",
+        "review_score": 5
+      },
+      "distancia": 0.25890475511550903
+    },
+    {
+      "documento_id": "[\"52300a5e6997431d0597e820015ec8ff\",\"74f04ddd0bd65a396c7210db1e0d1259\"]",
+      "texto": "Comentário: excelente experiência de compra. Obrigado",
+      "metadados": {
+        "review_id": "52300a5e6997431d0597e820015ec8ff",
+        "review_creation_date": "2018-03-03 00:00:00",
+        "review_score": 5,
+        "order_id": "74f04ddd0bd65a396c7210db1e0d1259"
+      },
+      "distancia": 0.2599610686302185
+    },
+    {
+      "documento_id": "[\"671026223a554a2e17f2bdd7f6df9fb1\",\"f001d39de25ce801a4b275f5ad3e1c2e\"]",
+      "texto": "Comentário: Solicito informações sobre a compra e o estorno da compra? Se o valor for devolvido, recomendaria a loja sim",
+      "metadados": {
+        "order_id": "f001d39de25ce801a4b275f5ad3e1c2e",
+        "review_id": "671026223a554a2e17f2bdd7f6df9fb1",
+        "review_score": 2,
+        "review_creation_date": "2017-12-20 00:00:00"
+      },
+      "distancia": 0.26505523920059204
+    },
+    {
+      "documento_id": "[\"a8356bf01ae6be19d520be1aba4df944\",\"390f7b0eca6e233bfe1584c54f97c39e\"]",
+      "texto": "Comentário: adorei a minha adquisição,recomento a loja.",
+      "metadados": {
+        "order_id": "390f7b0eca6e233bfe1584c54f97c39e",
+        "review_id": "a8356bf01ae6be19d520be1aba4df944",
+        "review_score": 5,
+        "review_creation_date": "2017-05-30 00:00:00"
+      },
+      "distancia": 0.2733079195022583
+    },
+    {
+      "documento_id": "[\"8c693221cf18f71764f09a52d2fa529f\",\"39862f3bc75e8a104d1bd7bbf6255668\"]",
+      "texto": "Comentário: Super satisfeita com a compra feita, a entrega e o suporte e atenção com o cliente.",
+      "metadados": {
+        "review_creation_date": "2018-03-10 00:00:00",
+        "order_id": "39862f3bc75e8a104d1bd7bbf6255668",
+        "review_id": "8c693221cf18f71764f09a52d2fa529f",
+        "review_score": 5
+      },
+      "distancia": 0.27436941862106323
+    },
+    {
+      "documento_id": "[\"4783e74321ec0223daae1874e92dafab\",\"a50e5978ea225733e3885163fe1d81bc\"]",
+      "texto": "Comentário: Gostei muito do atendimento nessa minha primeira compra voltarei a comprar mais vezes",
+      "metadados": {
+        "review_creation_date": "2017-07-27 00:00:00",
+        "order_id": "a50e5978ea225733e3885163fe1d81bc",
+        "review_score": 5,
+        "review_id": "4783e74321ec0223daae1874e92dafab"
+      },
+      "distancia": 0.2757417559623718
+    },
+    {
+      "documento_id": "[\"cd25657520069786f4085c0f12813cdc\",\"e02d1acde68fc554aee0e2913c3179d0\"]",
+      "texto": "Comentário: Satisfatório todo o processo de compras e entrega do produto.",
+      "metadados": {
+        "review_score": 4,
+        "order_id": "e02d1acde68fc554aee0e2913c3179d0",
+        "review_creation_date": "2017-12-01 00:00:00",
+        "review_id": "cd25657520069786f4085c0f12813cdc"
+      },
+      "distancia": 0.27781474590301514
+    },
+    {
+      "documento_id": "[\"f64fb5dfbf1febd8f1e1c6f8238ce383\",\"2b3d870a4d670c91f15668cea4fe3aa5\"]",
+      "texto": "Comentário: Gostaria de um retorno o quanto antes da situação da compra. Obrigada",
+      "metadados": {
+        "order_id": "2b3d870a4d670c91f15668cea4fe3aa5",
+        "review_score": 1,
+        "review_id": "f64fb5dfbf1febd8f1e1c6f8238ce383",
+        "review_creation_date": "2018-02-01 00:00:00"
+      },
+      "distancia": 0.27965986728668213
+    },
+    {
+      "documento_id": "[\"f8686be400c10f9231c1f26d52a480cc\",\"3b995b138dcbefaf9fffef19025a1e34\"]",
+      "texto": "Comentário: Ótima aquisição feliz com a compra e entrega",
+      "metadados": {
+        "review_score": 4,
+        "order_id": "3b995b138dcbefaf9fffef19025a1e34",
+        "review_id": "f8686be400c10f9231c1f26d52a480cc",
+        "review_creation_date": "2018-02-10 00:00:00"
+      },
+      "distancia": 0.28591543436050415
+    },
+    {
+      "documento_id": "[\"346730565e84609bf0a18a45b4b686d4\",\"3c91e3497ee8a38751b01e5d549a9bf3\"]",
+      "texto": "Comentário: satisfeita com a compra realizada.",
+      "metadados": {
+        "review_creation_date": "2017-07-19 00:00:00",
+        "order_id": "3c91e3497ee8a38751b01e5d549a9bf3",
+        "review_id": "346730565e84609bf0a18a45b4b686d4",
+        "review_score": 5
+      },
+      "distancia": 0.2890635132789612
+    },
+    {
+      "documento_id": "[\"56e0404dbee663daf8c116e12f153f60\",\"5e605c248def72c23690c44126f8ecb6\"]",
+      "texto": "Comentário: Gostei muito, tive informações sobre o processo de andamento da compra até chegar em minhas mãos. Muito obrigado!",
+      "metadados": {
+        "review_score": 4,
+        "review_id": "56e0404dbee663daf8c116e12f153f60",
+        "review_creation_date": "2018-02-27 00:00:00",
+        "order_id": "5e605c248def72c23690c44126f8ecb6"
+      },
+      "distancia": 0.28932368755340576
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "O que os clientes elogiam na experiência de compra nos relatos recuperados?",
+    "instante_utc": "2026-11-07T20:43:22.553448+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato elogia a experiência de compra como muito satisfatória.",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Outro relato afirma que adorou a experiência de compra.",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um cliente descreve a experiência de compra como excelente.",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um cliente recomenda a loja após adorar sua adquisição.",
+        "fontes": [
+          "E5"
+        ]
+      },
+      {
+        "texto": "Um relato expressa satisfação com a compra, entrega, suporte e atenção ao cliente.",
+        "fontes": [
+          "E6"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"d616c8b2fc1e9b6e150b77e78967a4ea\",\"1da5abde88d474271f7a8d3dc9206c6a\"]",
+        "texto": "Comentário: A experiência da compra foi muito satisfatória.",
+        "nota": 5,
+        "data": "2017-12-14 00:00:00",
+        "review_id": "d616c8b2fc1e9b6e150b77e78967a4ea",
+        "order_id": "1da5abde88d474271f7a8d3dc9206c6a",
+        "distancia": 0.2569401264190674,
+        "trecho": "Comentário: A experiência da compra foi muito satisfatória."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"0d65bf6c54e217b5ba5d38b2f4edfd0d\",\"e73242af72f21b83ed57aeb572c4f62c\"]",
+        "texto": "Comentário: Adorei a experiência de compra",
+        "nota": 5,
+        "data": "2018-01-09 00:00:00",
+        "review_id": "0d65bf6c54e217b5ba5d38b2f4edfd0d",
+        "order_id": "e73242af72f21b83ed57aeb572c4f62c",
+        "distancia": 0.25890475511550903,
+        "trecho": "Comentário: Adorei a experiência de compra"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"52300a5e6997431d0597e820015ec8ff\",\"74f04ddd0bd65a396c7210db1e0d1259\"]",
+        "texto": "Comentário: excelente experiência de compra. Obrigado",
+        "nota": 5,
+        "data": "2018-03-03 00:00:00",
+        "review_id": "52300a5e6997431d0597e820015ec8ff",
+        "order_id": "74f04ddd0bd65a396c7210db1e0d1259",
+        "distancia": 0.2599610686302185,
+        "trecho": "Comentário: excelente experiência de compra. Obrigado"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"a8356bf01ae6be19d520be1aba4df944\",\"390f7b0eca6e233bfe1584c54f97c39e\"]",
+        "texto": "Comentário: adorei a minha adquisição,recomento a loja.",
+        "nota": 5,
+        "data": "2017-05-30 00:00:00",
+        "review_id": "a8356bf01ae6be19d520be1aba4df944",
+        "order_id": "390f7b0eca6e233bfe1584c54f97c39e",
+        "distancia": 0.2733079195022583,
+        "trecho": "Comentário: adorei a minha adquisição,recomento a loja."
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"8c693221cf18f71764f09a52d2fa529f\",\"39862f3bc75e8a104d1bd7bbf6255668\"]",
+        "texto": "Comentário: Super satisfeita com a compra feita, a entrega e o suporte e atenção com o cliente.",
+        "nota": 5,
+        "data": "2018-03-10 00:00:00",
+        "review_id": "8c693221cf18f71764f09a52d2fa529f",
+        "order_id": "39862f3bc75e8a104d1bd7bbf6255668",
+        "distancia": 0.27436941862106323,
+        "trecho": "Comentário: Super satisfeita com a compra feita, a entrega e o suporte e atenção com o cliente."
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"d616c8b2fc1e9b6e150b77e78967a4ea\",\"1da5abde88d474271f7a8d3dc9206c6a\"]",
+        "texto": "Comentário: A experiência da compra foi muito satisfatória.",
+        "nota": 5,
+        "data": "2017-12-14 00:00:00",
+        "review_id": "d616c8b2fc1e9b6e150b77e78967a4ea",
+        "order_id": "1da5abde88d474271f7a8d3dc9206c6a",
+        "distancia": 0.2569401264190674
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"0d65bf6c54e217b5ba5d38b2f4edfd0d\",\"e73242af72f21b83ed57aeb572c4f62c\"]",
+        "texto": "Comentário: Adorei a experiência de compra",
+        "nota": 5,
+        "data": "2018-01-09 00:00:00",
+        "review_id": "0d65bf6c54e217b5ba5d38b2f4edfd0d",
+        "order_id": "e73242af72f21b83ed57aeb572c4f62c",
+        "distancia": 0.25890475511550903
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"52300a5e6997431d0597e820015ec8ff\",\"74f04ddd0bd65a396c7210db1e0d1259\"]",
+        "texto": "Comentário: excelente experiência de compra. Obrigado",
+        "nota": 5,
+        "data": "2018-03-03 00:00:00",
+        "review_id": "52300a5e6997431d0597e820015ec8ff",
+        "order_id": "74f04ddd0bd65a396c7210db1e0d1259",
+        "distancia": 0.2599610686302185
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"671026223a554a2e17f2bdd7f6df9fb1\",\"f001d39de25ce801a4b275f5ad3e1c2e\"]",
+        "texto": "Comentário: Solicito informações sobre a compra e o estorno da compra? Se o valor for devolvido, recomendaria a loja sim",
+        "nota": 2,
+        "data": "2017-12-20 00:00:00",
+        "review_id": "671026223a554a2e17f2bdd7f6df9fb1",
+        "order_id": "f001d39de25ce801a4b275f5ad3e1c2e",
+        "distancia": 0.26505523920059204
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"a8356bf01ae6be19d520be1aba4df944\",\"390f7b0eca6e233bfe1584c54f97c39e\"]",
+        "texto": "Comentário: adorei a minha adquisição,recomento a loja.",
+        "nota": 5,
+        "data": "2017-05-30 00:00:00",
+        "review_id": "a8356bf01ae6be19d520be1aba4df944",
+        "order_id": "390f7b0eca6e233bfe1584c54f97c39e",
+        "distancia": 0.2733079195022583
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"8c693221cf18f71764f09a52d2fa529f\",\"39862f3bc75e8a104d1bd7bbf6255668\"]",
+        "texto": "Comentário: Super satisfeita com a compra feita, a entrega e o suporte e atenção com o cliente.",
+        "nota": 5,
+        "data": "2018-03-10 00:00:00",
+        "review_id": "8c693221cf18f71764f09a52d2fa529f",
+        "order_id": "39862f3bc75e8a104d1bd7bbf6255668",
+        "distancia": 0.27436941862106323
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"4783e74321ec0223daae1874e92dafab\",\"a50e5978ea225733e3885163fe1d81bc\"]",
+        "texto": "Comentário: Gostei muito do atendimento nessa minha primeira compra voltarei a comprar mais vezes",
+        "nota": 5,
+        "data": "2017-07-27 00:00:00",
+        "review_id": "4783e74321ec0223daae1874e92dafab",
+        "order_id": "a50e5978ea225733e3885163fe1d81bc",
+        "distancia": 0.2757417559623718
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"cd25657520069786f4085c0f12813cdc\",\"e02d1acde68fc554aee0e2913c3179d0\"]",
+        "texto": "Comentário: Satisfatório todo o processo de compras e entrega do produto.",
+        "nota": 4,
+        "data": "2017-12-01 00:00:00",
+        "review_id": "cd25657520069786f4085c0f12813cdc",
+        "order_id": "e02d1acde68fc554aee0e2913c3179d0",
+        "distancia": 0.27781474590301514
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"f64fb5dfbf1febd8f1e1c6f8238ce383\",\"2b3d870a4d670c91f15668cea4fe3aa5\"]",
+        "texto": "Comentário: Gostaria de um retorno o quanto antes da situação da compra. Obrigada",
+        "nota": 1,
+        "data": "2018-02-01 00:00:00",
+        "review_id": "f64fb5dfbf1febd8f1e1c6f8238ce383",
+        "order_id": "2b3d870a4d670c91f15668cea4fe3aa5",
+        "distancia": 0.27965986728668213
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"f8686be400c10f9231c1f26d52a480cc\",\"3b995b138dcbefaf9fffef19025a1e34\"]",
+        "texto": "Comentário: Ótima aquisição feliz com a compra e entrega",
+        "nota": 4,
+        "data": "2018-02-10 00:00:00",
+        "review_id": "f8686be400c10f9231c1f26d52a480cc",
+        "order_id": "3b995b138dcbefaf9fffef19025a1e34",
+        "distancia": 0.28591543436050415
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"d616c8b2fc1e9b6e150b77e78967a4ea\",\"1da5abde88d474271f7a8d3dc9206c6a\"]",
+        "texto": "Comentário: A experiência da compra foi muito satisfatória.",
+        "nota": 5,
+        "data": "2017-12-14 00:00:00",
+        "review_id": "d616c8b2fc1e9b6e150b77e78967a4ea",
+        "order_id": "1da5abde88d474271f7a8d3dc9206c6a",
+        "distancia": 0.2569401264190674,
+        "trecho": "Comentário: A experiência da compra foi muito satisfatória."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"0d65bf6c54e217b5ba5d38b2f4edfd0d\",\"e73242af72f21b83ed57aeb572c4f62c\"]",
+        "texto": "Comentário: Adorei a experiência de compra",
+        "nota": 5,
+        "data": "2018-01-09 00:00:00",
+        "review_id": "0d65bf6c54e217b5ba5d38b2f4edfd0d",
+        "order_id": "e73242af72f21b83ed57aeb572c4f62c",
+        "distancia": 0.25890475511550903,
+        "trecho": "Comentário: Adorei a experiência de compra"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"52300a5e6997431d0597e820015ec8ff\",\"74f04ddd0bd65a396c7210db1e0d1259\"]",
+        "texto": "Comentário: excelente experiência de compra. Obrigado",
+        "nota": 5,
+        "data": "2018-03-03 00:00:00",
+        "review_id": "52300a5e6997431d0597e820015ec8ff",
+        "order_id": "74f04ddd0bd65a396c7210db1e0d1259",
+        "distancia": 0.2599610686302185,
+        "trecho": "Comentário: excelente experiência de compra. Obrigado"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"a8356bf01ae6be19d520be1aba4df944\",\"390f7b0eca6e233bfe1584c54f97c39e\"]",
+        "texto": "Comentário: adorei a minha adquisição,recomento a loja.",
+        "nota": 5,
+        "data": "2017-05-30 00:00:00",
+        "review_id": "a8356bf01ae6be19d520be1aba4df944",
+        "order_id": "390f7b0eca6e233bfe1584c54f97c39e",
+        "distancia": 0.2733079195022583,
+        "trecho": "Comentário: adorei a minha adquisição,recomento a loja."
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"8c693221cf18f71764f09a52d2fa529f\",\"39862f3bc75e8a104d1bd7bbf6255668\"]",
+        "texto": "Comentário: Super satisfeita com a compra feita, a entrega e o suporte e atenção com o cliente.",
+        "nota": 5,
+        "data": "2018-03-10 00:00:00",
+        "review_id": "8c693221cf18f71764f09a52d2fa529f",
+        "order_id": "39862f3bc75e8a104d1bd7bbf6255668",
+        "distancia": 0.27436941862106323,
+        "trecho": "Comentário: Super satisfeita com a compra feita, a entrega e o suporte e atenção com o cliente."
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E5\"}, {\"fonte\": \"E6\"}], \"justificativa\": \"Os clientes elogiam a experiência de compra, citando satisfação com a compra, entrega e atendimento.\"}",
+        "uso": {
+          "completion_tokens": 88,
+          "prompt_tokens": 2822,
+          "total_tokens": 2910,
+          "prompt_tokens_details": {
+            "cached_tokens": 1120
+          },
+          "cache_read_input_tokens": 1120
+        },
+        "latencia_s": 1.3453472749997673,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato elogia a experiência de compra como muito satisfatória.\", \"fontes\": [\"E1\"]}, {\"texto\": \"Outro relato afirma que adorou a experiência de compra.\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um cliente descreve a experiência de compra como excelente.\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um cliente recomenda a loja após adorar sua adquisição.\", \"fontes\": [\"E5\"]}, {\"texto\": \"Um relato expressa satisfação com a compra, entrega, suporte e atenção ao cliente.\", \"fontes\": [\"E6\"]}]}",
+        "uso": {
+          "completion_tokens": 164,
+          "prompt_tokens": 1345,
+          "total_tokens": 1509,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 4.19776900099987,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 5.543701551999675
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 5.639417700999729
+}

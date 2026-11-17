@@ -1,0 +1,412 @@
+{
+  "pergunta_id": "Q11",
+  "pergunta": "O que os comentários recuperados dizem sobre a embalagem?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:40:37.718797+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"5a938aee83592016ffd28b9ded3fa935\",\"1b39d154e72f232a67b97d1d2545d527\"]",
+      "texto": "Título: Embalagem Danificada\nComentário: Apesar da entrega dentro do prazo, a embalagem estava levemente danificada.",
+      "metadados": {
+        "order_id": "1b39d154e72f232a67b97d1d2545d527",
+        "review_id": "5a938aee83592016ffd28b9ded3fa935",
+        "review_score": 4,
+        "review_creation_date": "2018-06-05 00:00:00"
+      },
+      "distancia": 0.2600066065788269
+    },
+    {
+      "documento_id": "[\"e36f1670c54adb5ff6658e381c253901\",\"e1320973675a5fc37fab54cb22c582ab\"]",
+      "texto": "Título: Bom\nComentário: Não veio a embalagem certa",
+      "metadados": {
+        "review_score": 1,
+        "review_id": "e36f1670c54adb5ff6658e381c253901",
+        "order_id": "e1320973675a5fc37fab54cb22c582ab",
+        "review_creation_date": "2018-08-09 00:00:00"
+      },
+      "distancia": 0.2660958766937256
+    },
+    {
+      "documento_id": "[\"a19e0a3ad1dcda0f28ad1e37fff6ff27\",\"4888eb67727162d62e275521e8d6bf41\"]",
+      "texto": "Comentário: Produto entregue",
+      "metadados": {
+        "order_id": "4888eb67727162d62e275521e8d6bf41",
+        "review_creation_date": "2018-06-21 00:00:00",
+        "review_id": "a19e0a3ad1dcda0f28ad1e37fff6ff27",
+        "review_score": 5
+      },
+      "distancia": 0.2743738889694214
+    },
+    {
+      "documento_id": "[\"b2d03e4b730e0b8edb648ecd754a0eef\",\"14e3b02a42f36ad7bdcdc8a0df427be3\"]",
+      "texto": "Comentário: Avaria na embalagem, restante 100%...",
+      "metadados": {
+        "review_creation_date": "2018-04-05 00:00:00",
+        "review_score": 4,
+        "order_id": "14e3b02a42f36ad7bdcdc8a0df427be3",
+        "review_id": "b2d03e4b730e0b8edb648ecd754a0eef"
+      },
+      "distancia": 0.2754971385002136
+    },
+    {
+      "documento_id": "[\"a5e745fcd4cd5a5097ef668db8b81d5f\",\"3085b7ef3898f0caa9793f33a175b07e\"]",
+      "texto": "Título: Produto avariado\nComentário: O produto foi entregue com algumas avarias.",
+      "metadados": {
+        "order_id": "3085b7ef3898f0caa9793f33a175b07e",
+        "review_id": "a5e745fcd4cd5a5097ef668db8b81d5f",
+        "review_creation_date": "2018-08-09 00:00:00",
+        "review_score": 3
+      },
+      "distancia": 0.2768252491950989
+    },
+    {
+      "documento_id": "[\"cfb68c2c57dbf63edc6b702e32b9f9e2\",\"4caa878dd26539c88f5243c6bd277ad5\"]",
+      "texto": "Comentário: Comprei um produto e me entregaram outro e ainda escreveram na nota que a embalagem era nova.",
+      "metadados": {
+        "review_creation_date": "2017-09-30 00:00:00",
+        "review_id": "cfb68c2c57dbf63edc6b702e32b9f9e2",
+        "review_score": 2,
+        "order_id": "4caa878dd26539c88f5243c6bd277ad5"
+      },
+      "distancia": 0.2774994373321533
+    },
+    {
+      "documento_id": "[\"beaebb0293d5c0a300dbb40224be5403\",\"2ea63ebcda77acab196880c1dfb295d1\"]",
+      "texto": "Comentário: O produto veio embalado, porém amassado.",
+      "metadados": {
+        "review_id": "beaebb0293d5c0a300dbb40224be5403",
+        "review_score": 3,
+        "order_id": "2ea63ebcda77acab196880c1dfb295d1",
+        "review_creation_date": "2017-06-22 00:00:00"
+      },
+      "distancia": 0.27782124280929565
+    },
+    {
+      "documento_id": "[\"d9bd7503c545e9311db6e27649a24fca\",\"c95fd0fc2b4b423d8ded594da8d1a398\"]",
+      "texto": "Comentário: Produto entregue.",
+      "metadados": {
+        "review_creation_date": "2017-06-02 00:00:00",
+        "review_id": "d9bd7503c545e9311db6e27649a24fca",
+        "order_id": "c95fd0fc2b4b423d8ded594da8d1a398",
+        "review_score": 5
+      },
+      "distancia": 0.27947938442230225
+    },
+    {
+      "documento_id": "[\"5a706091de69aa8a7c81e10af3ab9760\",\"1dcb1b82de3a13d219b6c84a8ca45b8c\"]",
+      "texto": "Comentário: Produto entregue.",
+      "metadados": {
+        "review_id": "5a706091de69aa8a7c81e10af3ab9760",
+        "order_id": "1dcb1b82de3a13d219b6c84a8ca45b8c",
+        "review_score": 5,
+        "review_creation_date": "2017-06-02 00:00:00"
+      },
+      "distancia": 0.27947938442230225
+    },
+    {
+      "documento_id": "[\"982645839578b50e2484535f7b56bf10\",\"a85ad381ff410bb40159e498feb30a13\"]",
+      "texto": "Título: cobertor\nComentário: produto inferior ao esperado. Desejo devolve lo.",
+      "metadados": {
+        "review_creation_date": "2018-06-08 00:00:00",
+        "review_id": "982645839578b50e2484535f7b56bf10",
+        "review_score": 1,
+        "order_id": "a85ad381ff410bb40159e498feb30a13"
+      },
+      "distancia": 0.2800036668777466
+    },
+    {
+      "documento_id": "[\"923ea91b17cf4616cdb2a4e7d7665613\",\"9010d348aa74847c4c49baf5e87c15ce\"]",
+      "texto": "Comentário: Produto entregue conforme anunciado",
+      "metadados": {
+        "order_id": "9010d348aa74847c4c49baf5e87c15ce",
+        "review_id": "923ea91b17cf4616cdb2a4e7d7665613",
+        "review_creation_date": "2017-04-05 00:00:00",
+        "review_score": 5
+      },
+      "distancia": 0.28113359212875366
+    },
+    {
+      "documento_id": "[\"bc0f603d79a9fc5a6c2c8c426ec2c4a6\",\"dbea19894046e3141b3de68811a7c958\"]",
+      "texto": "Título: Produto Incompleto\nComentário: Infelizmente, a embalagem do produto chegou violada. Estou aguardando reembolso ou envio do restante do produto adquirido.",
+      "metadados": {
+        "order_id": "dbea19894046e3141b3de68811a7c958",
+        "review_score": 1,
+        "review_creation_date": "2018-05-18 00:00:00",
+        "review_id": "bc0f603d79a9fc5a6c2c8c426ec2c4a6"
+      },
+      "distancia": 0.28366726636886597
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "O que os comentários recuperados dizem sobre a embalagem?",
+    "instante_utc": "2026-11-07T20:40:37.804533+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato menciona que a embalagem estava levemente danificada.",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Outro relato afirma que a embalagem não veio correta.",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um comentário relata avaria na embalagem.",
+        "fontes": [
+          "E4"
+        ]
+      },
+      {
+        "texto": "Um cliente relatou que o produto veio embalado, mas amassado.",
+        "fontes": [
+          "E7"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"5a938aee83592016ffd28b9ded3fa935\",\"1b39d154e72f232a67b97d1d2545d527\"]",
+        "texto": "Título: Embalagem Danificada\nComentário: Apesar da entrega dentro do prazo, a embalagem estava levemente danificada.",
+        "nota": 4,
+        "data": "2018-06-05 00:00:00",
+        "review_id": "5a938aee83592016ffd28b9ded3fa935",
+        "order_id": "1b39d154e72f232a67b97d1d2545d527",
+        "distancia": 0.2600066065788269,
+        "trecho": "Título: Embalagem Danificada\nComentário: Apesar da entrega dentro do prazo, a embalagem estava levemente danificada."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"e36f1670c54adb5ff6658e381c253901\",\"e1320973675a5fc37fab54cb22c582ab\"]",
+        "texto": "Título: Bom\nComentário: Não veio a embalagem certa",
+        "nota": 1,
+        "data": "2018-08-09 00:00:00",
+        "review_id": "e36f1670c54adb5ff6658e381c253901",
+        "order_id": "e1320973675a5fc37fab54cb22c582ab",
+        "distancia": 0.2660958766937256,
+        "trecho": "Título: Bom\nComentário: Não veio a embalagem certa"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"b2d03e4b730e0b8edb648ecd754a0eef\",\"14e3b02a42f36ad7bdcdc8a0df427be3\"]",
+        "texto": "Comentário: Avaria na embalagem, restante 100%...",
+        "nota": 4,
+        "data": "2018-04-05 00:00:00",
+        "review_id": "b2d03e4b730e0b8edb648ecd754a0eef",
+        "order_id": "14e3b02a42f36ad7bdcdc8a0df427be3",
+        "distancia": 0.2754971385002136,
+        "trecho": "Comentário: Avaria na embalagem, restante 100%..."
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"beaebb0293d5c0a300dbb40224be5403\",\"2ea63ebcda77acab196880c1dfb295d1\"]",
+        "texto": "Comentário: O produto veio embalado, porém amassado.",
+        "nota": 3,
+        "data": "2017-06-22 00:00:00",
+        "review_id": "beaebb0293d5c0a300dbb40224be5403",
+        "order_id": "2ea63ebcda77acab196880c1dfb295d1",
+        "distancia": 0.27782124280929565,
+        "trecho": "Comentário: O produto veio embalado, porém amassado."
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"5a938aee83592016ffd28b9ded3fa935\",\"1b39d154e72f232a67b97d1d2545d527\"]",
+        "texto": "Título: Embalagem Danificada\nComentário: Apesar da entrega dentro do prazo, a embalagem estava levemente danificada.",
+        "nota": 4,
+        "data": "2018-06-05 00:00:00",
+        "review_id": "5a938aee83592016ffd28b9ded3fa935",
+        "order_id": "1b39d154e72f232a67b97d1d2545d527",
+        "distancia": 0.2600066065788269
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"e36f1670c54adb5ff6658e381c253901\",\"e1320973675a5fc37fab54cb22c582ab\"]",
+        "texto": "Título: Bom\nComentário: Não veio a embalagem certa",
+        "nota": 1,
+        "data": "2018-08-09 00:00:00",
+        "review_id": "e36f1670c54adb5ff6658e381c253901",
+        "order_id": "e1320973675a5fc37fab54cb22c582ab",
+        "distancia": 0.2660958766937256
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"a19e0a3ad1dcda0f28ad1e37fff6ff27\",\"4888eb67727162d62e275521e8d6bf41\"]",
+        "texto": "Comentário: Produto entregue",
+        "nota": 5,
+        "data": "2018-06-21 00:00:00",
+        "review_id": "a19e0a3ad1dcda0f28ad1e37fff6ff27",
+        "order_id": "4888eb67727162d62e275521e8d6bf41",
+        "distancia": 0.2743738889694214
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"b2d03e4b730e0b8edb648ecd754a0eef\",\"14e3b02a42f36ad7bdcdc8a0df427be3\"]",
+        "texto": "Comentário: Avaria na embalagem, restante 100%...",
+        "nota": 4,
+        "data": "2018-04-05 00:00:00",
+        "review_id": "b2d03e4b730e0b8edb648ecd754a0eef",
+        "order_id": "14e3b02a42f36ad7bdcdc8a0df427be3",
+        "distancia": 0.2754971385002136
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"a5e745fcd4cd5a5097ef668db8b81d5f\",\"3085b7ef3898f0caa9793f33a175b07e\"]",
+        "texto": "Título: Produto avariado\nComentário: O produto foi entregue com algumas avarias.",
+        "nota": 3,
+        "data": "2018-08-09 00:00:00",
+        "review_id": "a5e745fcd4cd5a5097ef668db8b81d5f",
+        "order_id": "3085b7ef3898f0caa9793f33a175b07e",
+        "distancia": 0.2768252491950989
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"cfb68c2c57dbf63edc6b702e32b9f9e2\",\"4caa878dd26539c88f5243c6bd277ad5\"]",
+        "texto": "Comentário: Comprei um produto e me entregaram outro e ainda escreveram na nota que a embalagem era nova.",
+        "nota": 2,
+        "data": "2017-09-30 00:00:00",
+        "review_id": "cfb68c2c57dbf63edc6b702e32b9f9e2",
+        "order_id": "4caa878dd26539c88f5243c6bd277ad5",
+        "distancia": 0.2774994373321533
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"beaebb0293d5c0a300dbb40224be5403\",\"2ea63ebcda77acab196880c1dfb295d1\"]",
+        "texto": "Comentário: O produto veio embalado, porém amassado.",
+        "nota": 3,
+        "data": "2017-06-22 00:00:00",
+        "review_id": "beaebb0293d5c0a300dbb40224be5403",
+        "order_id": "2ea63ebcda77acab196880c1dfb295d1",
+        "distancia": 0.27782124280929565
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"d9bd7503c545e9311db6e27649a24fca\",\"c95fd0fc2b4b423d8ded594da8d1a398\"]",
+        "texto": "Comentário: Produto entregue.",
+        "nota": 5,
+        "data": "2017-06-02 00:00:00",
+        "review_id": "d9bd7503c545e9311db6e27649a24fca",
+        "order_id": "c95fd0fc2b4b423d8ded594da8d1a398",
+        "distancia": 0.27947938442230225
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"982645839578b50e2484535f7b56bf10\",\"a85ad381ff410bb40159e498feb30a13\"]",
+        "texto": "Título: cobertor\nComentário: produto inferior ao esperado. Desejo devolve lo.",
+        "nota": 1,
+        "data": "2018-06-08 00:00:00",
+        "review_id": "982645839578b50e2484535f7b56bf10",
+        "order_id": "a85ad381ff410bb40159e498feb30a13",
+        "distancia": 0.2800036668777466
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"923ea91b17cf4616cdb2a4e7d7665613\",\"9010d348aa74847c4c49baf5e87c15ce\"]",
+        "texto": "Comentário: Produto entregue conforme anunciado",
+        "nota": 5,
+        "data": "2017-04-05 00:00:00",
+        "review_id": "923ea91b17cf4616cdb2a4e7d7665613",
+        "order_id": "9010d348aa74847c4c49baf5e87c15ce",
+        "distancia": 0.28113359212875366
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"5a938aee83592016ffd28b9ded3fa935\",\"1b39d154e72f232a67b97d1d2545d527\"]",
+        "texto": "Título: Embalagem Danificada\nComentário: Apesar da entrega dentro do prazo, a embalagem estava levemente danificada.",
+        "nota": 4,
+        "data": "2018-06-05 00:00:00",
+        "review_id": "5a938aee83592016ffd28b9ded3fa935",
+        "order_id": "1b39d154e72f232a67b97d1d2545d527",
+        "distancia": 0.2600066065788269,
+        "trecho": "Título: Embalagem Danificada\nComentário: Apesar da entrega dentro do prazo, a embalagem estava levemente danificada."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"e36f1670c54adb5ff6658e381c253901\",\"e1320973675a5fc37fab54cb22c582ab\"]",
+        "texto": "Título: Bom\nComentário: Não veio a embalagem certa",
+        "nota": 1,
+        "data": "2018-08-09 00:00:00",
+        "review_id": "e36f1670c54adb5ff6658e381c253901",
+        "order_id": "e1320973675a5fc37fab54cb22c582ab",
+        "distancia": 0.2660958766937256,
+        "trecho": "Título: Bom\nComentário: Não veio a embalagem certa"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"b2d03e4b730e0b8edb648ecd754a0eef\",\"14e3b02a42f36ad7bdcdc8a0df427be3\"]",
+        "texto": "Comentário: Avaria na embalagem, restante 100%...",
+        "nota": 4,
+        "data": "2018-04-05 00:00:00",
+        "review_id": "b2d03e4b730e0b8edb648ecd754a0eef",
+        "order_id": "14e3b02a42f36ad7bdcdc8a0df427be3",
+        "distancia": 0.2754971385002136,
+        "trecho": "Comentário: Avaria na embalagem, restante 100%..."
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"beaebb0293d5c0a300dbb40224be5403\",\"2ea63ebcda77acab196880c1dfb295d1\"]",
+        "texto": "Comentário: O produto veio embalado, porém amassado.",
+        "nota": 3,
+        "data": "2017-06-22 00:00:00",
+        "review_id": "beaebb0293d5c0a300dbb40224be5403",
+        "order_id": "2ea63ebcda77acab196880c1dfb295d1",
+        "distancia": 0.27782124280929565,
+        "trecho": "Comentário: O produto veio embalado, porém amassado."
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E4\"}, {\"fonte\": \"E7\"}], \"justificativa\": \"Os comentários recuperados mencionam problemas com a embalagem, como danos, avarias e embalagens erradas, o que permite responder qualitativamente à pergunta sobre a embalagem.\"}",
+        "uso": {
+          "completion_tokens": 100,
+          "prompt_tokens": 2786,
+          "total_tokens": 2886,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 2.529954588000237,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato menciona que a embalagem estava levemente danificada.\", \"fontes\": [\"E1\"]}, {\"texto\": \"Outro relato afirma que a embalagem não veio correta.\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um comentário relata avaria na embalagem.\", \"fontes\": [\"E4\"]}, {\"texto\": \"Um cliente relatou que o produto veio embalado, mas amassado.\", \"fontes\": [\"E7\"]}]}",
+        "uso": {
+          "completion_tokens": 132,
+          "prompt_tokens": 1299,
+          "total_tokens": 1431,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 2.295173309999882,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 4.825697866000155
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 4.911119031999988
+}

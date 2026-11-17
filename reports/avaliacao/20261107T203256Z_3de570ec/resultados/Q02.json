@@ -1,0 +1,367 @@
+{
+  "pergunta_id": "Q02",
+  "pergunta": "Quais consequências do atraso são descritas nos comentários?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:33:25.991482+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"b55818c41b0dc58ea0e6b6fb0acc68a5\",\"836e4cb15d850d5cb77cda4c3c387665\"]",
+      "texto": "Comentário: atrasou a entega",
+      "metadados": {
+        "review_id": "b55818c41b0dc58ea0e6b6fb0acc68a5",
+        "review_score": 1,
+        "order_id": "836e4cb15d850d5cb77cda4c3c387665",
+        "review_creation_date": "2018-03-22 00:00:00"
+      },
+      "distancia": 0.2853584289550781
+    },
+    {
+      "documento_id": "[\"efe5387d9de4c922bbe5f2d9e317e7f0\",\"62e724c4929b9543648a7443b0cecb74\"]",
+      "texto": "Comentário: Tirando a demora ok",
+      "metadados": {
+        "review_creation_date": "2018-03-22 00:00:00",
+        "order_id": "62e724c4929b9543648a7443b0cecb74",
+        "review_id": "efe5387d9de4c922bbe5f2d9e317e7f0",
+        "review_score": 3
+      },
+      "distancia": 0.2944323420524597
+    },
+    {
+      "documento_id": "[\"dd6e0f7168d75cd78769333f7630a036\",\"fe410f8e89dafcaf2ce41a235c489299\"]",
+      "texto": "Comentário: O atraso na entrega prejudicou a obra",
+      "metadados": {
+        "order_id": "fe410f8e89dafcaf2ce41a235c489299",
+        "review_id": "dd6e0f7168d75cd78769333f7630a036",
+        "review_score": 3,
+        "review_creation_date": "2018-04-04 00:00:00"
+      },
+      "distancia": 0.3013801574707031
+    },
+    {
+      "documento_id": "[\"b16d528a370bd6520af22b90107414ea\",\"b0ea6041ac66a83e6a8508f3954edf91\"]",
+      "texto": "Comentário: creio que o atraso e dos correios",
+      "metadados": {
+        "review_creation_date": "2018-03-24 00:00:00",
+        "order_id": "b0ea6041ac66a83e6a8508f3954edf91",
+        "review_id": "b16d528a370bd6520af22b90107414ea",
+        "review_score": 2
+      },
+      "distancia": 0.302040696144104
+    },
+    {
+      "documento_id": "[\"b16d528a370bd6520af22b90107414ea\",\"13a945cf4dff971e45059d790da4daf4\"]",
+      "texto": "Comentário: creio que o atraso e dos correios",
+      "metadados": {
+        "review_score": 2,
+        "order_id": "13a945cf4dff971e45059d790da4daf4",
+        "review_id": "b16d528a370bd6520af22b90107414ea",
+        "review_creation_date": "2018-03-24 00:00:00"
+      },
+      "distancia": 0.302040696144104
+    },
+    {
+      "documento_id": "[\"8b925ef92d48c9d0114ff75e42f166e0\",\"48d30a78681848a5caa890b0acc9ad72\"]",
+      "texto": "Comentário: Um absurdo esse atraso",
+      "metadados": {
+        "review_score": 1,
+        "review_creation_date": "2018-04-12 00:00:00",
+        "order_id": "48d30a78681848a5caa890b0acc9ad72",
+        "review_id": "8b925ef92d48c9d0114ff75e42f166e0"
+      },
+      "distancia": 0.30302321910858154
+    },
+    {
+      "documento_id": "[\"8b925ef92d48c9d0114ff75e42f166e0\",\"95287dc5df93f25b90309d5acddbe02e\"]",
+      "texto": "Comentário: Um absurdo esse atraso",
+      "metadados": {
+        "review_id": "8b925ef92d48c9d0114ff75e42f166e0",
+        "review_score": 1,
+        "order_id": "95287dc5df93f25b90309d5acddbe02e",
+        "review_creation_date": "2018-04-12 00:00:00"
+      },
+      "distancia": 0.30302321910858154
+    },
+    {
+      "documento_id": "[\"f6113199cd352db89c5a7e59b903d549\",\"0e5d9583490deb1e011b1c8e7da13398\"]",
+      "texto": "Comentário: Entrega super em atraso, preciso de um esclarecimento do ocorrido",
+      "metadados": {
+        "review_id": "f6113199cd352db89c5a7e59b903d549",
+        "review_creation_date": "2018-04-13 00:00:00",
+        "order_id": "0e5d9583490deb1e011b1c8e7da13398",
+        "review_score": 1
+      },
+      "distancia": 0.3067176938056946
+    },
+    {
+      "documento_id": "[\"c3039a71818e8c4ebe2f1a905ab1f863\",\"8fb030b413de395dcbb7cb1a3c9b256e\"]",
+      "texto": "Comentário: Demora muito e eles não dão satisfação pelo motivo do atraso",
+      "metadados": {
+        "review_creation_date": "2017-03-26 00:00:00",
+        "order_id": "8fb030b413de395dcbb7cb1a3c9b256e",
+        "review_score": 1,
+        "review_id": "c3039a71818e8c4ebe2f1a905ab1f863"
+      },
+      "distancia": 0.3069034218788147
+    },
+    {
+      "documento_id": "[\"0cc13e5aa92659708aeed09e1e0be9db\",\"b0b2dcb55905f3403fcee05a780bc952\"]",
+      "texto": "Comentário: Muita demora.",
+      "metadados": {
+        "review_score": 2,
+        "review_id": "0cc13e5aa92659708aeed09e1e0be9db",
+        "review_creation_date": "2018-03-15 00:00:00",
+        "order_id": "b0b2dcb55905f3403fcee05a780bc952"
+      },
+      "distancia": 0.30855947732925415
+    },
+    {
+      "documento_id": "[\"4be8f192d5f1a2fdb7b1696f5384e356\",\"e6645cd574bfc71b276a102797036491\"]",
+      "texto": "Comentário: O atraso foi culpa dos Correios.",
+      "metadados": {
+        "order_id": "e6645cd574bfc71b276a102797036491",
+        "review_score": 5,
+        "review_creation_date": "2017-09-20 00:00:00",
+        "review_id": "4be8f192d5f1a2fdb7b1696f5384e356"
+      },
+      "distancia": 0.30920857191085815
+    },
+    {
+      "documento_id": "[\"06de6ba90c81c318f9f08196c369ded5\",\"8465a1ae25d801a0c2d8dbfeb425a6f6\"]",
+      "texto": "Comentário: Entrega em atraso",
+      "metadados": {
+        "review_score": 2,
+        "review_creation_date": "2018-03-23 00:00:00",
+        "review_id": "06de6ba90c81c318f9f08196c369ded5",
+        "order_id": "8465a1ae25d801a0c2d8dbfeb425a6f6"
+      },
+      "distancia": 0.31204938888549805
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Quais consequências do atraso são descritas nos comentários?",
+    "instante_utc": "2026-11-07T20:33:26.053337+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato menciona que o atraso na entrega prejudicou a obra",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um relato expressa a necessidade de esclarecimento devido ao atraso",
+        "fontes": [
+          "E6"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E3",
+        "documento_id": "[\"dd6e0f7168d75cd78769333f7630a036\",\"fe410f8e89dafcaf2ce41a235c489299\"]",
+        "texto": "Comentário: O atraso na entrega prejudicou a obra",
+        "nota": 3,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "dd6e0f7168d75cd78769333f7630a036",
+        "order_id": "fe410f8e89dafcaf2ce41a235c489299",
+        "distancia": 0.3013801574707031,
+        "trecho": "Comentário: O atraso na entrega prejudicou a obra"
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"f6113199cd352db89c5a7e59b903d549\",\"0e5d9583490deb1e011b1c8e7da13398\"]",
+        "texto": "Comentário: Entrega super em atraso, preciso de um esclarecimento do ocorrido",
+        "nota": 1,
+        "data": "2018-04-13 00:00:00",
+        "review_id": "f6113199cd352db89c5a7e59b903d549",
+        "order_id": "0e5d9583490deb1e011b1c8e7da13398",
+        "distancia": 0.3067176938056946,
+        "trecho": "Comentário: Entrega super em atraso, preciso de um esclarecimento do ocorrido"
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"b55818c41b0dc58ea0e6b6fb0acc68a5\",\"836e4cb15d850d5cb77cda4c3c387665\"]",
+        "texto": "Comentário: atrasou a entega",
+        "nota": 1,
+        "data": "2018-03-22 00:00:00",
+        "review_id": "b55818c41b0dc58ea0e6b6fb0acc68a5",
+        "order_id": "836e4cb15d850d5cb77cda4c3c387665",
+        "distancia": 0.2853584289550781
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"efe5387d9de4c922bbe5f2d9e317e7f0\",\"62e724c4929b9543648a7443b0cecb74\"]",
+        "texto": "Comentário: Tirando a demora ok",
+        "nota": 3,
+        "data": "2018-03-22 00:00:00",
+        "review_id": "efe5387d9de4c922bbe5f2d9e317e7f0",
+        "order_id": "62e724c4929b9543648a7443b0cecb74",
+        "distancia": 0.2944323420524597
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"dd6e0f7168d75cd78769333f7630a036\",\"fe410f8e89dafcaf2ce41a235c489299\"]",
+        "texto": "Comentário: O atraso na entrega prejudicou a obra",
+        "nota": 3,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "dd6e0f7168d75cd78769333f7630a036",
+        "order_id": "fe410f8e89dafcaf2ce41a235c489299",
+        "distancia": 0.3013801574707031
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"b16d528a370bd6520af22b90107414ea\",\"b0ea6041ac66a83e6a8508f3954edf91\"]",
+        "texto": "Comentário: creio que o atraso e dos correios",
+        "nota": 2,
+        "data": "2018-03-24 00:00:00",
+        "review_id": "b16d528a370bd6520af22b90107414ea",
+        "order_id": "b0ea6041ac66a83e6a8508f3954edf91",
+        "distancia": 0.302040696144104
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"8b925ef92d48c9d0114ff75e42f166e0\",\"48d30a78681848a5caa890b0acc9ad72\"]",
+        "texto": "Comentário: Um absurdo esse atraso",
+        "nota": 1,
+        "data": "2018-04-12 00:00:00",
+        "review_id": "8b925ef92d48c9d0114ff75e42f166e0",
+        "order_id": "48d30a78681848a5caa890b0acc9ad72",
+        "distancia": 0.30302321910858154
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"f6113199cd352db89c5a7e59b903d549\",\"0e5d9583490deb1e011b1c8e7da13398\"]",
+        "texto": "Comentário: Entrega super em atraso, preciso de um esclarecimento do ocorrido",
+        "nota": 1,
+        "data": "2018-04-13 00:00:00",
+        "review_id": "f6113199cd352db89c5a7e59b903d549",
+        "order_id": "0e5d9583490deb1e011b1c8e7da13398",
+        "distancia": 0.3067176938056946
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"c3039a71818e8c4ebe2f1a905ab1f863\",\"8fb030b413de395dcbb7cb1a3c9b256e\"]",
+        "texto": "Comentário: Demora muito e eles não dão satisfação pelo motivo do atraso",
+        "nota": 1,
+        "data": "2017-03-26 00:00:00",
+        "review_id": "c3039a71818e8c4ebe2f1a905ab1f863",
+        "order_id": "8fb030b413de395dcbb7cb1a3c9b256e",
+        "distancia": 0.3069034218788147
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"0cc13e5aa92659708aeed09e1e0be9db\",\"b0b2dcb55905f3403fcee05a780bc952\"]",
+        "texto": "Comentário: Muita demora.",
+        "nota": 2,
+        "data": "2018-03-15 00:00:00",
+        "review_id": "0cc13e5aa92659708aeed09e1e0be9db",
+        "order_id": "b0b2dcb55905f3403fcee05a780bc952",
+        "distancia": 0.30855947732925415
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"4be8f192d5f1a2fdb7b1696f5384e356\",\"e6645cd574bfc71b276a102797036491\"]",
+        "texto": "Comentário: O atraso foi culpa dos Correios.",
+        "nota": 5,
+        "data": "2017-09-20 00:00:00",
+        "review_id": "4be8f192d5f1a2fdb7b1696f5384e356",
+        "order_id": "e6645cd574bfc71b276a102797036491",
+        "distancia": 0.30920857191085815
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"06de6ba90c81c318f9f08196c369ded5\",\"8465a1ae25d801a0c2d8dbfeb425a6f6\"]",
+        "texto": "Comentário: Entrega em atraso",
+        "nota": 2,
+        "data": "2018-03-23 00:00:00",
+        "review_id": "06de6ba90c81c318f9f08196c369ded5",
+        "order_id": "8465a1ae25d801a0c2d8dbfeb425a6f6",
+        "distancia": 0.31204938888549805
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"b55818c41b0dc58ea0e6b6fb0acc68a5\",\"836e4cb15d850d5cb77cda4c3c387665\"]",
+        "texto": "Comentário: atrasou a entega",
+        "nota": 1,
+        "data": "2018-03-22 00:00:00",
+        "review_id": "b55818c41b0dc58ea0e6b6fb0acc68a5",
+        "order_id": "836e4cb15d850d5cb77cda4c3c387665",
+        "distancia": 0.2853584289550781,
+        "trecho": "Comentário: atrasou a entega"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"dd6e0f7168d75cd78769333f7630a036\",\"fe410f8e89dafcaf2ce41a235c489299\"]",
+        "texto": "Comentário: O atraso na entrega prejudicou a obra",
+        "nota": 3,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "dd6e0f7168d75cd78769333f7630a036",
+        "order_id": "fe410f8e89dafcaf2ce41a235c489299",
+        "distancia": 0.3013801574707031,
+        "trecho": "Comentário: O atraso na entrega prejudicou a obra"
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"f6113199cd352db89c5a7e59b903d549\",\"0e5d9583490deb1e011b1c8e7da13398\"]",
+        "texto": "Comentário: Entrega super em atraso, preciso de um esclarecimento do ocorrido",
+        "nota": 1,
+        "data": "2018-04-13 00:00:00",
+        "review_id": "f6113199cd352db89c5a7e59b903d549",
+        "order_id": "0e5d9583490deb1e011b1c8e7da13398",
+        "distancia": 0.3067176938056946,
+        "trecho": "Comentário: Entrega super em atraso, preciso de um esclarecimento do ocorrido"
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E6\"}], \"justificativa\": \"Os comentários descrevem consequências do atraso, como atraso na entrega, demora e prejuízo à obra.\"}",
+        "uso": {
+          "completion_tokens": 76,
+          "prompt_tokens": 2753,
+          "total_tokens": 2829,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 6.568686384000102,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato menciona que o atraso na entrega prejudicou a obra\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um relato expressa a necessidade de esclarecimento devido ao atraso\", \"fontes\": [\"E6\"]}]}",
+        "uso": {
+          "completion_tokens": 78,
+          "prompt_tokens": 1216,
+          "total_tokens": 1294,
+          "prompt_tokens_details": {
+            "cached_tokens": 704
+          },
+          "cache_read_input_tokens": 704
+        },
+        "latencia_s": 2.3155159679999997,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 8.884708316999877
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 8.94626155900005
+}

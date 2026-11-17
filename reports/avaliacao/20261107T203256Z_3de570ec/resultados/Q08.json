@@ -1,0 +1,440 @@
+{
+  "pergunta_id": "Q08",
+  "pergunta": "Quais experiências relatam problemas no funcionamento do produto?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:38:35.840370+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"a6ae1375e10c5bd2f0984336dbfaf998\",\"3e973e154fa0787c8f507fc0929c96a1\"]",
+      "texto": "Comentário: O produto está com problemas (defeito).",
+      "metadados": {
+        "review_creation_date": "2017-12-23 00:00:00",
+        "review_id": "a6ae1375e10c5bd2f0984336dbfaf998",
+        "review_score": 2,
+        "order_id": "3e973e154fa0787c8f507fc0929c96a1"
+      },
+      "distancia": 0.23798030614852905
+    },
+    {
+      "documento_id": "[\"dafe744cb9c8ad2c4135391b1a46f1b9\",\"88b6c7abc4434ef05f56d22ada8f957a\"]",
+      "texto": "Comentário: O produto apresenta defeito de fabricação. Aguardo",
+      "metadados": {
+        "review_score": 3,
+        "order_id": "88b6c7abc4434ef05f56d22ada8f957a",
+        "review_creation_date": "2017-10-25 00:00:00",
+        "review_id": "dafe744cb9c8ad2c4135391b1a46f1b9"
+      },
+      "distancia": 0.28530675172805786
+    },
+    {
+      "documento_id": "[\"ea0036b547cb7e145507d50c4d64ce2a\",\"f1551636056618e77921de4bd2bb5e7c\"]",
+      "texto": "Comentário: produto veio com defeito",
+      "metadados": {
+        "review_creation_date": "2017-04-20 00:00:00",
+        "review_score": 1,
+        "review_id": "ea0036b547cb7e145507d50c4d64ce2a",
+        "order_id": "f1551636056618e77921de4bd2bb5e7c"
+      },
+      "distancia": 0.2880820035934448
+    },
+    {
+      "documento_id": "[\"2a58d04d47aabf0cc3b9d9acdd7787e0\",\"80b77c666e1dab43571417e42bc149e5\"]",
+      "texto": "Comentário: produto não funciona bem",
+      "metadados": {
+        "review_creation_date": "2017-12-20 00:00:00",
+        "review_score": 1,
+        "order_id": "80b77c666e1dab43571417e42bc149e5",
+        "review_id": "2a58d04d47aabf0cc3b9d9acdd7787e0"
+      },
+      "distancia": 0.2897028923034668
+    },
+    {
+      "documento_id": "[\"8b4c14417bccab81710772ecb8b23fd6\",\"62a575a2a9f2c005b7ec7ff7dd76d5ee\"]",
+      "texto": "Comentário: produto deu defeito na 1 vez de uso.",
+      "metadados": {
+        "review_score": 1,
+        "order_id": "62a575a2a9f2c005b7ec7ff7dd76d5ee",
+        "review_id": "8b4c14417bccab81710772ecb8b23fd6",
+        "review_creation_date": "2018-08-03 00:00:00"
+      },
+      "distancia": 0.2958810329437256
+    },
+    {
+      "documento_id": "[\"6d3d6c30e8318a946c8c1f89e577cd7f\",\"3929d3d5fbe85ebabf5b1c42f10d686e\"]",
+      "texto": "Comentário: O produto veio com defeito",
+      "metadados": {
+        "review_score": 1,
+        "review_creation_date": "2018-04-18 00:00:00",
+        "review_id": "6d3d6c30e8318a946c8c1f89e577cd7f",
+        "order_id": "3929d3d5fbe85ebabf5b1c42f10d686e"
+      },
+      "distancia": 0.32013142108917236
+    },
+    {
+      "documento_id": "[\"9649e60a77b60208b8d190c05c6682bd\",\"64c8d713a96944349d954eb4bd62e6d5\"]",
+      "texto": "Comentário: O produto veio com defeito",
+      "metadados": {
+        "review_score": 1,
+        "order_id": "64c8d713a96944349d954eb4bd62e6d5",
+        "review_id": "9649e60a77b60208b8d190c05c6682bd",
+        "review_creation_date": "2018-08-23 00:00:00"
+      },
+      "distancia": 0.32013142108917236
+    },
+    {
+      "documento_id": "[\"83796cb2312caca571fe0261e148e1df\",\"72096fec7f0a5c65db72ae549c086803\"]",
+      "texto": "Comentário: O produto enteque veio Errado",
+      "metadados": {
+        "review_creation_date": "2018-03-20 00:00:00",
+        "order_id": "72096fec7f0a5c65db72ae549c086803",
+        "review_id": "83796cb2312caca571fe0261e148e1df",
+        "review_score": 1
+      },
+      "distancia": 0.32204878330230713
+    },
+    {
+      "documento_id": "[\"c6ed438a3a03ab4c6ae0aeff74c3f32b\",\"890b59a3c92690ae11b0cfe321e979fc\"]",
+      "texto": "Comentário: Sobre o produto tem dúvidas se e original",
+      "metadados": {
+        "review_score": 4,
+        "review_creation_date": "2018-04-01 00:00:00",
+        "review_id": "c6ed438a3a03ab4c6ae0aeff74c3f32b",
+        "order_id": "890b59a3c92690ae11b0cfe321e979fc"
+      },
+      "distancia": 0.3284449577331543
+    },
+    {
+      "documento_id": "[\"76a05a18309209104d2ce7e4ef05e362\",\"b78d95a93c70ace32ceafee76789a2f1\"]",
+      "texto": "Comentário: O produto veio repleto de avarias e as peças não se encaixam devidamente, o que foi constatado por montador profissional. A qualidade também não é a indicada. Lastimável!",
+      "metadados": {
+        "review_id": "76a05a18309209104d2ce7e4ef05e362",
+        "review_creation_date": "2017-03-04 00:00:00",
+        "order_id": "b78d95a93c70ace32ceafee76789a2f1",
+        "review_score": 1
+      },
+      "distancia": 0.3315839171409607
+    },
+    {
+      "documento_id": "[\"5875e483649c04bcfd1368c8aba682e7\",\"27bb9f8cf03a1e189a4047a05621074c\"]",
+      "texto": "Comentário: Falta informações sobre o produto como as medidas do produto",
+      "metadados": {
+        "order_id": "27bb9f8cf03a1e189a4047a05621074c",
+        "review_creation_date": "2018-04-28 00:00:00",
+        "review_id": "5875e483649c04bcfd1368c8aba682e7",
+        "review_score": 2
+      },
+      "distancia": 0.3352382183074951
+    },
+    {
+      "documento_id": "[\"60f94367afe0dfb43a258543fa81a3f4\",\"9bcfea969358b43046969a17bfa436b9\"]",
+      "texto": "Comentário: ao começar a usar o produto o mesmo apresentou defeito.",
+      "metadados": {
+        "review_creation_date": "2018-03-23 00:00:00",
+        "order_id": "9bcfea969358b43046969a17bfa436b9",
+        "review_id": "60f94367afe0dfb43a258543fa81a3f4",
+        "review_score": 1
+      },
+      "distancia": 0.3359713554382324
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Quais experiências relatam problemas no funcionamento do produto?",
+    "instante_utc": "2026-11-07T20:38:35.884667+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato menciona que o produto está com problemas (defeito).",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Um relato menciona que o produto apresenta defeito de fabricação.",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um relato menciona que o produto veio com defeito.",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um relato menciona que o produto não funciona bem.",
+        "fontes": [
+          "E4"
+        ]
+      },
+      {
+        "texto": "Um relato menciona que o produto deu defeito na 1 vez de uso.",
+        "fontes": [
+          "E5"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"a6ae1375e10c5bd2f0984336dbfaf998\",\"3e973e154fa0787c8f507fc0929c96a1\"]",
+        "texto": "Comentário: O produto está com problemas (defeito).",
+        "nota": 2,
+        "data": "2017-12-23 00:00:00",
+        "review_id": "a6ae1375e10c5bd2f0984336dbfaf998",
+        "order_id": "3e973e154fa0787c8f507fc0929c96a1",
+        "distancia": 0.23798030614852905,
+        "trecho": "Comentário: O produto está com problemas (defeito)."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"dafe744cb9c8ad2c4135391b1a46f1b9\",\"88b6c7abc4434ef05f56d22ada8f957a\"]",
+        "texto": "Comentário: O produto apresenta defeito de fabricação. Aguardo",
+        "nota": 3,
+        "data": "2017-10-25 00:00:00",
+        "review_id": "dafe744cb9c8ad2c4135391b1a46f1b9",
+        "order_id": "88b6c7abc4434ef05f56d22ada8f957a",
+        "distancia": 0.28530675172805786,
+        "trecho": "Comentário: O produto apresenta defeito de fabricação. Aguardo"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"ea0036b547cb7e145507d50c4d64ce2a\",\"f1551636056618e77921de4bd2bb5e7c\"]",
+        "texto": "Comentário: produto veio com defeito",
+        "nota": 1,
+        "data": "2017-04-20 00:00:00",
+        "review_id": "ea0036b547cb7e145507d50c4d64ce2a",
+        "order_id": "f1551636056618e77921de4bd2bb5e7c",
+        "distancia": 0.2880820035934448,
+        "trecho": "Comentário: produto veio com defeito"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"2a58d04d47aabf0cc3b9d9acdd7787e0\",\"80b77c666e1dab43571417e42bc149e5\"]",
+        "texto": "Comentário: produto não funciona bem",
+        "nota": 1,
+        "data": "2017-12-20 00:00:00",
+        "review_id": "2a58d04d47aabf0cc3b9d9acdd7787e0",
+        "order_id": "80b77c666e1dab43571417e42bc149e5",
+        "distancia": 0.2897028923034668,
+        "trecho": "Comentário: produto não funciona bem"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"8b4c14417bccab81710772ecb8b23fd6\",\"62a575a2a9f2c005b7ec7ff7dd76d5ee\"]",
+        "texto": "Comentário: produto deu defeito na 1 vez de uso.",
+        "nota": 1,
+        "data": "2018-08-03 00:00:00",
+        "review_id": "8b4c14417bccab81710772ecb8b23fd6",
+        "order_id": "62a575a2a9f2c005b7ec7ff7dd76d5ee",
+        "distancia": 0.2958810329437256,
+        "trecho": "Comentário: produto deu defeito na 1 vez de uso."
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"a6ae1375e10c5bd2f0984336dbfaf998\",\"3e973e154fa0787c8f507fc0929c96a1\"]",
+        "texto": "Comentário: O produto está com problemas (defeito).",
+        "nota": 2,
+        "data": "2017-12-23 00:00:00",
+        "review_id": "a6ae1375e10c5bd2f0984336dbfaf998",
+        "order_id": "3e973e154fa0787c8f507fc0929c96a1",
+        "distancia": 0.23798030614852905
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"dafe744cb9c8ad2c4135391b1a46f1b9\",\"88b6c7abc4434ef05f56d22ada8f957a\"]",
+        "texto": "Comentário: O produto apresenta defeito de fabricação. Aguardo",
+        "nota": 3,
+        "data": "2017-10-25 00:00:00",
+        "review_id": "dafe744cb9c8ad2c4135391b1a46f1b9",
+        "order_id": "88b6c7abc4434ef05f56d22ada8f957a",
+        "distancia": 0.28530675172805786
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"ea0036b547cb7e145507d50c4d64ce2a\",\"f1551636056618e77921de4bd2bb5e7c\"]",
+        "texto": "Comentário: produto veio com defeito",
+        "nota": 1,
+        "data": "2017-04-20 00:00:00",
+        "review_id": "ea0036b547cb7e145507d50c4d64ce2a",
+        "order_id": "f1551636056618e77921de4bd2bb5e7c",
+        "distancia": 0.2880820035934448
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"2a58d04d47aabf0cc3b9d9acdd7787e0\",\"80b77c666e1dab43571417e42bc149e5\"]",
+        "texto": "Comentário: produto não funciona bem",
+        "nota": 1,
+        "data": "2017-12-20 00:00:00",
+        "review_id": "2a58d04d47aabf0cc3b9d9acdd7787e0",
+        "order_id": "80b77c666e1dab43571417e42bc149e5",
+        "distancia": 0.2897028923034668
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"8b4c14417bccab81710772ecb8b23fd6\",\"62a575a2a9f2c005b7ec7ff7dd76d5ee\"]",
+        "texto": "Comentário: produto deu defeito na 1 vez de uso.",
+        "nota": 1,
+        "data": "2018-08-03 00:00:00",
+        "review_id": "8b4c14417bccab81710772ecb8b23fd6",
+        "order_id": "62a575a2a9f2c005b7ec7ff7dd76d5ee",
+        "distancia": 0.2958810329437256
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"6d3d6c30e8318a946c8c1f89e577cd7f\",\"3929d3d5fbe85ebabf5b1c42f10d686e\"]",
+        "texto": "Comentário: O produto veio com defeito",
+        "nota": 1,
+        "data": "2018-04-18 00:00:00",
+        "review_id": "6d3d6c30e8318a946c8c1f89e577cd7f",
+        "order_id": "3929d3d5fbe85ebabf5b1c42f10d686e",
+        "distancia": 0.32013142108917236
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"83796cb2312caca571fe0261e148e1df\",\"72096fec7f0a5c65db72ae549c086803\"]",
+        "texto": "Comentário: O produto enteque veio Errado",
+        "nota": 1,
+        "data": "2018-03-20 00:00:00",
+        "review_id": "83796cb2312caca571fe0261e148e1df",
+        "order_id": "72096fec7f0a5c65db72ae549c086803",
+        "distancia": 0.32204878330230713
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"c6ed438a3a03ab4c6ae0aeff74c3f32b\",\"890b59a3c92690ae11b0cfe321e979fc\"]",
+        "texto": "Comentário: Sobre o produto tem dúvidas se e original",
+        "nota": 4,
+        "data": "2018-04-01 00:00:00",
+        "review_id": "c6ed438a3a03ab4c6ae0aeff74c3f32b",
+        "order_id": "890b59a3c92690ae11b0cfe321e979fc",
+        "distancia": 0.3284449577331543
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"76a05a18309209104d2ce7e4ef05e362\",\"b78d95a93c70ace32ceafee76789a2f1\"]",
+        "texto": "Comentário: O produto veio repleto de avarias e as peças não se encaixam devidamente, o que foi constatado por montador profissional. A qualidade também não é a indicada. Lastimável!",
+        "nota": 1,
+        "data": "2017-03-04 00:00:00",
+        "review_id": "76a05a18309209104d2ce7e4ef05e362",
+        "order_id": "b78d95a93c70ace32ceafee76789a2f1",
+        "distancia": 0.3315839171409607
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"5875e483649c04bcfd1368c8aba682e7\",\"27bb9f8cf03a1e189a4047a05621074c\"]",
+        "texto": "Comentário: Falta informações sobre o produto como as medidas do produto",
+        "nota": 2,
+        "data": "2018-04-28 00:00:00",
+        "review_id": "5875e483649c04bcfd1368c8aba682e7",
+        "order_id": "27bb9f8cf03a1e189a4047a05621074c",
+        "distancia": 0.3352382183074951
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"a6ae1375e10c5bd2f0984336dbfaf998\",\"3e973e154fa0787c8f507fc0929c96a1\"]",
+        "texto": "Comentário: O produto está com problemas (defeito).",
+        "nota": 2,
+        "data": "2017-12-23 00:00:00",
+        "review_id": "a6ae1375e10c5bd2f0984336dbfaf998",
+        "order_id": "3e973e154fa0787c8f507fc0929c96a1",
+        "distancia": 0.23798030614852905,
+        "trecho": "Comentário: O produto está com problemas (defeito)."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"dafe744cb9c8ad2c4135391b1a46f1b9\",\"88b6c7abc4434ef05f56d22ada8f957a\"]",
+        "texto": "Comentário: O produto apresenta defeito de fabricação. Aguardo",
+        "nota": 3,
+        "data": "2017-10-25 00:00:00",
+        "review_id": "dafe744cb9c8ad2c4135391b1a46f1b9",
+        "order_id": "88b6c7abc4434ef05f56d22ada8f957a",
+        "distancia": 0.28530675172805786,
+        "trecho": "Comentário: O produto apresenta defeito de fabricação. Aguardo"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"ea0036b547cb7e145507d50c4d64ce2a\",\"f1551636056618e77921de4bd2bb5e7c\"]",
+        "texto": "Comentário: produto veio com defeito",
+        "nota": 1,
+        "data": "2017-04-20 00:00:00",
+        "review_id": "ea0036b547cb7e145507d50c4d64ce2a",
+        "order_id": "f1551636056618e77921de4bd2bb5e7c",
+        "distancia": 0.2880820035934448,
+        "trecho": "Comentário: produto veio com defeito"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"2a58d04d47aabf0cc3b9d9acdd7787e0\",\"80b77c666e1dab43571417e42bc149e5\"]",
+        "texto": "Comentário: produto não funciona bem",
+        "nota": 1,
+        "data": "2017-12-20 00:00:00",
+        "review_id": "2a58d04d47aabf0cc3b9d9acdd7787e0",
+        "order_id": "80b77c666e1dab43571417e42bc149e5",
+        "distancia": 0.2897028923034668,
+        "trecho": "Comentário: produto não funciona bem"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"8b4c14417bccab81710772ecb8b23fd6\",\"62a575a2a9f2c005b7ec7ff7dd76d5ee\"]",
+        "texto": "Comentário: produto deu defeito na 1 vez de uso.",
+        "nota": 1,
+        "data": "2018-08-03 00:00:00",
+        "review_id": "8b4c14417bccab81710772ecb8b23fd6",
+        "order_id": "62a575a2a9f2c005b7ec7ff7dd76d5ee",
+        "distancia": 0.2958810329437256,
+        "trecho": "Comentário: produto deu defeito na 1 vez de uso."
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E4\"}, {\"fonte\": \"E5\"}], \"justificativa\": \"As fontes E1, E2, E3, E4 e E5 descrevem problemas no funcionamento do produto, como defeitos e mau funcionamento.\"}",
+        "uso": {
+          "completion_tokens": 97,
+          "prompt_tokens": 2801,
+          "total_tokens": 2898,
+          "prompt_tokens_details": {
+            "cached_tokens": 1120
+          },
+          "cache_read_input_tokens": 1120
+        },
+        "latencia_s": 1.8189659229997233,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato menciona que o produto está com problemas (defeito).\", \"fontes\": [\"E1\"]}, {\"texto\": \"Um relato menciona que o produto apresenta defeito de fabricação.\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um relato menciona que o produto veio com defeito.\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um relato menciona que o produto não funciona bem.\", \"fontes\": [\"E4\"]}, {\"texto\": \"Um relato menciona que o produto deu defeito na 1 vez de uso.\", \"fontes\": [\"E5\"]}]}",
+        "uso": {
+          "completion_tokens": 157,
+          "prompt_tokens": 1321,
+          "total_tokens": 1478,
+          "prompt_tokens_details": {
+            "cached_tokens": 1024
+          },
+          "cache_read_input_tokens": 1024
+        },
+        "latencia_s": 3.343089684000006,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 5.16258986999992
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 5.2065720440000405
+}

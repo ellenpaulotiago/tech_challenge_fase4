@@ -1,0 +1,440 @@
+{
+  "pergunta_id": "Q10",
+  "pergunta": "O que os clientes relatam sobre receber menos itens do que compraram?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:40:25.804971+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"39e3220236b9d66fb03ab618ed8e3477\",\"410d704bdcbe2893fd5ad73fe8166f43\"]",
+      "texto": "Comentário: Ponto negativo foi a venda de produto que não possui em estoque. O que frustra o consumidor.",
+      "metadados": {
+        "review_creation_date": "2018-01-06 00:00:00",
+        "review_score": 2,
+        "order_id": "410d704bdcbe2893fd5ad73fe8166f43",
+        "review_id": "39e3220236b9d66fb03ab618ed8e3477"
+      },
+      "distancia": 0.3063506484031677
+    },
+    {
+      "documento_id": "[\"72776459aedbf0e792a2ecf498de7441\",\"39f0fe1c2222cc91a2c126338ffd0a77\"]",
+      "texto": "Comentário: A compra foi efetuada de um produto com valor x ,a mercadoria recebida foi de um valor bem inferior do que o solicitado. Fiquei insatisfeita com a loja pois era um presente que eu iria dar.",
+      "metadados": {
+        "review_score": 1,
+        "review_id": "72776459aedbf0e792a2ecf498de7441",
+        "order_id": "39f0fe1c2222cc91a2c126338ffd0a77",
+        "review_creation_date": "2017-05-19 00:00:00"
+      },
+      "distancia": 0.3076920509338379
+    },
+    {
+      "documento_id": "[\"d2266a74fe69768accd1817f6001238c\",\"9de76ec033b835610e97e8b8b78011d1\"]",
+      "texto": "Comentário: Me mandaram um produto com a medida muito menor do anunciado. Solicitei a troca.",
+      "metadados": {
+        "order_id": "9de76ec033b835610e97e8b8b78011d1",
+        "review_score": 1,
+        "review_creation_date": "2017-04-29 00:00:00",
+        "review_id": "d2266a74fe69768accd1817f6001238c"
+      },
+      "distancia": 0.311707079410553
+    },
+    {
+      "documento_id": "[\"5b4de63e88bbb6daf51200bbc71e7620\",\"032a688c9db451501788d95c7f794ed6\"]",
+      "texto": "Comentário: Gostaria de saber o motivo do não recebimento do produto que paguei.",
+      "metadados": {
+        "review_creation_date": "2017-10-08 00:00:00",
+        "review_score": 2,
+        "order_id": "032a688c9db451501788d95c7f794ed6",
+        "review_id": "5b4de63e88bbb6daf51200bbc71e7620"
+      },
+      "distancia": 0.31786322593688965
+    },
+    {
+      "documento_id": "[\"1403627a16398351a5194c5b67074070\",\"c80bee063ac8e261dbf244fa3f710329\"]",
+      "texto": "Comentário: Prazo de entrega poderia ser menor.",
+      "metadados": {
+        "review_creation_date": "2018-03-24 00:00:00",
+        "review_score": 4,
+        "order_id": "c80bee063ac8e261dbf244fa3f710329",
+        "review_id": "1403627a16398351a5194c5b67074070"
+      },
+      "distancia": 0.319522500038147
+    },
+    {
+      "documento_id": "[\"99e058497356fcff75c988b79c9307ab\",\"5cb7883ae621115f6c404bca4c9e97fa\"]",
+      "texto": "Comentário: O Produto enviado foi outro inferior ao vendido.",
+      "metadados": {
+        "order_id": "5cb7883ae621115f6c404bca4c9e97fa",
+        "review_creation_date": "2018-04-04 00:00:00",
+        "review_score": 2,
+        "review_id": "99e058497356fcff75c988b79c9307ab"
+      },
+      "distancia": 0.3211730122566223
+    },
+    {
+      "documento_id": "[\"15f1079cc6f9ff3b5955fdf2acb56a42\",\"5de9e77c89bb6f31552993baf408f3a3\"]",
+      "texto": "Comentário: Recebi produtos diferentes do anunciado e pior de 02 und compradas recebi somente 01 und. Não gostei, pedi a devolução do dinheiro.",
+      "metadados": {
+        "review_score": 1,
+        "review_id": "15f1079cc6f9ff3b5955fdf2acb56a42",
+        "review_creation_date": "2017-03-21 00:00:00",
+        "order_id": "5de9e77c89bb6f31552993baf408f3a3"
+      },
+      "distancia": 0.32731926441192627
+    },
+    {
+      "documento_id": "[\"e2028f53e819fccea2f06e14f308c1f6\",\"9cb72ea4aed538b235a9936b84656974\"]",
+      "texto": "Comentário: Recebi a Nota Fiscal do produto junto a embalagem com um valor bem inferior ao pago. Por que?",
+      "metadados": {
+        "review_score": 5,
+        "order_id": "9cb72ea4aed538b235a9936b84656974",
+        "review_creation_date": "2018-08-03 00:00:00",
+        "review_id": "e2028f53e819fccea2f06e14f308c1f6"
+      },
+      "distancia": 0.32788532972335815
+    },
+    {
+      "documento_id": "[\"671026223a554a2e17f2bdd7f6df9fb1\",\"f001d39de25ce801a4b275f5ad3e1c2e\"]",
+      "texto": "Comentário: Solicito informações sobre a compra e o estorno da compra? Se o valor for devolvido, recomendaria a loja sim",
+      "metadados": {
+        "review_creation_date": "2017-12-20 00:00:00",
+        "order_id": "f001d39de25ce801a4b275f5ad3e1c2e",
+        "review_id": "671026223a554a2e17f2bdd7f6df9fb1",
+        "review_score": 2
+      },
+      "distancia": 0.3314063549041748
+    },
+    {
+      "documento_id": "[\"a6aa6832e27f9328ad3730cf54e494d0\",\"0b252b879dbab76b4730df79aeb1778f\"]",
+      "texto": "Comentário: Gostaria de saber o motivo do NÃO recebimento do produto, visto que fiz uma compra com 4 (quatro) produtos, sendo que três recebi e o controle NÃO.",
+      "metadados": {
+        "review_id": "a6aa6832e27f9328ad3730cf54e494d0",
+        "review_creation_date": "2018-03-10 00:00:00",
+        "review_score": 1,
+        "order_id": "0b252b879dbab76b4730df79aeb1778f"
+      },
+      "distancia": 0.3324047327041626
+    },
+    {
+      "documento_id": "[\"0fde911606b8b6e98044e4a07ab9fd4a\",\"141c7645c99eed7a80fa7ec9d6c40ad0\"]",
+      "texto": "Comentário: Demora para entrega e também os fretes são muito alto poderia avaliar o cliente pela quantidade de compras",
+      "metadados": {
+        "review_id": "0fde911606b8b6e98044e4a07ab9fd4a",
+        "review_creation_date": "2018-02-08 00:00:00",
+        "order_id": "141c7645c99eed7a80fa7ec9d6c40ad0",
+        "review_score": 3
+      },
+      "distancia": 0.3408437967300415
+    },
+    {
+      "documento_id": "[\"41d35526d3891eb684c6690aa1c85484\",\"464cd296e96f72dc09a9601842cc0893\"]",
+      "texto": "Comentário: O produto entregue não correspondeu ao comprado",
+      "metadados": {
+        "review_id": "41d35526d3891eb684c6690aa1c85484",
+        "review_creation_date": "2017-10-27 00:00:00",
+        "review_score": 2,
+        "order_id": "464cd296e96f72dc09a9601842cc0893"
+      },
+      "distancia": 0.3464270234107971
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "O que os clientes relatam sobre receber menos itens do que compraram?",
+    "instante_utc": "2026-11-07T20:40:25.867162+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um cliente relata ter recebido apenas 1 unidade de um produto, embora tivesse comprado 2.",
+        "fontes": [
+          "E7"
+        ]
+      },
+      {
+        "texto": "Outro cliente afirma ter recebido apenas 3 dos 4 produtos que comprou.",
+        "fontes": [
+          "E10"
+        ]
+      },
+      {
+        "texto": "Um cliente relata ter recebido um produto de valor inferior ao solicitado.",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um cliente afirma ter recebido um produto diferente e inferior ao vendido.",
+        "fontes": [
+          "E6"
+        ]
+      },
+      {
+        "texto": "Um cliente relata ter recebido um produto com medida menor do que a anunciada.",
+        "fontes": [
+          "E3"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E7",
+        "documento_id": "[\"15f1079cc6f9ff3b5955fdf2acb56a42\",\"5de9e77c89bb6f31552993baf408f3a3\"]",
+        "texto": "Comentário: Recebi produtos diferentes do anunciado e pior de 02 und compradas recebi somente 01 und. Não gostei, pedi a devolução do dinheiro.",
+        "nota": 1,
+        "data": "2017-03-21 00:00:00",
+        "review_id": "15f1079cc6f9ff3b5955fdf2acb56a42",
+        "order_id": "5de9e77c89bb6f31552993baf408f3a3",
+        "distancia": 0.32731926441192627,
+        "trecho": "Comentário: Recebi produtos diferentes do anunciado e pior de 02 und compradas recebi somente 01 und. Não gostei, pedi a devolução do dinheiro."
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"a6aa6832e27f9328ad3730cf54e494d0\",\"0b252b879dbab76b4730df79aeb1778f\"]",
+        "texto": "Comentário: Gostaria de saber o motivo do NÃO recebimento do produto, visto que fiz uma compra com 4 (quatro) produtos, sendo que três recebi e o controle NÃO.",
+        "nota": 1,
+        "data": "2018-03-10 00:00:00",
+        "review_id": "a6aa6832e27f9328ad3730cf54e494d0",
+        "order_id": "0b252b879dbab76b4730df79aeb1778f",
+        "distancia": 0.3324047327041626,
+        "trecho": "Comentário: Gostaria de saber o motivo do NÃO recebimento do produto, visto que fiz uma compra com 4 (quatro) produtos, sendo que três recebi e o controle NÃO."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"72776459aedbf0e792a2ecf498de7441\",\"39f0fe1c2222cc91a2c126338ffd0a77\"]",
+        "texto": "Comentário: A compra foi efetuada de um produto com valor x ,a mercadoria recebida foi de um valor bem inferior do que o solicitado. Fiquei insatisfeita com a loja pois era um presente que eu iria dar.",
+        "nota": 1,
+        "data": "2017-05-19 00:00:00",
+        "review_id": "72776459aedbf0e792a2ecf498de7441",
+        "order_id": "39f0fe1c2222cc91a2c126338ffd0a77",
+        "distancia": 0.3076920509338379,
+        "trecho": "Comentário: A compra foi efetuada de um produto com valor x ,a mercadoria recebida foi de um valor bem inferior do que o solicitado. Fiquei insatisfeita com a loja pois era um presente que eu iria dar."
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"99e058497356fcff75c988b79c9307ab\",\"5cb7883ae621115f6c404bca4c9e97fa\"]",
+        "texto": "Comentário: O Produto enviado foi outro inferior ao vendido.",
+        "nota": 2,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "99e058497356fcff75c988b79c9307ab",
+        "order_id": "5cb7883ae621115f6c404bca4c9e97fa",
+        "distancia": 0.3211730122566223,
+        "trecho": "Comentário: O Produto enviado foi outro inferior ao vendido."
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"d2266a74fe69768accd1817f6001238c\",\"9de76ec033b835610e97e8b8b78011d1\"]",
+        "texto": "Comentário: Me mandaram um produto com a medida muito menor do anunciado. Solicitei a troca.",
+        "nota": 1,
+        "data": "2017-04-29 00:00:00",
+        "review_id": "d2266a74fe69768accd1817f6001238c",
+        "order_id": "9de76ec033b835610e97e8b8b78011d1",
+        "distancia": 0.311707079410553,
+        "trecho": "Comentário: Me mandaram um produto com a medida muito menor do anunciado. Solicitei a troca."
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"39e3220236b9d66fb03ab618ed8e3477\",\"410d704bdcbe2893fd5ad73fe8166f43\"]",
+        "texto": "Comentário: Ponto negativo foi a venda de produto que não possui em estoque. O que frustra o consumidor.",
+        "nota": 2,
+        "data": "2018-01-06 00:00:00",
+        "review_id": "39e3220236b9d66fb03ab618ed8e3477",
+        "order_id": "410d704bdcbe2893fd5ad73fe8166f43",
+        "distancia": 0.3063506484031677
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"72776459aedbf0e792a2ecf498de7441\",\"39f0fe1c2222cc91a2c126338ffd0a77\"]",
+        "texto": "Comentário: A compra foi efetuada de um produto com valor x ,a mercadoria recebida foi de um valor bem inferior do que o solicitado. Fiquei insatisfeita com a loja pois era um presente que eu iria dar.",
+        "nota": 1,
+        "data": "2017-05-19 00:00:00",
+        "review_id": "72776459aedbf0e792a2ecf498de7441",
+        "order_id": "39f0fe1c2222cc91a2c126338ffd0a77",
+        "distancia": 0.3076920509338379
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"d2266a74fe69768accd1817f6001238c\",\"9de76ec033b835610e97e8b8b78011d1\"]",
+        "texto": "Comentário: Me mandaram um produto com a medida muito menor do anunciado. Solicitei a troca.",
+        "nota": 1,
+        "data": "2017-04-29 00:00:00",
+        "review_id": "d2266a74fe69768accd1817f6001238c",
+        "order_id": "9de76ec033b835610e97e8b8b78011d1",
+        "distancia": 0.311707079410553
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"5b4de63e88bbb6daf51200bbc71e7620\",\"032a688c9db451501788d95c7f794ed6\"]",
+        "texto": "Comentário: Gostaria de saber o motivo do não recebimento do produto que paguei.",
+        "nota": 2,
+        "data": "2017-10-08 00:00:00",
+        "review_id": "5b4de63e88bbb6daf51200bbc71e7620",
+        "order_id": "032a688c9db451501788d95c7f794ed6",
+        "distancia": 0.31786322593688965
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"1403627a16398351a5194c5b67074070\",\"c80bee063ac8e261dbf244fa3f710329\"]",
+        "texto": "Comentário: Prazo de entrega poderia ser menor.",
+        "nota": 4,
+        "data": "2018-03-24 00:00:00",
+        "review_id": "1403627a16398351a5194c5b67074070",
+        "order_id": "c80bee063ac8e261dbf244fa3f710329",
+        "distancia": 0.319522500038147
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"99e058497356fcff75c988b79c9307ab\",\"5cb7883ae621115f6c404bca4c9e97fa\"]",
+        "texto": "Comentário: O Produto enviado foi outro inferior ao vendido.",
+        "nota": 2,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "99e058497356fcff75c988b79c9307ab",
+        "order_id": "5cb7883ae621115f6c404bca4c9e97fa",
+        "distancia": 0.3211730122566223
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"15f1079cc6f9ff3b5955fdf2acb56a42\",\"5de9e77c89bb6f31552993baf408f3a3\"]",
+        "texto": "Comentário: Recebi produtos diferentes do anunciado e pior de 02 und compradas recebi somente 01 und. Não gostei, pedi a devolução do dinheiro.",
+        "nota": 1,
+        "data": "2017-03-21 00:00:00",
+        "review_id": "15f1079cc6f9ff3b5955fdf2acb56a42",
+        "order_id": "5de9e77c89bb6f31552993baf408f3a3",
+        "distancia": 0.32731926441192627
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"e2028f53e819fccea2f06e14f308c1f6\",\"9cb72ea4aed538b235a9936b84656974\"]",
+        "texto": "Comentário: Recebi a Nota Fiscal do produto junto a embalagem com um valor bem inferior ao pago. Por que?",
+        "nota": 5,
+        "data": "2018-08-03 00:00:00",
+        "review_id": "e2028f53e819fccea2f06e14f308c1f6",
+        "order_id": "9cb72ea4aed538b235a9936b84656974",
+        "distancia": 0.32788532972335815
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"671026223a554a2e17f2bdd7f6df9fb1\",\"f001d39de25ce801a4b275f5ad3e1c2e\"]",
+        "texto": "Comentário: Solicito informações sobre a compra e o estorno da compra? Se o valor for devolvido, recomendaria a loja sim",
+        "nota": 2,
+        "data": "2017-12-20 00:00:00",
+        "review_id": "671026223a554a2e17f2bdd7f6df9fb1",
+        "order_id": "f001d39de25ce801a4b275f5ad3e1c2e",
+        "distancia": 0.3314063549041748
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"a6aa6832e27f9328ad3730cf54e494d0\",\"0b252b879dbab76b4730df79aeb1778f\"]",
+        "texto": "Comentário: Gostaria de saber o motivo do NÃO recebimento do produto, visto que fiz uma compra com 4 (quatro) produtos, sendo que três recebi e o controle NÃO.",
+        "nota": 1,
+        "data": "2018-03-10 00:00:00",
+        "review_id": "a6aa6832e27f9328ad3730cf54e494d0",
+        "order_id": "0b252b879dbab76b4730df79aeb1778f",
+        "distancia": 0.3324047327041626
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E7",
+        "documento_id": "[\"15f1079cc6f9ff3b5955fdf2acb56a42\",\"5de9e77c89bb6f31552993baf408f3a3\"]",
+        "texto": "Comentário: Recebi produtos diferentes do anunciado e pior de 02 und compradas recebi somente 01 und. Não gostei, pedi a devolução do dinheiro.",
+        "nota": 1,
+        "data": "2017-03-21 00:00:00",
+        "review_id": "15f1079cc6f9ff3b5955fdf2acb56a42",
+        "order_id": "5de9e77c89bb6f31552993baf408f3a3",
+        "distancia": 0.32731926441192627,
+        "trecho": "Comentário: Recebi produtos diferentes do anunciado e pior de 02 und compradas recebi somente 01 und. Não gostei, pedi a devolução do dinheiro."
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"a6aa6832e27f9328ad3730cf54e494d0\",\"0b252b879dbab76b4730df79aeb1778f\"]",
+        "texto": "Comentário: Gostaria de saber o motivo do NÃO recebimento do produto, visto que fiz uma compra com 4 (quatro) produtos, sendo que três recebi e o controle NÃO.",
+        "nota": 1,
+        "data": "2018-03-10 00:00:00",
+        "review_id": "a6aa6832e27f9328ad3730cf54e494d0",
+        "order_id": "0b252b879dbab76b4730df79aeb1778f",
+        "distancia": 0.3324047327041626,
+        "trecho": "Comentário: Gostaria de saber o motivo do NÃO recebimento do produto, visto que fiz uma compra com 4 (quatro) produtos, sendo que três recebi e o controle NÃO."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"72776459aedbf0e792a2ecf498de7441\",\"39f0fe1c2222cc91a2c126338ffd0a77\"]",
+        "texto": "Comentário: A compra foi efetuada de um produto com valor x ,a mercadoria recebida foi de um valor bem inferior do que o solicitado. Fiquei insatisfeita com a loja pois era um presente que eu iria dar.",
+        "nota": 1,
+        "data": "2017-05-19 00:00:00",
+        "review_id": "72776459aedbf0e792a2ecf498de7441",
+        "order_id": "39f0fe1c2222cc91a2c126338ffd0a77",
+        "distancia": 0.3076920509338379,
+        "trecho": "Comentário: A compra foi efetuada de um produto com valor x ,a mercadoria recebida foi de um valor bem inferior do que o solicitado. Fiquei insatisfeita com a loja pois era um presente que eu iria dar."
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"99e058497356fcff75c988b79c9307ab\",\"5cb7883ae621115f6c404bca4c9e97fa\"]",
+        "texto": "Comentário: O Produto enviado foi outro inferior ao vendido.",
+        "nota": 2,
+        "data": "2018-04-04 00:00:00",
+        "review_id": "99e058497356fcff75c988b79c9307ab",
+        "order_id": "5cb7883ae621115f6c404bca4c9e97fa",
+        "distancia": 0.3211730122566223,
+        "trecho": "Comentário: O Produto enviado foi outro inferior ao vendido."
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"d2266a74fe69768accd1817f6001238c\",\"9de76ec033b835610e97e8b8b78011d1\"]",
+        "texto": "Comentário: Me mandaram um produto com a medida muito menor do anunciado. Solicitei a troca.",
+        "nota": 1,
+        "data": "2017-04-29 00:00:00",
+        "review_id": "d2266a74fe69768accd1817f6001238c",
+        "order_id": "9de76ec033b835610e97e8b8b78011d1",
+        "distancia": 0.311707079410553,
+        "trecho": "Comentário: Me mandaram um produto com a medida muito menor do anunciado. Solicitei a troca."
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E7\"}, {\"fonte\": \"E10\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E6\"}, {\"fonte\": \"E3\"}], \"justificativa\": \"Os clientes relatam sobre receber menos itens do que compraram, citando exemplos de produtos diferentes do anunciado, quantidade errada e não recebimento de alguns itens.\"}",
+        "uso": {
+          "completion_tokens": 98,
+          "prompt_tokens": 2877,
+          "total_tokens": 2975,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 2.1598299259999294,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um cliente relata ter recebido apenas 1 unidade de um produto, embora tivesse comprado 2.\", \"fontes\": [\"E7\"]}, {\"texto\": \"Outro cliente afirma ter recebido apenas 3 dos 4 produtos que comprou.\", \"fontes\": [\"E10\"]}, {\"texto\": \"Um cliente relata ter recebido um produto de valor inferior ao solicitado.\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um cliente afirma ter recebido um produto diferente e inferior ao vendido.\", \"fontes\": [\"E6\"]}, {\"texto\": \"Um cliente relata ter recebido um produto com medida menor do que a anunciada.\", \"fontes\": [\"E3\"]}]}",
+        "uso": {
+          "completion_tokens": 178,
+          "prompt_tokens": 1436,
+          "total_tokens": 1614,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 2.461432314999911,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 4.6218566879997525
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 4.683664595999744
+}

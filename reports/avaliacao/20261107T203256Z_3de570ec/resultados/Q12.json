@@ -1,0 +1,440 @@
+{
+  "pergunta_id": "Q12",
+  "pergunta": "Quais experiências de atendimento aparecem nos relatos recuperados?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:40:49.890968+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"b0ff7085100944a3a4cec2c723e07b64\",\"7570e5e9db9baf79a9d7d6df7bfbda19\"]",
+      "texto": "Comentário: Qualidade no atendimento.",
+      "metadados": {
+        "order_id": "7570e5e9db9baf79a9d7d6df7bfbda19",
+        "review_score": 5,
+        "review_id": "b0ff7085100944a3a4cec2c723e07b64",
+        "review_creation_date": "2017-12-07 00:00:00"
+      },
+      "distancia": 0.4104984998703003
+    },
+    {
+      "documento_id": "[\"b6460c871b6b1b8eca16e23f74276ff1\",\"acf439da18812b2e710a2e7abe7f0ab2\"]",
+      "texto": "Comentário: Atendimento cumprido.",
+      "metadados": {
+        "review_score": 4,
+        "review_id": "b6460c871b6b1b8eca16e23f74276ff1",
+        "order_id": "acf439da18812b2e710a2e7abe7f0ab2",
+        "review_creation_date": "2017-06-24 00:00:00"
+      },
+      "distancia": 0.439255952835083
+    },
+    {
+      "documento_id": "[\"71d84fb5166c71b5a763c990fa270d77\",\"67d24a8d137875c82f670c9e089f4a2b\"]",
+      "texto": "Comentário: atendimento profissional correto",
+      "metadados": {
+        "order_id": "67d24a8d137875c82f670c9e089f4a2b",
+        "review_creation_date": "2018-05-22 00:00:00",
+        "review_id": "71d84fb5166c71b5a763c990fa270d77",
+        "review_score": 5
+      },
+      "distancia": 0.44411730766296387
+    },
+    {
+      "documento_id": "[\"a862bf72d51efa0d1880ce7e0a7ddf1a\",\"1f4e50d812a6a4f1ae815a4aa6435e51\"]",
+      "texto": "Comentário: ainda estou verificando o atendimento quando precisamos efetuar uma troca ou resolver um problema, esse é o referencial de qualquer atendimento.",
+      "metadados": {
+        "review_id": "a862bf72d51efa0d1880ce7e0a7ddf1a",
+        "order_id": "1f4e50d812a6a4f1ae815a4aa6435e51",
+        "review_creation_date": "2018-01-09 00:00:00",
+        "review_score": 2
+      },
+      "distancia": 0.446549654006958
+    },
+    {
+      "documento_id": "[\"639d737f089c8db7b4f3fad9bc0063e6\",\"c36722bf525388104790764a7917ca07\"]",
+      "texto": "Comentário: Parabéns pela presteza no atendimento",
+      "metadados": {
+        "review_id": "639d737f089c8db7b4f3fad9bc0063e6",
+        "review_score": 5,
+        "order_id": "c36722bf525388104790764a7917ca07",
+        "review_creation_date": "2017-05-16 00:00:00"
+      },
+      "distancia": 0.44833624362945557
+    },
+    {
+      "documento_id": "[\"07e942e0d9733d23acd246b91c924f32\",\"260c8e4c9a29e56ae6ee21c449f6834c\"]",
+      "texto": "Comentário: Atenciosos no atendimento",
+      "metadados": {
+        "review_score": 5,
+        "review_id": "07e942e0d9733d23acd246b91c924f32",
+        "review_creation_date": "2017-09-13 00:00:00",
+        "order_id": "260c8e4c9a29e56ae6ee21c449f6834c"
+      },
+      "distancia": 0.4494381546974182
+    },
+    {
+      "documento_id": "[\"5b641e39fb4e4cf3533f5abc153a0234\",\"df1673f73c6ab875ce62808a1e5e460b\"]",
+      "texto": "Comentário: Belo atendimento, Otimo profissionais e otimo suporte",
+      "metadados": {
+        "review_creation_date": "2017-08-09 00:00:00",
+        "review_id": "5b641e39fb4e4cf3533f5abc153a0234",
+        "order_id": "df1673f73c6ab875ce62808a1e5e460b",
+        "review_score": 5
+      },
+      "distancia": 0.4522184133529663
+    },
+    {
+      "documento_id": "[\"04aefae104ad7362ef405928063cd7c2\",\"64d02f4ae7e52cc423b0b8790e8760d3\"]",
+      "texto": "Comentário: serviço prestado dentro do esperado. obrigado",
+      "metadados": {
+        "review_id": "04aefae104ad7362ef405928063cd7c2",
+        "review_score": 5,
+        "review_creation_date": "2018-04-18 00:00:00",
+        "order_id": "64d02f4ae7e52cc423b0b8790e8760d3"
+      },
+      "distancia": 0.46078187227249146
+    },
+    {
+      "documento_id": "[\"8f8c17723a010d7c0ff2ca69f70e5096\",\"706b9cbda5d9ac137f8b484774d4c2a9\"]",
+      "texto": "Comentário: Aguardando retorno e esclarecimentos sobre o ocorrido.",
+      "metadados": {
+        "review_score": 1,
+        "review_id": "8f8c17723a010d7c0ff2ca69f70e5096",
+        "review_creation_date": "2018-01-21 00:00:00",
+        "order_id": "706b9cbda5d9ac137f8b484774d4c2a9"
+      },
+      "distancia": 0.4653075337409973
+    },
+    {
+      "documento_id": "[\"9cdcce8bc563ab5938dc0d976e703473\",\"37f02a54b7a8290c4afc59b4171a4718\"]",
+      "texto": "Comentário: excelente o atendimento e entrega",
+      "metadados": {
+        "review_score": 5,
+        "order_id": "37f02a54b7a8290c4afc59b4171a4718",
+        "review_creation_date": "2018-02-08 00:00:00",
+        "review_id": "9cdcce8bc563ab5938dc0d976e703473"
+      },
+      "distancia": 0.47432106733322144
+    },
+    {
+      "documento_id": "[\"54632c74b47370b0a17337a109c2c0e3\",\"6cb0e1664e861687126a22bcb14e9def\"]",
+      "texto": "Comentário: Parabens pela qualidade e o otimo atendimento",
+      "metadados": {
+        "review_creation_date": "2018-01-18 00:00:00",
+        "review_id": "54632c74b47370b0a17337a109c2c0e3",
+        "review_score": 5,
+        "order_id": "6cb0e1664e861687126a22bcb14e9def"
+      },
+      "distancia": 0.4761579632759094
+    },
+    {
+      "documento_id": "[\"f4dae81937bc173b25686e788ca1bb6c\",\"43f32db0dedd975e294e98ce23b24661\"]",
+      "texto": "Comentário: atendimento eficaz e entrega dentro do prazo",
+      "metadados": {
+        "review_creation_date": "2018-05-22 00:00:00",
+        "review_id": "f4dae81937bc173b25686e788ca1bb6c",
+        "review_score": 5,
+        "order_id": "43f32db0dedd975e294e98ce23b24661"
+      },
+      "distancia": 0.47622084617614746
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Quais experiências de atendimento aparecem nos relatos recuperados?",
+    "instante_utc": "2026-11-07T20:40:49.927759+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato menciona que houve qualidade no atendimento.",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Um relato afirma que o atendimento foi cumprido.",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um relato descreve o atendimento como profissional e correto.",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um relato elogia a presteza no atendimento.",
+        "fontes": [
+          "E5"
+        ]
+      },
+      {
+        "texto": "Um relato destaca que os atendentes foram atenciosos.",
+        "fontes": [
+          "E6"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"b0ff7085100944a3a4cec2c723e07b64\",\"7570e5e9db9baf79a9d7d6df7bfbda19\"]",
+        "texto": "Comentário: Qualidade no atendimento.",
+        "nota": 5,
+        "data": "2017-12-07 00:00:00",
+        "review_id": "b0ff7085100944a3a4cec2c723e07b64",
+        "order_id": "7570e5e9db9baf79a9d7d6df7bfbda19",
+        "distancia": 0.4104984998703003,
+        "trecho": "Comentário: Qualidade no atendimento."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"b6460c871b6b1b8eca16e23f74276ff1\",\"acf439da18812b2e710a2e7abe7f0ab2\"]",
+        "texto": "Comentário: Atendimento cumprido.",
+        "nota": 4,
+        "data": "2017-06-24 00:00:00",
+        "review_id": "b6460c871b6b1b8eca16e23f74276ff1",
+        "order_id": "acf439da18812b2e710a2e7abe7f0ab2",
+        "distancia": 0.439255952835083,
+        "trecho": "Comentário: Atendimento cumprido."
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"71d84fb5166c71b5a763c990fa270d77\",\"67d24a8d137875c82f670c9e089f4a2b\"]",
+        "texto": "Comentário: atendimento profissional correto",
+        "nota": 5,
+        "data": "2018-05-22 00:00:00",
+        "review_id": "71d84fb5166c71b5a763c990fa270d77",
+        "order_id": "67d24a8d137875c82f670c9e089f4a2b",
+        "distancia": 0.44411730766296387,
+        "trecho": "Comentário: atendimento profissional correto"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"639d737f089c8db7b4f3fad9bc0063e6\",\"c36722bf525388104790764a7917ca07\"]",
+        "texto": "Comentário: Parabéns pela presteza no atendimento",
+        "nota": 5,
+        "data": "2017-05-16 00:00:00",
+        "review_id": "639d737f089c8db7b4f3fad9bc0063e6",
+        "order_id": "c36722bf525388104790764a7917ca07",
+        "distancia": 0.44833624362945557,
+        "trecho": "Comentário: Parabéns pela presteza no atendimento"
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"07e942e0d9733d23acd246b91c924f32\",\"260c8e4c9a29e56ae6ee21c449f6834c\"]",
+        "texto": "Comentário: Atenciosos no atendimento",
+        "nota": 5,
+        "data": "2017-09-13 00:00:00",
+        "review_id": "07e942e0d9733d23acd246b91c924f32",
+        "order_id": "260c8e4c9a29e56ae6ee21c449f6834c",
+        "distancia": 0.4494381546974182,
+        "trecho": "Comentário: Atenciosos no atendimento"
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"b0ff7085100944a3a4cec2c723e07b64\",\"7570e5e9db9baf79a9d7d6df7bfbda19\"]",
+        "texto": "Comentário: Qualidade no atendimento.",
+        "nota": 5,
+        "data": "2017-12-07 00:00:00",
+        "review_id": "b0ff7085100944a3a4cec2c723e07b64",
+        "order_id": "7570e5e9db9baf79a9d7d6df7bfbda19",
+        "distancia": 0.4104984998703003
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"b6460c871b6b1b8eca16e23f74276ff1\",\"acf439da18812b2e710a2e7abe7f0ab2\"]",
+        "texto": "Comentário: Atendimento cumprido.",
+        "nota": 4,
+        "data": "2017-06-24 00:00:00",
+        "review_id": "b6460c871b6b1b8eca16e23f74276ff1",
+        "order_id": "acf439da18812b2e710a2e7abe7f0ab2",
+        "distancia": 0.439255952835083
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"71d84fb5166c71b5a763c990fa270d77\",\"67d24a8d137875c82f670c9e089f4a2b\"]",
+        "texto": "Comentário: atendimento profissional correto",
+        "nota": 5,
+        "data": "2018-05-22 00:00:00",
+        "review_id": "71d84fb5166c71b5a763c990fa270d77",
+        "order_id": "67d24a8d137875c82f670c9e089f4a2b",
+        "distancia": 0.44411730766296387
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"a862bf72d51efa0d1880ce7e0a7ddf1a\",\"1f4e50d812a6a4f1ae815a4aa6435e51\"]",
+        "texto": "Comentário: ainda estou verificando o atendimento quando precisamos efetuar uma troca ou resolver um problema, esse é o referencial de qualquer atendimento.",
+        "nota": 2,
+        "data": "2018-01-09 00:00:00",
+        "review_id": "a862bf72d51efa0d1880ce7e0a7ddf1a",
+        "order_id": "1f4e50d812a6a4f1ae815a4aa6435e51",
+        "distancia": 0.446549654006958
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"639d737f089c8db7b4f3fad9bc0063e6\",\"c36722bf525388104790764a7917ca07\"]",
+        "texto": "Comentário: Parabéns pela presteza no atendimento",
+        "nota": 5,
+        "data": "2017-05-16 00:00:00",
+        "review_id": "639d737f089c8db7b4f3fad9bc0063e6",
+        "order_id": "c36722bf525388104790764a7917ca07",
+        "distancia": 0.44833624362945557
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"07e942e0d9733d23acd246b91c924f32\",\"260c8e4c9a29e56ae6ee21c449f6834c\"]",
+        "texto": "Comentário: Atenciosos no atendimento",
+        "nota": 5,
+        "data": "2017-09-13 00:00:00",
+        "review_id": "07e942e0d9733d23acd246b91c924f32",
+        "order_id": "260c8e4c9a29e56ae6ee21c449f6834c",
+        "distancia": 0.4494381546974182
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"5b641e39fb4e4cf3533f5abc153a0234\",\"df1673f73c6ab875ce62808a1e5e460b\"]",
+        "texto": "Comentário: Belo atendimento, Otimo profissionais e otimo suporte",
+        "nota": 5,
+        "data": "2017-08-09 00:00:00",
+        "review_id": "5b641e39fb4e4cf3533f5abc153a0234",
+        "order_id": "df1673f73c6ab875ce62808a1e5e460b",
+        "distancia": 0.4522184133529663
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"04aefae104ad7362ef405928063cd7c2\",\"64d02f4ae7e52cc423b0b8790e8760d3\"]",
+        "texto": "Comentário: serviço prestado dentro do esperado. obrigado",
+        "nota": 5,
+        "data": "2018-04-18 00:00:00",
+        "review_id": "04aefae104ad7362ef405928063cd7c2",
+        "order_id": "64d02f4ae7e52cc423b0b8790e8760d3",
+        "distancia": 0.46078187227249146
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"8f8c17723a010d7c0ff2ca69f70e5096\",\"706b9cbda5d9ac137f8b484774d4c2a9\"]",
+        "texto": "Comentário: Aguardando retorno e esclarecimentos sobre o ocorrido.",
+        "nota": 1,
+        "data": "2018-01-21 00:00:00",
+        "review_id": "8f8c17723a010d7c0ff2ca69f70e5096",
+        "order_id": "706b9cbda5d9ac137f8b484774d4c2a9",
+        "distancia": 0.4653075337409973
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"9cdcce8bc563ab5938dc0d976e703473\",\"37f02a54b7a8290c4afc59b4171a4718\"]",
+        "texto": "Comentário: excelente o atendimento e entrega",
+        "nota": 5,
+        "data": "2018-02-08 00:00:00",
+        "review_id": "9cdcce8bc563ab5938dc0d976e703473",
+        "order_id": "37f02a54b7a8290c4afc59b4171a4718",
+        "distancia": 0.47432106733322144
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"b0ff7085100944a3a4cec2c723e07b64\",\"7570e5e9db9baf79a9d7d6df7bfbda19\"]",
+        "texto": "Comentário: Qualidade no atendimento.",
+        "nota": 5,
+        "data": "2017-12-07 00:00:00",
+        "review_id": "b0ff7085100944a3a4cec2c723e07b64",
+        "order_id": "7570e5e9db9baf79a9d7d6df7bfbda19",
+        "distancia": 0.4104984998703003,
+        "trecho": "Comentário: Qualidade no atendimento."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"b6460c871b6b1b8eca16e23f74276ff1\",\"acf439da18812b2e710a2e7abe7f0ab2\"]",
+        "texto": "Comentário: Atendimento cumprido.",
+        "nota": 4,
+        "data": "2017-06-24 00:00:00",
+        "review_id": "b6460c871b6b1b8eca16e23f74276ff1",
+        "order_id": "acf439da18812b2e710a2e7abe7f0ab2",
+        "distancia": 0.439255952835083,
+        "trecho": "Comentário: Atendimento cumprido."
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"71d84fb5166c71b5a763c990fa270d77\",\"67d24a8d137875c82f670c9e089f4a2b\"]",
+        "texto": "Comentário: atendimento profissional correto",
+        "nota": 5,
+        "data": "2018-05-22 00:00:00",
+        "review_id": "71d84fb5166c71b5a763c990fa270d77",
+        "order_id": "67d24a8d137875c82f670c9e089f4a2b",
+        "distancia": 0.44411730766296387,
+        "trecho": "Comentário: atendimento profissional correto"
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"639d737f089c8db7b4f3fad9bc0063e6\",\"c36722bf525388104790764a7917ca07\"]",
+        "texto": "Comentário: Parabéns pela presteza no atendimento",
+        "nota": 5,
+        "data": "2017-05-16 00:00:00",
+        "review_id": "639d737f089c8db7b4f3fad9bc0063e6",
+        "order_id": "c36722bf525388104790764a7917ca07",
+        "distancia": 0.44833624362945557,
+        "trecho": "Comentário: Parabéns pela presteza no atendimento"
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"07e942e0d9733d23acd246b91c924f32\",\"260c8e4c9a29e56ae6ee21c449f6834c\"]",
+        "texto": "Comentário: Atenciosos no atendimento",
+        "nota": 5,
+        "data": "2017-09-13 00:00:00",
+        "review_id": "07e942e0d9733d23acd246b91c924f32",
+        "order_id": "260c8e4c9a29e56ae6ee21c449f6834c",
+        "distancia": 0.4494381546974182,
+        "trecho": "Comentário: Atenciosos no atendimento"
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E5\"}, {\"fonte\": \"E6\"}], \"justificativa\": \"Os relatos recuperados descrevem experiências de atendimento, como qualidade no atendimento, atendimento cumprido, atendimento profissional correto, presteza no atendimento e atenciosos no atendimento.\"}",
+        "uso": {
+          "completion_tokens": 110,
+          "prompt_tokens": 2787,
+          "total_tokens": 2897,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 1.8377921739997873,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato menciona que houve qualidade no atendimento.\", \"fontes\": [\"E1\"]}, {\"texto\": \"Um relato afirma que o atendimento foi cumprido.\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um relato descreve o atendimento como profissional e correto.\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um relato elogia a presteza no atendimento.\", \"fontes\": [\"E5\"]}, {\"texto\": \"Um relato destaca que os atendentes foram atenciosos.\", \"fontes\": [\"E6\"]}]}",
+        "uso": {
+          "completion_tokens": 152,
+          "prompt_tokens": 1313,
+          "total_tokens": 1465,
+          "prompt_tokens_details": {
+            "cached_tokens": 704
+          },
+          "cache_read_input_tokens": 704
+        },
+        "latencia_s": 2.411436393999793,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 4.2497624150000775
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 4.286234757999864
+}

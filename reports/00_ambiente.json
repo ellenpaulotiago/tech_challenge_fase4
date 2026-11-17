@@ -1,0 +1,9 @@
+{
+  "python": "3.12.3",
+  "pandas": "2.3.3",
+  "numpy": "2.3.4",
+  "chromadb": "não instalado",
+  "sentence-transformers": "não instalado",
+  "torch": "não instalado",
+  "transformers": "não instalado"
+}

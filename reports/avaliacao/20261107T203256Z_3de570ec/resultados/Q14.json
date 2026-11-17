@@ -1,0 +1,420 @@
+{
+  "pergunta_id": "Q14",
+  "pergunta": "Quais características dos produtos são elogiadas nos comentários?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:43:11.225065+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"2e41aff5540a25f4ae6d0fd675458bb5\",\"714e2644ab665027234ed7a6b3e82274\"]",
+      "texto": "Comentário: produtos de qualidade",
+      "metadados": {
+        "review_id": "2e41aff5540a25f4ae6d0fd675458bb5",
+        "order_id": "714e2644ab665027234ed7a6b3e82274",
+        "review_creation_date": "2017-08-30 00:00:00",
+        "review_score": 5
+      },
+      "distancia": 0.1551017165184021
+    },
+    {
+      "documento_id": "[\"ae448fc7207c85ab3045092e2ee0d1e7\",\"cec3185bcfe3a9c60e73df2ae9bfa4ac\"]",
+      "texto": "Comentário: produtos de ótima qualidade",
+      "metadados": {
+        "order_id": "cec3185bcfe3a9c60e73df2ae9bfa4ac",
+        "review_creation_date": "2017-12-28 00:00:00",
+        "review_score": 3,
+        "review_id": "ae448fc7207c85ab3045092e2ee0d1e7"
+      },
+      "distancia": 0.18170160055160522
+    },
+    {
+      "documento_id": "[\"d476ce8b04a3396a50c76e0504ca7622\",\"c43947f61dd689e246ef64dfa3b8bcf8\"]",
+      "texto": "Comentário: produto de qualidade",
+      "metadados": {
+        "review_id": "d476ce8b04a3396a50c76e0504ca7622",
+        "review_score": 3,
+        "review_creation_date": "2018-03-21 00:00:00",
+        "order_id": "c43947f61dd689e246ef64dfa3b8bcf8"
+      },
+      "distancia": 0.18629908561706543
+    },
+    {
+      "documento_id": "[\"15c72b68259c35ea984ed16bf7633730\",\"7eebf0a4be5859d04ca7da2ce039c044\"]",
+      "texto": "Comentário: produto de qualidade",
+      "metadados": {
+        "order_id": "7eebf0a4be5859d04ca7da2ce039c044",
+        "review_creation_date": "2017-03-22 00:00:00",
+        "review_id": "15c72b68259c35ea984ed16bf7633730",
+        "review_score": 4
+      },
+      "distancia": 0.18629908561706543
+    },
+    {
+      "documento_id": "[\"f92a25a5f5c673edc2339e292237a155\",\"bb310183fd0dc613fbe383644fb159eb\"]",
+      "texto": "Comentário: produto de qualidade",
+      "metadados": {
+        "order_id": "bb310183fd0dc613fbe383644fb159eb",
+        "review_creation_date": "2017-09-13 00:00:00",
+        "review_id": "f92a25a5f5c673edc2339e292237a155",
+        "review_score": 5
+      },
+      "distancia": 0.18629908561706543
+    },
+    {
+      "documento_id": "[\"dc34f955728bddac7a8c3f7accaaa663\",\"e0a9cf740e0d9556b36d96b271d96838\"]",
+      "texto": "Comentário: produto de qualidade",
+      "metadados": {
+        "order_id": "e0a9cf740e0d9556b36d96b271d96838",
+        "review_id": "dc34f955728bddac7a8c3f7accaaa663",
+        "review_score": 4,
+        "review_creation_date": "2017-11-26 00:00:00"
+      },
+      "distancia": 0.18629908561706543
+    },
+    {
+      "documento_id": "[\"a948b3b15a2d1011e0380b3948ba783a\",\"572840084761674356f93543109c23c3\"]",
+      "texto": "Comentário: Produtos de boa qualidade ,",
+      "metadados": {
+        "review_score": 4,
+        "review_creation_date": "2018-04-06 00:00:00",
+        "order_id": "572840084761674356f93543109c23c3",
+        "review_id": "a948b3b15a2d1011e0380b3948ba783a"
+      },
+      "distancia": 0.18923509120941162
+    },
+    {
+      "documento_id": "[\"8225825a61147df12ff8eebe7aeaeeea\",\"b6206a76c2773130f565806250be79a2\"]",
+      "texto": "Comentário: produto de qualidade.",
+      "metadados": {
+        "review_creation_date": "2018-02-10 00:00:00",
+        "order_id": "b6206a76c2773130f565806250be79a2",
+        "review_score": 5,
+        "review_id": "8225825a61147df12ff8eebe7aeaeeea"
+      },
+      "distancia": 0.19021964073181152
+    },
+    {
+      "documento_id": "[\"b7a8a6e9ba4000f8059d42e0f2676761\",\"8c21fe1b9ec8e9872ce5c040ee40fd3e\"]",
+      "texto": "Comentário: produto de qualidade.",
+      "metadados": {
+        "order_id": "8c21fe1b9ec8e9872ce5c040ee40fd3e",
+        "review_score": 5,
+        "review_creation_date": "2017-05-31 00:00:00",
+        "review_id": "b7a8a6e9ba4000f8059d42e0f2676761"
+      },
+      "distancia": 0.19021964073181152
+    },
+    {
+      "documento_id": "[\"3edece8d87830a7c11d577bb73eff6fa\",\"fd651b5d45523bedc2076c015e66b6ee\"]",
+      "texto": "Comentário: produto de ma qualidade",
+      "metadados": {
+        "review_score": 2,
+        "review_id": "3edece8d87830a7c11d577bb73eff6fa",
+        "order_id": "fd651b5d45523bedc2076c015e66b6ee",
+        "review_creation_date": "2018-03-27 00:00:00"
+      },
+      "distancia": 0.19110184907913208
+    },
+    {
+      "documento_id": "[\"7463bf3ed1e0a8b4519ad8a610ed9e8b\",\"0560378d48b9de8b969d8f5601e3767e\"]",
+      "texto": "Comentário: Um produto de qualidade...recomendo",
+      "metadados": {
+        "review_creation_date": "2017-09-30 00:00:00",
+        "order_id": "0560378d48b9de8b969d8f5601e3767e",
+        "review_score": 5,
+        "review_id": "7463bf3ed1e0a8b4519ad8a610ed9e8b"
+      },
+      "distancia": 0.19395315647125244
+    },
+    {
+      "documento_id": "[\"d09d1c62e2d6f2cef1623b39db918111\",\"0c469ff5fde3323c2a8b99387f46bb19\"]",
+      "texto": "Comentário: Os produtos são bons",
+      "metadados": {
+        "review_score": 3,
+        "review_creation_date": "2017-08-31 00:00:00",
+        "order_id": "0c469ff5fde3323c2a8b99387f46bb19",
+        "review_id": "d09d1c62e2d6f2cef1623b39db918111"
+      },
+      "distancia": 0.1989511251449585
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Quais características dos produtos são elogiadas nos comentários?",
+    "instante_utc": "2026-11-07T20:43:11.265351+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato elogia a qualidade dos produtos",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Outro relato também elogia a qualidade dos produtos",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um comentário menciona que o produto é de qualidade",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um relato elogia a boa qualidade dos produtos",
+        "fontes": [
+          "E4"
+        ]
+      },
+      {
+        "texto": "Um comentário elogia a qualidade do produto e o recomenda",
+        "fontes": [
+          "E7"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"2e41aff5540a25f4ae6d0fd675458bb5\",\"714e2644ab665027234ed7a6b3e82274\"]",
+        "texto": "Comentário: produtos de qualidade",
+        "nota": 5,
+        "data": "2017-08-30 00:00:00",
+        "review_id": "2e41aff5540a25f4ae6d0fd675458bb5",
+        "order_id": "714e2644ab665027234ed7a6b3e82274",
+        "distancia": 0.1551017165184021,
+        "trecho": "Comentário: produtos de qualidade"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"ae448fc7207c85ab3045092e2ee0d1e7\",\"cec3185bcfe3a9c60e73df2ae9bfa4ac\"]",
+        "texto": "Comentário: produtos de ótima qualidade",
+        "nota": 3,
+        "data": "2017-12-28 00:00:00",
+        "review_id": "ae448fc7207c85ab3045092e2ee0d1e7",
+        "order_id": "cec3185bcfe3a9c60e73df2ae9bfa4ac",
+        "distancia": 0.18170160055160522,
+        "trecho": "Comentário: produtos de ótima qualidade"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"d476ce8b04a3396a50c76e0504ca7622\",\"c43947f61dd689e246ef64dfa3b8bcf8\"]",
+        "texto": "Comentário: produto de qualidade",
+        "nota": 3,
+        "data": "2018-03-21 00:00:00",
+        "review_id": "d476ce8b04a3396a50c76e0504ca7622",
+        "order_id": "c43947f61dd689e246ef64dfa3b8bcf8",
+        "distancia": 0.18629908561706543,
+        "trecho": "Comentário: produto de qualidade"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"a948b3b15a2d1011e0380b3948ba783a\",\"572840084761674356f93543109c23c3\"]",
+        "texto": "Comentário: Produtos de boa qualidade ,",
+        "nota": 4,
+        "data": "2018-04-06 00:00:00",
+        "review_id": "a948b3b15a2d1011e0380b3948ba783a",
+        "order_id": "572840084761674356f93543109c23c3",
+        "distancia": 0.18923509120941162,
+        "trecho": "Comentário: Produtos de boa qualidade ,"
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"7463bf3ed1e0a8b4519ad8a610ed9e8b\",\"0560378d48b9de8b969d8f5601e3767e\"]",
+        "texto": "Comentário: Um produto de qualidade...recomendo",
+        "nota": 5,
+        "data": "2017-09-30 00:00:00",
+        "review_id": "7463bf3ed1e0a8b4519ad8a610ed9e8b",
+        "order_id": "0560378d48b9de8b969d8f5601e3767e",
+        "distancia": 0.19395315647125244,
+        "trecho": "Comentário: Um produto de qualidade...recomendo"
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"2e41aff5540a25f4ae6d0fd675458bb5\",\"714e2644ab665027234ed7a6b3e82274\"]",
+        "texto": "Comentário: produtos de qualidade",
+        "nota": 5,
+        "data": "2017-08-30 00:00:00",
+        "review_id": "2e41aff5540a25f4ae6d0fd675458bb5",
+        "order_id": "714e2644ab665027234ed7a6b3e82274",
+        "distancia": 0.1551017165184021
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"ae448fc7207c85ab3045092e2ee0d1e7\",\"cec3185bcfe3a9c60e73df2ae9bfa4ac\"]",
+        "texto": "Comentário: produtos de ótima qualidade",
+        "nota": 3,
+        "data": "2017-12-28 00:00:00",
+        "review_id": "ae448fc7207c85ab3045092e2ee0d1e7",
+        "order_id": "cec3185bcfe3a9c60e73df2ae9bfa4ac",
+        "distancia": 0.18170160055160522
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"d476ce8b04a3396a50c76e0504ca7622\",\"c43947f61dd689e246ef64dfa3b8bcf8\"]",
+        "texto": "Comentário: produto de qualidade",
+        "nota": 3,
+        "data": "2018-03-21 00:00:00",
+        "review_id": "d476ce8b04a3396a50c76e0504ca7622",
+        "order_id": "c43947f61dd689e246ef64dfa3b8bcf8",
+        "distancia": 0.18629908561706543
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"a948b3b15a2d1011e0380b3948ba783a\",\"572840084761674356f93543109c23c3\"]",
+        "texto": "Comentário: Produtos de boa qualidade ,",
+        "nota": 4,
+        "data": "2018-04-06 00:00:00",
+        "review_id": "a948b3b15a2d1011e0380b3948ba783a",
+        "order_id": "572840084761674356f93543109c23c3",
+        "distancia": 0.18923509120941162
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"8225825a61147df12ff8eebe7aeaeeea\",\"b6206a76c2773130f565806250be79a2\"]",
+        "texto": "Comentário: produto de qualidade.",
+        "nota": 5,
+        "data": "2018-02-10 00:00:00",
+        "review_id": "8225825a61147df12ff8eebe7aeaeeea",
+        "order_id": "b6206a76c2773130f565806250be79a2",
+        "distancia": 0.19021964073181152
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"3edece8d87830a7c11d577bb73eff6fa\",\"fd651b5d45523bedc2076c015e66b6ee\"]",
+        "texto": "Comentário: produto de ma qualidade",
+        "nota": 2,
+        "data": "2018-03-27 00:00:00",
+        "review_id": "3edece8d87830a7c11d577bb73eff6fa",
+        "order_id": "fd651b5d45523bedc2076c015e66b6ee",
+        "distancia": 0.19110184907913208
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"7463bf3ed1e0a8b4519ad8a610ed9e8b\",\"0560378d48b9de8b969d8f5601e3767e\"]",
+        "texto": "Comentário: Um produto de qualidade...recomendo",
+        "nota": 5,
+        "data": "2017-09-30 00:00:00",
+        "review_id": "7463bf3ed1e0a8b4519ad8a610ed9e8b",
+        "order_id": "0560378d48b9de8b969d8f5601e3767e",
+        "distancia": 0.19395315647125244
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"d09d1c62e2d6f2cef1623b39db918111\",\"0c469ff5fde3323c2a8b99387f46bb19\"]",
+        "texto": "Comentário: Os produtos são bons",
+        "nota": 3,
+        "data": "2017-08-31 00:00:00",
+        "review_id": "d09d1c62e2d6f2cef1623b39db918111",
+        "order_id": "0c469ff5fde3323c2a8b99387f46bb19",
+        "distancia": 0.1989511251449585
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"2e41aff5540a25f4ae6d0fd675458bb5\",\"714e2644ab665027234ed7a6b3e82274\"]",
+        "texto": "Comentário: produtos de qualidade",
+        "nota": 5,
+        "data": "2017-08-30 00:00:00",
+        "review_id": "2e41aff5540a25f4ae6d0fd675458bb5",
+        "order_id": "714e2644ab665027234ed7a6b3e82274",
+        "distancia": 0.1551017165184021,
+        "trecho": "Comentário: produtos de qualidade"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"ae448fc7207c85ab3045092e2ee0d1e7\",\"cec3185bcfe3a9c60e73df2ae9bfa4ac\"]",
+        "texto": "Comentário: produtos de ótima qualidade",
+        "nota": 3,
+        "data": "2017-12-28 00:00:00",
+        "review_id": "ae448fc7207c85ab3045092e2ee0d1e7",
+        "order_id": "cec3185bcfe3a9c60e73df2ae9bfa4ac",
+        "distancia": 0.18170160055160522,
+        "trecho": "Comentário: produtos de ótima qualidade"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"d476ce8b04a3396a50c76e0504ca7622\",\"c43947f61dd689e246ef64dfa3b8bcf8\"]",
+        "texto": "Comentário: produto de qualidade",
+        "nota": 3,
+        "data": "2018-03-21 00:00:00",
+        "review_id": "d476ce8b04a3396a50c76e0504ca7622",
+        "order_id": "c43947f61dd689e246ef64dfa3b8bcf8",
+        "distancia": 0.18629908561706543,
+        "trecho": "Comentário: produto de qualidade"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"a948b3b15a2d1011e0380b3948ba783a\",\"572840084761674356f93543109c23c3\"]",
+        "texto": "Comentário: Produtos de boa qualidade ,",
+        "nota": 4,
+        "data": "2018-04-06 00:00:00",
+        "review_id": "a948b3b15a2d1011e0380b3948ba783a",
+        "order_id": "572840084761674356f93543109c23c3",
+        "distancia": 0.18923509120941162,
+        "trecho": "Comentário: Produtos de boa qualidade ,"
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"7463bf3ed1e0a8b4519ad8a610ed9e8b\",\"0560378d48b9de8b969d8f5601e3767e\"]",
+        "texto": "Comentário: Um produto de qualidade...recomendo",
+        "nota": 5,
+        "data": "2017-09-30 00:00:00",
+        "review_id": "7463bf3ed1e0a8b4519ad8a610ed9e8b",
+        "order_id": "0560378d48b9de8b969d8f5601e3767e",
+        "distancia": 0.19395315647125244,
+        "trecho": "Comentário: Um produto de qualidade...recomendo"
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E4\"}, {\"fonte\": \"E7\"}], \"justificativa\": \"Os comentários elogiam a qualidade dos produtos.\"}",
+        "uso": {
+          "completion_tokens": 73,
+          "prompt_tokens": 2364,
+          "total_tokens": 2437,
+          "prompt_tokens_details": {
+            "cached_tokens": 768
+          },
+          "cache_read_input_tokens": 768
+        },
+        "latencia_s": 1.2919589550001547,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato elogia a qualidade dos produtos\", \"fontes\": [\"E1\"]}, {\"texto\": \"Outro relato também elogia a qualidade dos produtos\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um comentário menciona que o produto é de qualidade\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um relato elogia a boa qualidade dos produtos\", \"fontes\": [\"E4\"]}, {\"texto\": \"Um comentário elogia a qualidade do produto e o recomenda\", \"fontes\": [\"E7\"]}]}",
+        "uso": {
+          "completion_tokens": 142,
+          "prompt_tokens": 1303,
+          "total_tokens": 1445,
+          "prompt_tokens_details": {
+            "cached_tokens": 704
+          },
+          "cache_read_input_tokens": 704
+        },
+        "latencia_s": 2.6349267559999134,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 3.927333521000037
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 3.9673968160000186
+}

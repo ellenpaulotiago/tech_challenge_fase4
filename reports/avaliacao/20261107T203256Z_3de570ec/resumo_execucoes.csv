@@ -1,0 +1,25 @@
+﻿pergunta_id,pergunta,status,motivo,chamadas_reportadas,latencia_s
+Q01,O que os clientes relatam sobre atraso na entrega?,respondido,formato_fontes_e_trechos_validados,2,10.910615359000076
+Q02,Quais consequências do atraso são descritas nos comentários?,respondido,formato_fontes_e_trechos_validados,2,8.94626155900005
+Q03,Há relatos recuperados de pedidos que ainda não chegaram?,respondido,formato_fontes_e_trechos_validados,2,8.5055918500002
+Q04,Como os clientes descrevem o cumprimento do prazo de entrega?,respondido,formato_fontes_e_trechos_validados,2,5.17679503599993
+Q05,Quais relatos recuperados descrevem produtos quebrados ou com defeito?,respondido,formato_fontes_e_trechos_validados,2,29.30517620799992
+Q06,O que os clientes relatam sobre a qualidade dos produtos recebidos?,respondido,formato_fontes_e_trechos_validados,2,4.752855956000076
+Q07,Há comentários sobre produtos danificados ao chegar?,respondido,formato_fontes_e_trechos_validados,2,5.730084391999753
+Q08,Quais experiências relatam problemas no funcionamento do produto?,respondido,formato_fontes_e_trechos_validados,2,5.2065720440000405
+Q09,Quais relatos mencionam produto diferente do que foi pedido?,respondido,formato_fontes_e_trechos_validados,2,11.287026785000307
+Q10,O que os clientes relatam sobre receber menos itens do que compraram?,respondido,formato_fontes_e_trechos_validados,2,4.683664595999744
+Q11,O que os comentários recuperados dizem sobre a embalagem?,respondido,formato_fontes_e_trechos_validados,2,4.911119031999988
+Q12,Quais experiências de atendimento aparecem nos relatos recuperados?,respondido,formato_fontes_e_trechos_validados,2,4.286234757999864
+Q13,Quais relatos elogiam a rapidez da entrega?,respondido,formato_fontes_e_trechos_validados,2,4.539527248000013
+Q14,Quais características dos produtos são elogiadas nos comentários?,respondido,formato_fontes_e_trechos_validados,2,3.9673968160000186
+Q15,O que os clientes elogiam na experiência de compra nos relatos recuperados?,respondido,formato_fontes_e_trechos_validados,2,5.639417700999729
+Q16,Quais avaliações sustentam relatos de problemas com a entrega?,respondido,formato_fontes_e_trechos_validados,2,4.8455338809999375
+Q17,Qual é a previsão do tempo para amanhã em Guarulhos?,fora_escopo,llm_declarou_evidencia_insuficiente_ou_fora_escopo,1,0.9827635199999349
+Q18,Qual é a cotação atual do dólar?,fora_escopo,llm_declarou_evidencia_insuficiente_ou_fora_escopo,1,1.0744022680000853
+Q19,Quem vencerá a próxima Copa do Mundo?,fora_escopo,llm_declarou_evidencia_insuficiente_ou_fora_escopo,1,0.9413574319996769
+Q20,Qual remédio devo tomar para dor de cabeça?,fora_escopo,llm_declarou_evidencia_insuficiente_ou_fora_escopo,1,1.365422191000107
+Q21,Qual o percentual de reclamações de atraso em toda a base?,evidencias_insuficientes,llm_declarou_evidencia_insuficiente_ou_fora_escopo,1,1.3694196370001919
+Q22,Qual foi a evolução mensal da taxa de defeitos em toda a base?,evidencias_insuficientes,llm_declarou_evidencia_insuficiente_ou_fora_escopo,1,1.2442774459996144
+Q23,Qual é o faturamento atual da Olist?,fora_escopo,llm_declarou_evidencia_insuficiente_ou_fora_escopo,1,1.2723525799997333
+Q24,Qual transportadora teve a maior taxa de atrasos em toda a base?,evidencias_insuficientes,llm_declarou_evidencia_insuficiente_ou_fora_escopo,1,1.4770080220000636

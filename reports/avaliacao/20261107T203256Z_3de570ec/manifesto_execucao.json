@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "configuracao": {
+    "endpoint": "databricks-meta-llama-3-3-70b-instruct",
+    "modelo_versao_informada": "Meta Llama 3.3 70B Instruct; endpoint gerenciado Databrick",
+    "provedor": "databricks_model_serving",
+    "fixacao_imutavel_modelo": false,
+    "observacao": "Identificação informada pelo usuário; endpoint pode ser atualizado pelo provedor.",
+    "ambiente": {
+      "pandas": "2.3.3",
+      "numpy": "2.3.4",
+      "chromadb": "1.0.20",
+      "sentence-transformers": "5.1.0",
+      "databricks-sdk": "0.122.0",
+      "openai": "1.109.1"
+    },
+    "modelo_embeddings": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "hash_jsonl": "419d6a9bb7ba53eadea6d254ffd9a2b0d846dbd5d51da6711eec74e3719c4c3c",
+    "hash_npy": "2a5fe7f57fe1dba3610a060bb2d61dbb2a611124110e232b36410d85f813eeed",
+    "hash_busca": "c15c8793091ac6ca8faf36480dbe718cd36dbf866c5e47bd726a927bee328d5f",
+    "hash_pipeline": "d135b03473c51e487ad982a7034dd8f48edad429988aa20495a8de6fbb64de47",
+    "quantidade_candidatos": 12,
+    "max_documentos": 10,
+    "max_caracteres": 12000,
+    "max_tokens": 1400,
+    "timeout_s": 300,
+    "temperatura": 0.0
+  },
+  "perguntas": [
+    {
+      "pergunta_id": "Q01",
+      "tema": "entrega_atraso",
+      "pergunta": "O que os clientes relatam sobre atraso na entrega?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Citar relatos explícitos de atraso, sem confundir entrega rápida ou produto errado."
+    },
+    {
+      "pergunta_id": "Q02",
+      "tema": "entrega_atraso",
+      "pergunta": "Quais consequências do atraso são descritas nos comentários?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Somente consequências expressas; não inferir perdas ou danos não mencionados."
+    },
+    {
+      "pergunta_id": "Q03",
+      "tema": "entrega_nao_recebida",
+      "pergunta": "Há relatos recuperados de pedidos que ainda não chegaram?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Distinguir não recebimento de simples atraso já resolvido."
+    },
+    {
+      "pergunta_id": "Q04",
+      "tema": "entrega_prazo",
+      "pergunta": "Como os clientes descrevem o cumprimento do prazo de entrega?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Apresentar o que os relatos sustentam e reconhecer possível diversidade de experiências."
+    },
+    {
+      "pergunta_id": "Q05",
+      "tema": "produto_defeito",
+      "pergunta": "Quais relatos recuperados descrevem produtos quebrados ou com defeito?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Exigir menção a defeito ou quebra, não apenas atraso."
+    },
+    {
+      "pergunta_id": "Q06",
+      "tema": "produto_qualidade",
+      "pergunta": "O que os clientes relatam sobre a qualidade dos produtos recebidos?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Limitar conclusões a aspectos presentes nas fontes."
+    },
+    {
+      "pergunta_id": "Q07",
+      "tema": "produto_estado",
+      "pergunta": "Há comentários sobre produtos danificados ao chegar?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Citar descrições do dano e não atribuir causa logística sem evidência."
+    },
+    {
+      "pergunta_id": "Q08",
+      "tema": "produto_funcionamento",
+      "pergunta": "Quais experiências relatam problemas no funcionamento do produto?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Distinguir falha de funcionamento de item não recebido."
+    },
+    {
+      "pergunta_id": "Q09",
+      "tema": "produto_errado",
+      "pergunta": "Quais relatos mencionam produto diferente do que foi pedido?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Usar evidência de divergência do item; não tratar como defeito automaticamente."
+    },
+    {
+      "pergunta_id": "Q10",
+      "tema": "quantidade_errada",
+      "pergunta": "O que os clientes relatam sobre receber menos itens do que compraram?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Usar menção explícita à quantidade ou a item faltante."
+    },
+    {
+      "pergunta_id": "Q11",
+      "tema": "embalagem",
+      "pergunta": "O que os comentários recuperados dizem sobre a embalagem?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Distinguir condição da embalagem e condição do produto."
+    },
+    {
+      "pergunta_id": "Q12",
+      "tema": "atendimento",
+      "pergunta": "Quais experiências de atendimento aparecem nos relatos recuperados?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Não inventar respostas de SAC, protocolos ou resolução."
+    },
+    {
+      "pergunta_id": "Q13",
+      "tema": "elogio_entrega",
+      "pergunta": "Quais relatos elogiam a rapidez da entrega?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Exigir elogio à rapidez, não apenas avaliação positiva genérica."
+    },
+    {
+      "pergunta_id": "Q14",
+      "tema": "elogio_produto",
+      "pergunta": "Quais características dos produtos são elogiadas nos comentários?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Relatar somente características citadas, sem inferir satisfação pela nota sozinha."
+    },
+    {
+      "pergunta_id": "Q15",
+      "tema": "elogio_experiencia",
+      "pergunta": "O que os clientes elogiam na experiência de compra nos relatos recuperados?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Qualificar a síntese como observação nos relatos, não ranking de toda a base."
+    },
+    {
+      "pergunta_id": "Q16",
+      "tema": "evidencias",
+      "pergunta": "Quais avaliações sustentam relatos de problemas com a entrega?",
+      "status_esperado": "respondido",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Apresentar fontes rastreáveis com texto coerente ao tema."
+    },
+    {
+      "pergunta_id": "Q17",
+      "tema": "fora_escopo",
+      "pergunta": "Qual é a previsão do tempo para amanhã em Guarulhos?",
+      "status_esperado": "fora_escopo",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Abster: previsão meteorológica está fora do escopo das avaliações de compra da Olist."
+    },
+    {
+      "pergunta_id": "Q18",
+      "tema": "fora_escopo",
+      "pergunta": "Qual é a cotação atual do dólar?",
+      "status_esperado": "fora_escopo",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Abster: não consultar conhecimento externo sobre câmbio."
+    },
+    {
+      "pergunta_id": "Q19",
+      "tema": "fora_escopo",
+      "pergunta": "Quem vencerá a próxima Copa do Mundo?",
+      "status_esperado": "fora_escopo",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Abster: tema externo e previsão não sustentada."
+    },
+    {
+      "pergunta_id": "Q20",
+      "tema": "fora_escopo",
+      "pergunta": "Qual remédio devo tomar para dor de cabeça?",
+      "status_esperado": "fora_escopo",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Abster: não fornecer orientação médica baseada em avaliações comerciais."
+    },
+    {
+      "pergunta_id": "Q21",
+      "tema": "estatistica_global",
+      "pergunta": "Qual o percentual de reclamações de atraso em toda a base?",
+      "status_esperado": "evidencias_insuficientes",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Abster: os comentários recuperados não permitem calcular o percentual de reclamações por atraso em toda a base."
+    },
+    {
+      "pergunta_id": "Q22",
+      "tema": "estatistica_global",
+      "pergunta": "Qual foi a evolução mensal da taxa de defeitos em toda a base?",
+      "status_esperado": "evidencias_insuficientes",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Abster: exige classificação e agregação temporal da base completa."
+    },
+    {
+      "pergunta_id": "Q23",
+      "tema": "informacao_ausente",
+      "pergunta": "Qual é o faturamento atual da Olist?",
+      "status_esperado": "fora_escopo",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Abster: fato corporativo atual não fornecido pelo corpus de avaliações."
+    },
+    {
+      "pergunta_id": "Q24",
+      "tema": "estatistica_global",
+      "pergunta": "Qual transportadora teve a maior taxa de atrasos em toda a base?",
+      "status_esperado": "evidencias_insuficientes",
+      "referencia_confirmada": "1",
+      "criterio_aceite": "Abster: não há cálculo agregado por transportadora no pipeline."
+    }
+  ],
+  "assinatura": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:33:00.310838+00:00"
+}

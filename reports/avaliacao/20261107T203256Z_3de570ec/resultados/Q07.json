@@ -1,0 +1,440 @@
+{
+  "pergunta_id": "Q07",
+  "pergunta": "Há comentários sobre produtos danificados ao chegar?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:38:22.853844+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"cb770d3c460119845882aa6a04606e56\",\"ce7e2fea4efc732fbc5fd04753f2e549\"]",
+      "texto": "Comentário: produto veio danificado",
+      "metadados": {
+        "review_creation_date": "2018-04-18 00:00:00",
+        "review_id": "cb770d3c460119845882aa6a04606e56",
+        "review_score": 2,
+        "order_id": "ce7e2fea4efc732fbc5fd04753f2e549"
+      },
+      "distancia": 0.22739064693450928
+    },
+    {
+      "documento_id": "[\"4a404516ca62f52dade7b00eb2accf72\",\"76c025e93388599ae9e136363ee1c00b\"]",
+      "texto": "Comentário: Recebi o produto danificado",
+      "metadados": {
+        "order_id": "76c025e93388599ae9e136363ee1c00b",
+        "review_creation_date": "2018-05-19 00:00:00",
+        "review_id": "4a404516ca62f52dade7b00eb2accf72",
+        "review_score": 3
+      },
+      "distancia": 0.2555934190750122
+    },
+    {
+      "documento_id": "[\"24fe4ba29481f47ccc979b85a13fbe8f\",\"71c7a91ef2c9f2d5717181b75d85a761\"]",
+      "texto": "Comentário: infelizmente recebi o produto danificado",
+      "metadados": {
+        "review_creation_date": "2017-02-23 00:00:00",
+        "review_score": 1,
+        "review_id": "24fe4ba29481f47ccc979b85a13fbe8f",
+        "order_id": "71c7a91ef2c9f2d5717181b75d85a761"
+      },
+      "distancia": 0.27055054903030396
+    },
+    {
+      "documento_id": "[\"461a6a528a70a510eb0d2050f4e3446f\",\"3584a4511f8aa783607bd52ff517b73c\"]",
+      "texto": "Comentário: Porém com alguns arranhões e danos.",
+      "metadados": {
+        "review_score": 4,
+        "order_id": "3584a4511f8aa783607bd52ff517b73c",
+        "review_creation_date": "2018-01-27 00:00:00",
+        "review_id": "461a6a528a70a510eb0d2050f4e3446f"
+      },
+      "distancia": 0.27549809217453003
+    },
+    {
+      "documento_id": "[\"9da5990c51c04946ce0a6a611acc78f3\",\"60671dbc6a3437884fe12844687b2049\"]",
+      "texto": "Comentário: O produto foi entregue dentro do prazo porém um dos produtos veio danificado.",
+      "metadados": {
+        "review_creation_date": "2017-08-31 00:00:00",
+        "order_id": "60671dbc6a3437884fe12844687b2049",
+        "review_score": 2,
+        "review_id": "9da5990c51c04946ce0a6a611acc78f3"
+      },
+      "distancia": 0.3081067204475403
+    },
+    {
+      "documento_id": "[\"6d264eb283921838c33401432e6eaa71\",\"8339b608be0d84fca9d8da68b58332c3\"]",
+      "texto": "Comentário: os produtos ainda nao foram entrgues",
+      "metadados": {
+        "review_creation_date": "2018-06-28 00:00:00",
+        "order_id": "8339b608be0d84fca9d8da68b58332c3",
+        "review_score": 1,
+        "review_id": "6d264eb283921838c33401432e6eaa71"
+      },
+      "distancia": 0.3129997253417969
+    },
+    {
+      "documento_id": "[\"168863de0e60d3df41d90a063fba7f93\",\"e218234621ce56589ca6157a7cf827ac\"]",
+      "texto": "Comentário: bom dia o produto veio danificado, como faço para troca?",
+      "metadados": {
+        "review_score": 2,
+        "review_id": "168863de0e60d3df41d90a063fba7f93",
+        "order_id": "e218234621ce56589ca6157a7cf827ac",
+        "review_creation_date": "2017-09-21 00:00:00"
+      },
+      "distancia": 0.32182079553604126
+    },
+    {
+      "documento_id": "[\"4e4cc44dc6ffe47cd7128b4f82d66f77\",\"9a0ff85473ef691bca39a3636f6753c4\"]",
+      "texto": "Comentário: produto veio amassado",
+      "metadados": {
+        "order_id": "9a0ff85473ef691bca39a3636f6753c4",
+        "review_id": "4e4cc44dc6ffe47cd7128b4f82d66f77",
+        "review_creation_date": "2018-04-12 00:00:00",
+        "review_score": 4
+      },
+      "distancia": 0.326793909072876
+    },
+    {
+      "documento_id": "[\"6245c9a6fbd78013fb3c7128c1df45bb\",\"27d206cb406ccf1605103f9e5339f004\"]",
+      "texto": "Comentário: recebi a mercadoria danificada e estou aguardando que o problema seja resolvido da melhor maneira possivel",
+      "metadados": {
+        "order_id": "27d206cb406ccf1605103f9e5339f004",
+        "review_creation_date": "2018-01-12 00:00:00",
+        "review_id": "6245c9a6fbd78013fb3c7128c1df45bb",
+        "review_score": 1
+      },
+      "distancia": 0.3315621018409729
+    },
+    {
+      "documento_id": "[\"3c2e2038b3ed9655e36a2d2007927cfb\",\"b778fd298c71b362595bb3c3cd79c00c\"]",
+      "texto": "Comentário: Protudo veio todo danificado",
+      "metadados": {
+        "review_score": 1,
+        "review_creation_date": "2018-01-04 00:00:00",
+        "order_id": "b778fd298c71b362595bb3c3cd79c00c",
+        "review_id": "3c2e2038b3ed9655e36a2d2007927cfb"
+      },
+      "distancia": 0.34182876348495483
+    },
+    {
+      "documento_id": "[\"556e5259e2d5b0cbeec371d7a22bef5a\",\"49267f83c9f436f1147915577fdeb110\"]",
+      "texto": "Comentário: O produto veio estragado",
+      "metadados": {
+        "order_id": "49267f83c9f436f1147915577fdeb110",
+        "review_score": 1,
+        "review_id": "556e5259e2d5b0cbeec371d7a22bef5a",
+        "review_creation_date": "2017-11-04 00:00:00"
+      },
+      "distancia": 0.34216606616973877
+    },
+    {
+      "documento_id": "[\"aad7e8043f89189ebca06013737f6c74\",\"1aabb89e94999e16f85a4a0078935996\"]",
+      "texto": "Comentário: Produto veio amassado",
+      "metadados": {
+        "review_creation_date": "2017-06-24 00:00:00",
+        "review_score": 3,
+        "review_id": "aad7e8043f89189ebca06013737f6c74",
+        "order_id": "1aabb89e94999e16f85a4a0078935996"
+      },
+      "distancia": 0.34615492820739746
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Há comentários sobre produtos danificados ao chegar?",
+    "instante_utc": "2026-11-07T20:38:22.901873+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato afirma que o produto veio danificado",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Outro relato também menciona que o produto foi recebido danificado",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um comentário expressa que o produto veio danificado",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um cliente relata que o produto apresentava arranhões e danos",
+        "fontes": [
+          "E4"
+        ]
+      },
+      {
+        "texto": "Um relato menciona que um dos produtos entregues veio danificado",
+        "fontes": [
+          "E5"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"cb770d3c460119845882aa6a04606e56\",\"ce7e2fea4efc732fbc5fd04753f2e549\"]",
+        "texto": "Comentário: produto veio danificado",
+        "nota": 2,
+        "data": "2018-04-18 00:00:00",
+        "review_id": "cb770d3c460119845882aa6a04606e56",
+        "order_id": "ce7e2fea4efc732fbc5fd04753f2e549",
+        "distancia": 0.22739064693450928,
+        "trecho": "Comentário: produto veio danificado"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"4a404516ca62f52dade7b00eb2accf72\",\"76c025e93388599ae9e136363ee1c00b\"]",
+        "texto": "Comentário: Recebi o produto danificado",
+        "nota": 3,
+        "data": "2018-05-19 00:00:00",
+        "review_id": "4a404516ca62f52dade7b00eb2accf72",
+        "order_id": "76c025e93388599ae9e136363ee1c00b",
+        "distancia": 0.2555934190750122,
+        "trecho": "Comentário: Recebi o produto danificado"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"24fe4ba29481f47ccc979b85a13fbe8f\",\"71c7a91ef2c9f2d5717181b75d85a761\"]",
+        "texto": "Comentário: infelizmente recebi o produto danificado",
+        "nota": 1,
+        "data": "2017-02-23 00:00:00",
+        "review_id": "24fe4ba29481f47ccc979b85a13fbe8f",
+        "order_id": "71c7a91ef2c9f2d5717181b75d85a761",
+        "distancia": 0.27055054903030396,
+        "trecho": "Comentário: infelizmente recebi o produto danificado"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"461a6a528a70a510eb0d2050f4e3446f\",\"3584a4511f8aa783607bd52ff517b73c\"]",
+        "texto": "Comentário: Porém com alguns arranhões e danos.",
+        "nota": 4,
+        "data": "2018-01-27 00:00:00",
+        "review_id": "461a6a528a70a510eb0d2050f4e3446f",
+        "order_id": "3584a4511f8aa783607bd52ff517b73c",
+        "distancia": 0.27549809217453003,
+        "trecho": "Comentário: Porém com alguns arranhões e danos."
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"9da5990c51c04946ce0a6a611acc78f3\",\"60671dbc6a3437884fe12844687b2049\"]",
+        "texto": "Comentário: O produto foi entregue dentro do prazo porém um dos produtos veio danificado.",
+        "nota": 2,
+        "data": "2017-08-31 00:00:00",
+        "review_id": "9da5990c51c04946ce0a6a611acc78f3",
+        "order_id": "60671dbc6a3437884fe12844687b2049",
+        "distancia": 0.3081067204475403,
+        "trecho": "Comentário: O produto foi entregue dentro do prazo porém um dos produtos veio danificado."
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"cb770d3c460119845882aa6a04606e56\",\"ce7e2fea4efc732fbc5fd04753f2e549\"]",
+        "texto": "Comentário: produto veio danificado",
+        "nota": 2,
+        "data": "2018-04-18 00:00:00",
+        "review_id": "cb770d3c460119845882aa6a04606e56",
+        "order_id": "ce7e2fea4efc732fbc5fd04753f2e549",
+        "distancia": 0.22739064693450928
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"4a404516ca62f52dade7b00eb2accf72\",\"76c025e93388599ae9e136363ee1c00b\"]",
+        "texto": "Comentário: Recebi o produto danificado",
+        "nota": 3,
+        "data": "2018-05-19 00:00:00",
+        "review_id": "4a404516ca62f52dade7b00eb2accf72",
+        "order_id": "76c025e93388599ae9e136363ee1c00b",
+        "distancia": 0.2555934190750122
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"24fe4ba29481f47ccc979b85a13fbe8f\",\"71c7a91ef2c9f2d5717181b75d85a761\"]",
+        "texto": "Comentário: infelizmente recebi o produto danificado",
+        "nota": 1,
+        "data": "2017-02-23 00:00:00",
+        "review_id": "24fe4ba29481f47ccc979b85a13fbe8f",
+        "order_id": "71c7a91ef2c9f2d5717181b75d85a761",
+        "distancia": 0.27055054903030396
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"461a6a528a70a510eb0d2050f4e3446f\",\"3584a4511f8aa783607bd52ff517b73c\"]",
+        "texto": "Comentário: Porém com alguns arranhões e danos.",
+        "nota": 4,
+        "data": "2018-01-27 00:00:00",
+        "review_id": "461a6a528a70a510eb0d2050f4e3446f",
+        "order_id": "3584a4511f8aa783607bd52ff517b73c",
+        "distancia": 0.27549809217453003
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"9da5990c51c04946ce0a6a611acc78f3\",\"60671dbc6a3437884fe12844687b2049\"]",
+        "texto": "Comentário: O produto foi entregue dentro do prazo porém um dos produtos veio danificado.",
+        "nota": 2,
+        "data": "2017-08-31 00:00:00",
+        "review_id": "9da5990c51c04946ce0a6a611acc78f3",
+        "order_id": "60671dbc6a3437884fe12844687b2049",
+        "distancia": 0.3081067204475403
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"6d264eb283921838c33401432e6eaa71\",\"8339b608be0d84fca9d8da68b58332c3\"]",
+        "texto": "Comentário: os produtos ainda nao foram entrgues",
+        "nota": 1,
+        "data": "2018-06-28 00:00:00",
+        "review_id": "6d264eb283921838c33401432e6eaa71",
+        "order_id": "8339b608be0d84fca9d8da68b58332c3",
+        "distancia": 0.3129997253417969
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"168863de0e60d3df41d90a063fba7f93\",\"e218234621ce56589ca6157a7cf827ac\"]",
+        "texto": "Comentário: bom dia o produto veio danificado, como faço para troca?",
+        "nota": 2,
+        "data": "2017-09-21 00:00:00",
+        "review_id": "168863de0e60d3df41d90a063fba7f93",
+        "order_id": "e218234621ce56589ca6157a7cf827ac",
+        "distancia": 0.32182079553604126
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"4e4cc44dc6ffe47cd7128b4f82d66f77\",\"9a0ff85473ef691bca39a3636f6753c4\"]",
+        "texto": "Comentário: produto veio amassado",
+        "nota": 4,
+        "data": "2018-04-12 00:00:00",
+        "review_id": "4e4cc44dc6ffe47cd7128b4f82d66f77",
+        "order_id": "9a0ff85473ef691bca39a3636f6753c4",
+        "distancia": 0.326793909072876
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"6245c9a6fbd78013fb3c7128c1df45bb\",\"27d206cb406ccf1605103f9e5339f004\"]",
+        "texto": "Comentário: recebi a mercadoria danificada e estou aguardando que o problema seja resolvido da melhor maneira possivel",
+        "nota": 1,
+        "data": "2018-01-12 00:00:00",
+        "review_id": "6245c9a6fbd78013fb3c7128c1df45bb",
+        "order_id": "27d206cb406ccf1605103f9e5339f004",
+        "distancia": 0.3315621018409729
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"3c2e2038b3ed9655e36a2d2007927cfb\",\"b778fd298c71b362595bb3c3cd79c00c\"]",
+        "texto": "Comentário: Protudo veio todo danificado",
+        "nota": 1,
+        "data": "2018-01-04 00:00:00",
+        "review_id": "3c2e2038b3ed9655e36a2d2007927cfb",
+        "order_id": "b778fd298c71b362595bb3c3cd79c00c",
+        "distancia": 0.34182876348495483
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"cb770d3c460119845882aa6a04606e56\",\"ce7e2fea4efc732fbc5fd04753f2e549\"]",
+        "texto": "Comentário: produto veio danificado",
+        "nota": 2,
+        "data": "2018-04-18 00:00:00",
+        "review_id": "cb770d3c460119845882aa6a04606e56",
+        "order_id": "ce7e2fea4efc732fbc5fd04753f2e549",
+        "distancia": 0.22739064693450928,
+        "trecho": "Comentário: produto veio danificado"
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"4a404516ca62f52dade7b00eb2accf72\",\"76c025e93388599ae9e136363ee1c00b\"]",
+        "texto": "Comentário: Recebi o produto danificado",
+        "nota": 3,
+        "data": "2018-05-19 00:00:00",
+        "review_id": "4a404516ca62f52dade7b00eb2accf72",
+        "order_id": "76c025e93388599ae9e136363ee1c00b",
+        "distancia": 0.2555934190750122,
+        "trecho": "Comentário: Recebi o produto danificado"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"24fe4ba29481f47ccc979b85a13fbe8f\",\"71c7a91ef2c9f2d5717181b75d85a761\"]",
+        "texto": "Comentário: infelizmente recebi o produto danificado",
+        "nota": 1,
+        "data": "2017-02-23 00:00:00",
+        "review_id": "24fe4ba29481f47ccc979b85a13fbe8f",
+        "order_id": "71c7a91ef2c9f2d5717181b75d85a761",
+        "distancia": 0.27055054903030396,
+        "trecho": "Comentário: infelizmente recebi o produto danificado"
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"461a6a528a70a510eb0d2050f4e3446f\",\"3584a4511f8aa783607bd52ff517b73c\"]",
+        "texto": "Comentário: Porém com alguns arranhões e danos.",
+        "nota": 4,
+        "data": "2018-01-27 00:00:00",
+        "review_id": "461a6a528a70a510eb0d2050f4e3446f",
+        "order_id": "3584a4511f8aa783607bd52ff517b73c",
+        "distancia": 0.27549809217453003,
+        "trecho": "Comentário: Porém com alguns arranhões e danos."
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"9da5990c51c04946ce0a6a611acc78f3\",\"60671dbc6a3437884fe12844687b2049\"]",
+        "texto": "Comentário: O produto foi entregue dentro do prazo porém um dos produtos veio danificado.",
+        "nota": 2,
+        "data": "2017-08-31 00:00:00",
+        "review_id": "9da5990c51c04946ce0a6a611acc78f3",
+        "order_id": "60671dbc6a3437884fe12844687b2049",
+        "distancia": 0.3081067204475403,
+        "trecho": "Comentário: O produto foi entregue dentro do prazo porém um dos produtos veio danificado."
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E4\"}, {\"fonte\": \"E5\"}], \"justificativa\": \"Os comentários mencionam produtos danificados ao chegar, o que permite responder qualitativamente à pergunta sobre os relatos recuperados.\"}",
+        "uso": {
+          "completion_tokens": 93,
+          "prompt_tokens": 2740,
+          "total_tokens": 2833,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 3.12483174900035,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato afirma que o produto veio danificado\", \"fontes\": [\"E1\"]}, {\"texto\": \"Outro relato também menciona que o produto foi recebido danificado\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um comentário expressa que o produto veio danificado\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um cliente relata que o produto apresentava arranhões e danos\", \"fontes\": [\"E4\"]}, {\"texto\": \"Um relato menciona que um dos produtos entregues veio danificado\", \"fontes\": [\"E5\"]}]}",
+        "uso": {
+          "completion_tokens": 154,
+          "prompt_tokens": 1325,
+          "total_tokens": 1479,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 2.556990858000063,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 5.6823673959997905
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 5.730084391999753
+}

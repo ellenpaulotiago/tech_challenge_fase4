@@ -1,0 +1,280 @@
+{
+  "pergunta_id": "Q19",
+  "pergunta": "Quem vencerá a próxima Copa do Mundo?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:48:54.409163+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"b7cd17c7010872389323cf9ceac6af02\",\"adaca9317c371ba7096be58316138384\"]",
+      "texto": "Título: Tudo perfeito\nComentário: Nem parece Brasil, antes do prazo e em perfeitas condições!",
+      "metadados": {
+        "review_creation_date": "2018-05-09 00:00:00",
+        "review_id": "b7cd17c7010872389323cf9ceac6af02",
+        "review_score": 5,
+        "order_id": "adaca9317c371ba7096be58316138384"
+      },
+      "distancia": 0.4796743392944336
+    },
+    {
+      "documento_id": "[\"f6fec4a96093ba4734c285881de0e4ee\",\"a81be81673bee4a384c6b5468a606478\"]",
+      "texto": "Comentário: Melhor do Brasil",
+      "metadados": {
+        "order_id": "a81be81673bee4a384c6b5468a606478",
+        "review_score": 5,
+        "review_creation_date": "2017-11-22 00:00:00",
+        "review_id": "f6fec4a96093ba4734c285881de0e4ee"
+      },
+      "distancia": 0.48198401927948
+    },
+    {
+      "documento_id": "[\"222f5819857d6717ce3c414fced0f8d5\",\"93aeb5597e77e0da848f2118531a7d3a\"]",
+      "texto": "Comentário: Entregue antes do prazo previsto.. Parabéns a equipe envolvida.",
+      "metadados": {
+        "order_id": "93aeb5597e77e0da848f2118531a7d3a",
+        "review_id": "222f5819857d6717ce3c414fced0f8d5",
+        "review_creation_date": "2017-11-11 00:00:00",
+        "review_score": 5
+      },
+      "distancia": 0.519288182258606
+    },
+    {
+      "documento_id": "[\"693ec4993d38d7a87d418a26fcdafbf1\",\"c526aa9189a06bf511e79dbc0e0e70b9\"]",
+      "texto": "Comentário: A equipe da baratheon estão de parabéns!! Recebi bem antes do prazo!! Super recomendo!",
+      "metadados": {
+        "review_score": 5,
+        "order_id": "c526aa9189a06bf511e79dbc0e0e70b9",
+        "review_id": "693ec4993d38d7a87d418a26fcdafbf1",
+        "review_creation_date": "2017-09-13 00:00:00"
+      },
+      "distancia": 0.5197022557258606
+    },
+    {
+      "documento_id": "[\"72093b147d797e6abbdf569bf07bf57f\",\"e996c39018a2d8a9e46fbbbbb10ee3a7\"]",
+      "texto": "Comentário: Toalha do maior campeão do Brasil maravilhosa",
+      "metadados": {
+        "order_id": "e996c39018a2d8a9e46fbbbbb10ee3a7",
+        "review_score": 5,
+        "review_id": "72093b147d797e6abbdf569bf07bf57f",
+        "review_creation_date": "2018-01-31 00:00:00"
+      },
+      "distancia": 0.5200222730636597
+    },
+    {
+      "documento_id": "[\"a12a7dd6768dd144664f60bf3e19d9c0\",\"b2a33016c177ab9b6f09ca324bb26ec6\"]",
+      "texto": "Comentário: Parabéns para toda equipe.",
+      "metadados": {
+        "order_id": "b2a33016c177ab9b6f09ca324bb26ec6",
+        "review_id": "a12a7dd6768dd144664f60bf3e19d9c0",
+        "review_score": 2,
+        "review_creation_date": "2018-06-24 00:00:00"
+      },
+      "distancia": 0.5315580368041992
+    },
+    {
+      "documento_id": "[\"0ff729eb2431aa616b704974361eb3f6\",\"ffbae9b91be0cb7c3cc9a38a35c29210\"]",
+      "texto": "Comentário: Parabéns a Equipe stark, recomendo. Abraço",
+      "metadados": {
+        "review_creation_date": "2017-09-29 00:00:00",
+        "order_id": "ffbae9b91be0cb7c3cc9a38a35c29210",
+        "review_id": "0ff729eb2431aa616b704974361eb3f6",
+        "review_score": 5
+      },
+      "distancia": 0.5462517738342285
+    },
+    {
+      "documento_id": "[\"948486cd5f6b1d69a905ac8d8d43b34f\",\"563cc94852488599d7c665e7f9fb7ab1\"]",
+      "texto": "Título: cicero\nComentário: excelente parabéns toda equipe",
+      "metadados": {
+        "review_creation_date": "2018-06-10 00:00:00",
+        "review_id": "948486cd5f6b1d69a905ac8d8d43b34f",
+        "review_score": 5,
+        "order_id": "563cc94852488599d7c665e7f9fb7ab1"
+      },
+      "distancia": 0.5465798377990723
+    },
+    {
+      "documento_id": "[\"1fa8330a0ff58acf91876225c9d1974d\",\"f57983ca82e3c9bb09abcdda9139de70\"]",
+      "texto": "Título: Parabéns a toda equip\nComentário: Equipe baratheon está de parabéns !!! Comparei mais vezes indicarei para as pessoas que conheço forte abraço a todos !",
+      "metadados": {
+        "order_id": "f57983ca82e3c9bb09abcdda9139de70",
+        "review_id": "1fa8330a0ff58acf91876225c9d1974d",
+        "review_score": 5,
+        "review_creation_date": "2018-08-18 00:00:00"
+      },
+      "distancia": 0.5558564066886902
+    },
+    {
+      "documento_id": "[\"2648d3d19c19e3420ffa1d7039e60b4f\",\"394907a7e0a1e9aec1cda252b4548179\"]",
+      "texto": "Comentário: Não estou no Brasil. Não pude conferir!!!!",
+      "metadados": {
+        "order_id": "394907a7e0a1e9aec1cda252b4548179",
+        "review_id": "2648d3d19c19e3420ffa1d7039e60b4f",
+        "review_creation_date": "2017-11-28 00:00:00",
+        "review_score": 5
+      },
+      "distancia": 0.5656750798225403
+    },
+    {
+      "documento_id": "[\"b1bbe210fe92e141135cb3f8945d3424\",\"88c9df242e26c36482168acfc3d250dc\"]",
+      "texto": "Comentário: É sempre bom poder contar com a stark, rápido e confiável!!! Parabéns a toda equipe da stark 👏👏👏",
+      "metadados": {
+        "review_creation_date": "2017-10-01 00:00:00",
+        "order_id": "88c9df242e26c36482168acfc3d250dc",
+        "review_id": "b1bbe210fe92e141135cb3f8945d3424",
+        "review_score": 5
+      },
+      "distancia": 0.5725835561752319
+    },
+    {
+      "documento_id": "[\"b8dc85432f333c8a05696630773355c1\",\"5ee7b62e53d3ff1201ab0f826ce413db\"]",
+      "texto": "Comentário: GOSTEI! EU RECOMENDO!!",
+      "metadados": {
+        "review_creation_date": "2017-06-03 00:00:00",
+        "review_score": 5,
+        "review_id": "b8dc85432f333c8a05696630773355c1",
+        "order_id": "5ee7b62e53d3ff1201ab0f826ce413db"
+      },
+      "distancia": 0.5743322372436523
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Quem vencerá a próxima Copa do Mundo?",
+    "instante_utc": "2026-11-07T20:48:54.556666+00:00",
+    "status": "fora_escopo",
+    "afirmacoes": [],
+    "fontes_utilizadas": [],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"b7cd17c7010872389323cf9ceac6af02\",\"adaca9317c371ba7096be58316138384\"]",
+        "texto": "Título: Tudo perfeito\nComentário: Nem parece Brasil, antes do prazo e em perfeitas condições!",
+        "nota": 5,
+        "data": "2018-05-09 00:00:00",
+        "review_id": "b7cd17c7010872389323cf9ceac6af02",
+        "order_id": "adaca9317c371ba7096be58316138384",
+        "distancia": 0.4796743392944336
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"f6fec4a96093ba4734c285881de0e4ee\",\"a81be81673bee4a384c6b5468a606478\"]",
+        "texto": "Comentário: Melhor do Brasil",
+        "nota": 5,
+        "data": "2017-11-22 00:00:00",
+        "review_id": "f6fec4a96093ba4734c285881de0e4ee",
+        "order_id": "a81be81673bee4a384c6b5468a606478",
+        "distancia": 0.48198401927948
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"222f5819857d6717ce3c414fced0f8d5\",\"93aeb5597e77e0da848f2118531a7d3a\"]",
+        "texto": "Comentário: Entregue antes do prazo previsto.. Parabéns a equipe envolvida.",
+        "nota": 5,
+        "data": "2017-11-11 00:00:00",
+        "review_id": "222f5819857d6717ce3c414fced0f8d5",
+        "order_id": "93aeb5597e77e0da848f2118531a7d3a",
+        "distancia": 0.519288182258606
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"693ec4993d38d7a87d418a26fcdafbf1\",\"c526aa9189a06bf511e79dbc0e0e70b9\"]",
+        "texto": "Comentário: A equipe da baratheon estão de parabéns!! Recebi bem antes do prazo!! Super recomendo!",
+        "nota": 5,
+        "data": "2017-09-13 00:00:00",
+        "review_id": "693ec4993d38d7a87d418a26fcdafbf1",
+        "order_id": "c526aa9189a06bf511e79dbc0e0e70b9",
+        "distancia": 0.5197022557258606
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"72093b147d797e6abbdf569bf07bf57f\",\"e996c39018a2d8a9e46fbbbbb10ee3a7\"]",
+        "texto": "Comentário: Toalha do maior campeão do Brasil maravilhosa",
+        "nota": 5,
+        "data": "2018-01-31 00:00:00",
+        "review_id": "72093b147d797e6abbdf569bf07bf57f",
+        "order_id": "e996c39018a2d8a9e46fbbbbb10ee3a7",
+        "distancia": 0.5200222730636597
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"a12a7dd6768dd144664f60bf3e19d9c0\",\"b2a33016c177ab9b6f09ca324bb26ec6\"]",
+        "texto": "Comentário: Parabéns para toda equipe.",
+        "nota": 2,
+        "data": "2018-06-24 00:00:00",
+        "review_id": "a12a7dd6768dd144664f60bf3e19d9c0",
+        "order_id": "b2a33016c177ab9b6f09ca324bb26ec6",
+        "distancia": 0.5315580368041992
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"0ff729eb2431aa616b704974361eb3f6\",\"ffbae9b91be0cb7c3cc9a38a35c29210\"]",
+        "texto": "Comentário: Parabéns a Equipe stark, recomendo. Abraço",
+        "nota": 5,
+        "data": "2017-09-29 00:00:00",
+        "review_id": "0ff729eb2431aa616b704974361eb3f6",
+        "order_id": "ffbae9b91be0cb7c3cc9a38a35c29210",
+        "distancia": 0.5462517738342285
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"948486cd5f6b1d69a905ac8d8d43b34f\",\"563cc94852488599d7c665e7f9fb7ab1\"]",
+        "texto": "Título: cicero\nComentário: excelente parabéns toda equipe",
+        "nota": 5,
+        "data": "2018-06-10 00:00:00",
+        "review_id": "948486cd5f6b1d69a905ac8d8d43b34f",
+        "order_id": "563cc94852488599d7c665e7f9fb7ab1",
+        "distancia": 0.5465798377990723
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"1fa8330a0ff58acf91876225c9d1974d\",\"f57983ca82e3c9bb09abcdda9139de70\"]",
+        "texto": "Título: Parabéns a toda equip\nComentário: Equipe baratheon está de parabéns !!! Comparei mais vezes indicarei para as pessoas que conheço forte abraço a todos !",
+        "nota": 5,
+        "data": "2018-08-18 00:00:00",
+        "review_id": "1fa8330a0ff58acf91876225c9d1974d",
+        "order_id": "f57983ca82e3c9bb09abcdda9139de70",
+        "distancia": 0.5558564066886902
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"2648d3d19c19e3420ffa1d7039e60b4f\",\"394907a7e0a1e9aec1cda252b4548179\"]",
+        "texto": "Comentário: Não estou no Brasil. Não pude conferir!!!!",
+        "nota": 5,
+        "data": "2017-11-28 00:00:00",
+        "review_id": "2648d3d19c19e3420ffa1d7039e60b4f",
+        "order_id": "394907a7e0a1e9aec1cda252b4548179",
+        "distancia": 0.5656750798225403
+      }
+    ],
+    "evidencias_selecionadas": [],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"fora_escopo\", \"evidencias\": [], \"justificativa\": \"O pedido é externo às experiências de compra Olist.\"}",
+        "uso": {
+          "completion_tokens": 36,
+          "prompt_tokens": 2812,
+          "total_tokens": 2848,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 0.7937598379999145,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "llm_declarou_evidencia_insuficiente_ou_fora_escopo",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 0.7941999529998611
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 0.9413574319996769
+}

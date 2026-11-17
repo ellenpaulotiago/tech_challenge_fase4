@@ -1,0 +1,440 @@
+{
+  "pergunta_id": "Q16",
+  "pergunta": "Quais avaliações sustentam relatos de problemas com a entrega?",
+  "assinatura_execucao": "e48c0d0950be08f0d3a4fca4f65297974bbef194fc056bc6ff19cb30ac5ded45",
+  "criado_em_utc": "2026-11-07T20:45:41.750131+00:00",
+  "candidatos_brutos": [
+    {
+      "documento_id": "[\"18fd8314a11f9a00cb85e8ef9aa70042\",\"7a363dd1eb003c19a36e4eba73e3105d\"]",
+      "texto": "Comentário: O status da entrega é ruim, sempre desatualizado, mostra que teve erro na entrega, mudam o prazo e no fim entregam antes.",
+      "metadados": {
+        "order_id": "7a363dd1eb003c19a36e4eba73e3105d",
+        "review_score": 4,
+        "review_creation_date": "2017-12-21 00:00:00",
+        "review_id": "18fd8314a11f9a00cb85e8ef9aa70042"
+      },
+      "distancia": 0.3346523642539978
+    },
+    {
+      "documento_id": "[\"256e445ddba830565ad576854f406761\",\"dd6ee4d96f0f3cf1432c3b82818e0387\"]",
+      "texto": "Comentário: sem comentarios, muito confusa a informação sobre entrega",
+      "metadados": {
+        "review_id": "256e445ddba830565ad576854f406761",
+        "order_id": "dd6ee4d96f0f3cf1432c3b82818e0387",
+        "review_creation_date": "2017-12-17 00:00:00",
+        "review_score": 1
+      },
+      "distancia": 0.35564833879470825
+    },
+    {
+      "documento_id": "[\"57d720a4164ce4e420c120398045fbd0\",\"18d5cd9804d2eb8424721a25397b7ae4\"]",
+      "texto": "Comentário: Foi falado que houve problemas na entrega mas não falava o que e nem como seria resolvido. Me causou uma preocupação e frustração desnecessária já que o mesmo chegou antes do prazo estipulado.",
+      "metadados": {
+        "order_id": "18d5cd9804d2eb8424721a25397b7ae4",
+        "review_creation_date": "2017-12-09 00:00:00",
+        "review_id": "57d720a4164ce4e420c120398045fbd0",
+        "review_score": 3
+      },
+      "distancia": 0.35995596647262573
+    },
+    {
+      "documento_id": "[\"35cdcb47d0c23f77c17d802e04c5132b\",\"13dabdb9dbb49bde13dd90285c2640eb\"]",
+      "texto": "Comentário: Houve um pequeno problema de entrega, mas ACHO QUE O PROBLEMA FOI DO CORREIO QUE ESTÁ EM GREVE PARCIAL",
+      "metadados": {
+        "review_creation_date": "2018-03-15 00:00:00",
+        "review_score": 4,
+        "review_id": "35cdcb47d0c23f77c17d802e04c5132b",
+        "order_id": "13dabdb9dbb49bde13dd90285c2640eb"
+      },
+      "distancia": 0.36438602209091187
+    },
+    {
+      "documento_id": "[\"ad0bd5e96d27a747be07e136ab2d18c0\",\"c0b4ecd5c557f1672e88baf19be9d037\"]",
+      "texto": "Comentário: Estou avaliando o fator entrega de mercadoria, ainda não instalei o produto para ter uma avaliação completa",
+      "metadados": {
+        "review_creation_date": "2017-05-11 00:00:00",
+        "review_id": "ad0bd5e96d27a747be07e136ab2d18c0",
+        "order_id": "c0b4ecd5c557f1672e88baf19be9d037",
+        "review_score": 4
+      },
+      "distancia": 0.36512982845306396
+    },
+    {
+      "documento_id": "[\"c82e20ab06764504caa5a5754ba2050a\",\"b8ea12ebe7c677d3726c4740450c2682\"]",
+      "texto": "Comentário: muitos problemas na entrega do mesmo. não fui avisada sobre a entrega.",
+      "metadados": {
+        "review_creation_date": "2018-05-17 00:00:00",
+        "review_id": "c82e20ab06764504caa5a5754ba2050a",
+        "review_score": 1,
+        "order_id": "b8ea12ebe7c677d3726c4740450c2682"
+      },
+      "distancia": 0.3794441819190979
+    },
+    {
+      "documento_id": "[\"c8afc3f7e4544e7fdaa5f4eb8c77c201\",\"d128b5634e1faad98f4ef5ac2f7e2e97\"]",
+      "texto": "Título: Avaliação da entrega\nComentário: Achei o frete muito caro, mas a entrega foi eficiente",
+      "metadados": {
+        "review_id": "c8afc3f7e4544e7fdaa5f4eb8c77c201",
+        "order_id": "d128b5634e1faad98f4ef5ac2f7e2e97",
+        "review_score": 4,
+        "review_creation_date": "2018-08-29 00:00:00"
+      },
+      "distancia": 0.3847249746322632
+    },
+    {
+      "documento_id": "[\"85a078cfbec8194d1bb8d0dad5f98876\",\"1da00355018ed3e0fdd548cf3ddada99\"]",
+      "texto": "Comentário: Confiabilidade com informações corretas e prestezas nas entregas.",
+      "metadados": {
+        "review_creation_date": "2017-12-28 00:00:00",
+        "order_id": "1da00355018ed3e0fdd548cf3ddada99",
+        "review_score": 5,
+        "review_id": "85a078cfbec8194d1bb8d0dad5f98876"
+      },
+      "distancia": 0.38842713832855225
+    },
+    {
+      "documento_id": "[\"18b61a9cf3a82600b8f8ca57087d8a0f\",\"c9d0741a7a1372f85dc44e9b73835240\"]",
+      "texto": "Comentário: estudem alternativas para distribuição que não seja os Correios. demorou DEMAIS pra ser entregue",
+      "metadados": {
+        "review_score": 3,
+        "review_id": "18b61a9cf3a82600b8f8ca57087d8a0f",
+        "order_id": "c9d0741a7a1372f85dc44e9b73835240",
+        "review_creation_date": "2018-05-19 00:00:00"
+      },
+      "distancia": 0.3941255807876587
+    },
+    {
+      "documento_id": "[\"949eca021ed60d00a2d2bda3cc686d4d\",\"d5d78aa1e1666a81b03bd8791c865fd3\"]",
+      "texto": "Comentário: muitos desencontros nas entregas de produtos",
+      "metadados": {
+        "review_id": "949eca021ed60d00a2d2bda3cc686d4d",
+        "order_id": "d5d78aa1e1666a81b03bd8791c865fd3",
+        "review_score": 1,
+        "review_creation_date": "2017-06-07 00:00:00"
+      },
+      "distancia": 0.39743107557296753
+    },
+    {
+      "documento_id": "[\"f065fc6c8703c41424e316207f5261af\",\"8f627f546b2cb0ddbb0d8627461b846f\"]",
+      "texto": "Comentário: DEmora na entrega",
+      "metadados": {
+        "review_score": 2,
+        "review_id": "f065fc6c8703c41424e316207f5261af",
+        "review_creation_date": "2018-03-25 00:00:00",
+        "order_id": "8f627f546b2cb0ddbb0d8627461b846f"
+      },
+      "distancia": 0.4027577042579651
+    },
+    {
+      "documento_id": "[\"045d330f147f09c3bd2426266ec5d414\",\"b210a0936a3dd8fe4428863f8e352693\"]",
+      "texto": "Comentário: Nao tem boa avaliação por atraso na entrega",
+      "metadados": {
+        "review_score": 1,
+        "review_creation_date": "2018-03-22 00:00:00",
+        "review_id": "045d330f147f09c3bd2426266ec5d414",
+        "order_id": "b210a0936a3dd8fe4428863f8e352693"
+      },
+      "distancia": 0.4028815031051636
+    }
+  ],
+  "resultado": {
+    "versao_pipeline": "04.3.0",
+    "pergunta": "Quais avaliações sustentam relatos de problemas com a entrega?",
+    "instante_utc": "2026-11-07T20:45:41.818591+00:00",
+    "status": "respondido",
+    "afirmacoes": [
+      {
+        "texto": "Um relato sustenta que o status da entrega é ruim e sempre desatualizado.",
+        "fontes": [
+          "E1"
+        ]
+      },
+      {
+        "texto": "Um relato sustenta que a informação sobre entrega é confusa.",
+        "fontes": [
+          "E2"
+        ]
+      },
+      {
+        "texto": "Um relato sustenta que houve problemas na entrega, mas não foram esclarecidos.",
+        "fontes": [
+          "E3"
+        ]
+      },
+      {
+        "texto": "Um relato sustenta que houve um pequeno problema de entrega, possivelmente causado pelo correio.",
+        "fontes": [
+          "E4"
+        ]
+      },
+      {
+        "texto": "Um relato sustenta que houve muitos problemas na entrega e não houve aviso sobre a entrega.",
+        "fontes": [
+          "E6"
+        ]
+      }
+    ],
+    "fontes_utilizadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"18fd8314a11f9a00cb85e8ef9aa70042\",\"7a363dd1eb003c19a36e4eba73e3105d\"]",
+        "texto": "Comentário: O status da entrega é ruim, sempre desatualizado, mostra que teve erro na entrega, mudam o prazo e no fim entregam antes.",
+        "nota": 4,
+        "data": "2017-12-21 00:00:00",
+        "review_id": "18fd8314a11f9a00cb85e8ef9aa70042",
+        "order_id": "7a363dd1eb003c19a36e4eba73e3105d",
+        "distancia": 0.3346523642539978,
+        "trecho": "Comentário: O status da entrega é ruim, sempre desatualizado, mostra que teve erro na entrega, mudam o prazo e no fim entregam antes."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"256e445ddba830565ad576854f406761\",\"dd6ee4d96f0f3cf1432c3b82818e0387\"]",
+        "texto": "Comentário: sem comentarios, muito confusa a informação sobre entrega",
+        "nota": 1,
+        "data": "2017-12-17 00:00:00",
+        "review_id": "256e445ddba830565ad576854f406761",
+        "order_id": "dd6ee4d96f0f3cf1432c3b82818e0387",
+        "distancia": 0.35564833879470825,
+        "trecho": "Comentário: sem comentarios, muito confusa a informação sobre entrega"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"57d720a4164ce4e420c120398045fbd0\",\"18d5cd9804d2eb8424721a25397b7ae4\"]",
+        "texto": "Comentário: Foi falado que houve problemas na entrega mas não falava o que e nem como seria resolvido. Me causou uma preocupação e frustração desnecessária já que o mesmo chegou antes do prazo estipulado.",
+        "nota": 3,
+        "data": "2017-12-09 00:00:00",
+        "review_id": "57d720a4164ce4e420c120398045fbd0",
+        "order_id": "18d5cd9804d2eb8424721a25397b7ae4",
+        "distancia": 0.35995596647262573,
+        "trecho": "Comentário: Foi falado que houve problemas na entrega mas não falava o que e nem como seria resolvido. Me causou uma preocupação e frustração desnecessária já que o mesmo chegou antes do prazo estipulado."
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"35cdcb47d0c23f77c17d802e04c5132b\",\"13dabdb9dbb49bde13dd90285c2640eb\"]",
+        "texto": "Comentário: Houve um pequeno problema de entrega, mas ACHO QUE O PROBLEMA FOI DO CORREIO QUE ESTÁ EM GREVE PARCIAL",
+        "nota": 4,
+        "data": "2018-03-15 00:00:00",
+        "review_id": "35cdcb47d0c23f77c17d802e04c5132b",
+        "order_id": "13dabdb9dbb49bde13dd90285c2640eb",
+        "distancia": 0.36438602209091187,
+        "trecho": "Comentário: Houve um pequeno problema de entrega, mas ACHO QUE O PROBLEMA FOI DO CORREIO QUE ESTÁ EM GREVE PARCIAL"
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"c82e20ab06764504caa5a5754ba2050a\",\"b8ea12ebe7c677d3726c4740450c2682\"]",
+        "texto": "Comentário: muitos problemas na entrega do mesmo. não fui avisada sobre a entrega.",
+        "nota": 1,
+        "data": "2018-05-17 00:00:00",
+        "review_id": "c82e20ab06764504caa5a5754ba2050a",
+        "order_id": "b8ea12ebe7c677d3726c4740450c2682",
+        "distancia": 0.3794441819190979,
+        "trecho": "Comentário: muitos problemas na entrega do mesmo. não fui avisada sobre a entrega."
+      }
+    ],
+    "candidatos_recuperados": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"18fd8314a11f9a00cb85e8ef9aa70042\",\"7a363dd1eb003c19a36e4eba73e3105d\"]",
+        "texto": "Comentário: O status da entrega é ruim, sempre desatualizado, mostra que teve erro na entrega, mudam o prazo e no fim entregam antes.",
+        "nota": 4,
+        "data": "2017-12-21 00:00:00",
+        "review_id": "18fd8314a11f9a00cb85e8ef9aa70042",
+        "order_id": "7a363dd1eb003c19a36e4eba73e3105d",
+        "distancia": 0.3346523642539978
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"256e445ddba830565ad576854f406761\",\"dd6ee4d96f0f3cf1432c3b82818e0387\"]",
+        "texto": "Comentário: sem comentarios, muito confusa a informação sobre entrega",
+        "nota": 1,
+        "data": "2017-12-17 00:00:00",
+        "review_id": "256e445ddba830565ad576854f406761",
+        "order_id": "dd6ee4d96f0f3cf1432c3b82818e0387",
+        "distancia": 0.35564833879470825
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"57d720a4164ce4e420c120398045fbd0\",\"18d5cd9804d2eb8424721a25397b7ae4\"]",
+        "texto": "Comentário: Foi falado que houve problemas na entrega mas não falava o que e nem como seria resolvido. Me causou uma preocupação e frustração desnecessária já que o mesmo chegou antes do prazo estipulado.",
+        "nota": 3,
+        "data": "2017-12-09 00:00:00",
+        "review_id": "57d720a4164ce4e420c120398045fbd0",
+        "order_id": "18d5cd9804d2eb8424721a25397b7ae4",
+        "distancia": 0.35995596647262573
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"35cdcb47d0c23f77c17d802e04c5132b\",\"13dabdb9dbb49bde13dd90285c2640eb\"]",
+        "texto": "Comentário: Houve um pequeno problema de entrega, mas ACHO QUE O PROBLEMA FOI DO CORREIO QUE ESTÁ EM GREVE PARCIAL",
+        "nota": 4,
+        "data": "2018-03-15 00:00:00",
+        "review_id": "35cdcb47d0c23f77c17d802e04c5132b",
+        "order_id": "13dabdb9dbb49bde13dd90285c2640eb",
+        "distancia": 0.36438602209091187
+      },
+      {
+        "fonte": "E5",
+        "documento_id": "[\"ad0bd5e96d27a747be07e136ab2d18c0\",\"c0b4ecd5c557f1672e88baf19be9d037\"]",
+        "texto": "Comentário: Estou avaliando o fator entrega de mercadoria, ainda não instalei o produto para ter uma avaliação completa",
+        "nota": 4,
+        "data": "2017-05-11 00:00:00",
+        "review_id": "ad0bd5e96d27a747be07e136ab2d18c0",
+        "order_id": "c0b4ecd5c557f1672e88baf19be9d037",
+        "distancia": 0.36512982845306396
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"c82e20ab06764504caa5a5754ba2050a\",\"b8ea12ebe7c677d3726c4740450c2682\"]",
+        "texto": "Comentário: muitos problemas na entrega do mesmo. não fui avisada sobre a entrega.",
+        "nota": 1,
+        "data": "2018-05-17 00:00:00",
+        "review_id": "c82e20ab06764504caa5a5754ba2050a",
+        "order_id": "b8ea12ebe7c677d3726c4740450c2682",
+        "distancia": 0.3794441819190979
+      },
+      {
+        "fonte": "E7",
+        "documento_id": "[\"c8afc3f7e4544e7fdaa5f4eb8c77c201\",\"d128b5634e1faad98f4ef5ac2f7e2e97\"]",
+        "texto": "Título: Avaliação da entrega\nComentário: Achei o frete muito caro, mas a entrega foi eficiente",
+        "nota": 4,
+        "data": "2018-08-29 00:00:00",
+        "review_id": "c8afc3f7e4544e7fdaa5f4eb8c77c201",
+        "order_id": "d128b5634e1faad98f4ef5ac2f7e2e97",
+        "distancia": 0.3847249746322632
+      },
+      {
+        "fonte": "E8",
+        "documento_id": "[\"85a078cfbec8194d1bb8d0dad5f98876\",\"1da00355018ed3e0fdd548cf3ddada99\"]",
+        "texto": "Comentário: Confiabilidade com informações corretas e prestezas nas entregas.",
+        "nota": 5,
+        "data": "2017-12-28 00:00:00",
+        "review_id": "85a078cfbec8194d1bb8d0dad5f98876",
+        "order_id": "1da00355018ed3e0fdd548cf3ddada99",
+        "distancia": 0.38842713832855225
+      },
+      {
+        "fonte": "E9",
+        "documento_id": "[\"18b61a9cf3a82600b8f8ca57087d8a0f\",\"c9d0741a7a1372f85dc44e9b73835240\"]",
+        "texto": "Comentário: estudem alternativas para distribuição que não seja os Correios. demorou DEMAIS pra ser entregue",
+        "nota": 3,
+        "data": "2018-05-19 00:00:00",
+        "review_id": "18b61a9cf3a82600b8f8ca57087d8a0f",
+        "order_id": "c9d0741a7a1372f85dc44e9b73835240",
+        "distancia": 0.3941255807876587
+      },
+      {
+        "fonte": "E10",
+        "documento_id": "[\"949eca021ed60d00a2d2bda3cc686d4d\",\"d5d78aa1e1666a81b03bd8791c865fd3\"]",
+        "texto": "Comentário: muitos desencontros nas entregas de produtos",
+        "nota": 1,
+        "data": "2017-06-07 00:00:00",
+        "review_id": "949eca021ed60d00a2d2bda3cc686d4d",
+        "order_id": "d5d78aa1e1666a81b03bd8791c865fd3",
+        "distancia": 0.39743107557296753
+      }
+    ],
+    "evidencias_selecionadas": [
+      {
+        "fonte": "E1",
+        "documento_id": "[\"18fd8314a11f9a00cb85e8ef9aa70042\",\"7a363dd1eb003c19a36e4eba73e3105d\"]",
+        "texto": "Comentário: O status da entrega é ruim, sempre desatualizado, mostra que teve erro na entrega, mudam o prazo e no fim entregam antes.",
+        "nota": 4,
+        "data": "2017-12-21 00:00:00",
+        "review_id": "18fd8314a11f9a00cb85e8ef9aa70042",
+        "order_id": "7a363dd1eb003c19a36e4eba73e3105d",
+        "distancia": 0.3346523642539978,
+        "trecho": "Comentário: O status da entrega é ruim, sempre desatualizado, mostra que teve erro na entrega, mudam o prazo e no fim entregam antes."
+      },
+      {
+        "fonte": "E2",
+        "documento_id": "[\"256e445ddba830565ad576854f406761\",\"dd6ee4d96f0f3cf1432c3b82818e0387\"]",
+        "texto": "Comentário: sem comentarios, muito confusa a informação sobre entrega",
+        "nota": 1,
+        "data": "2017-12-17 00:00:00",
+        "review_id": "256e445ddba830565ad576854f406761",
+        "order_id": "dd6ee4d96f0f3cf1432c3b82818e0387",
+        "distancia": 0.35564833879470825,
+        "trecho": "Comentário: sem comentarios, muito confusa a informação sobre entrega"
+      },
+      {
+        "fonte": "E3",
+        "documento_id": "[\"57d720a4164ce4e420c120398045fbd0\",\"18d5cd9804d2eb8424721a25397b7ae4\"]",
+        "texto": "Comentário: Foi falado que houve problemas na entrega mas não falava o que e nem como seria resolvido. Me causou uma preocupação e frustração desnecessária já que o mesmo chegou antes do prazo estipulado.",
+        "nota": 3,
+        "data": "2017-12-09 00:00:00",
+        "review_id": "57d720a4164ce4e420c120398045fbd0",
+        "order_id": "18d5cd9804d2eb8424721a25397b7ae4",
+        "distancia": 0.35995596647262573,
+        "trecho": "Comentário: Foi falado que houve problemas na entrega mas não falava o que e nem como seria resolvido. Me causou uma preocupação e frustração desnecessária já que o mesmo chegou antes do prazo estipulado."
+      },
+      {
+        "fonte": "E4",
+        "documento_id": "[\"35cdcb47d0c23f77c17d802e04c5132b\",\"13dabdb9dbb49bde13dd90285c2640eb\"]",
+        "texto": "Comentário: Houve um pequeno problema de entrega, mas ACHO QUE O PROBLEMA FOI DO CORREIO QUE ESTÁ EM GREVE PARCIAL",
+        "nota": 4,
+        "data": "2018-03-15 00:00:00",
+        "review_id": "35cdcb47d0c23f77c17d802e04c5132b",
+        "order_id": "13dabdb9dbb49bde13dd90285c2640eb",
+        "distancia": 0.36438602209091187,
+        "trecho": "Comentário: Houve um pequeno problema de entrega, mas ACHO QUE O PROBLEMA FOI DO CORREIO QUE ESTÁ EM GREVE PARCIAL"
+      },
+      {
+        "fonte": "E6",
+        "documento_id": "[\"c82e20ab06764504caa5a5754ba2050a\",\"b8ea12ebe7c677d3726c4740450c2682\"]",
+        "texto": "Comentário: muitos problemas na entrega do mesmo. não fui avisada sobre a entrega.",
+        "nota": 1,
+        "data": "2018-05-17 00:00:00",
+        "review_id": "c82e20ab06764504caa5a5754ba2050a",
+        "order_id": "b8ea12ebe7c677d3726c4740450c2682",
+        "distancia": 0.3794441819190979,
+        "trecho": "Comentário: muitos problemas na entrega do mesmo. não fui avisada sobre a entrega."
+      }
+    ],
+    "chamadas_llm": [
+      {
+        "etapa": "selecao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"suficiente\", \"evidencias\": [{\"fonte\": \"E1\"}, {\"fonte\": \"E2\"}, {\"fonte\": \"E3\"}, {\"fonte\": \"E4\"}, {\"fonte\": \"E6\"}], \"justificativa\": \"Os comentários dessas fontes descrevem problemas com a entrega, como atrasos, falta de informação e entrega errada.\"}",
+        "uso": {
+          "completion_tokens": 91,
+          "prompt_tokens": 2911,
+          "total_tokens": 3002,
+          "prompt_tokens_details": {
+            "cached_tokens": 1120
+          },
+          "cache_read_input_tokens": 1120
+        },
+        "latencia_s": 2.040768575000129,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      },
+      {
+        "etapa": "geracao",
+        "tentativa": 1,
+        "saida_modelo": "{\"status\": \"respondido\", \"afirmacoes\": [{\"texto\": \"Um relato sustenta que o status da entrega é ruim e sempre desatualizado.\", \"fontes\": [\"E1\"]}, {\"texto\": \"Um relato sustenta que a informação sobre entrega é confusa.\", \"fontes\": [\"E2\"]}, {\"texto\": \"Um relato sustenta que houve problemas na entrega, mas não foram esclarecidos.\", \"fontes\": [\"E3\"]}, {\"texto\": \"Um relato sustenta que houve um pequeno problema de entrega, possivelmente causado pelo correio.\", \"fontes\": [\"E4\"]}, {\"texto\": \"Um relato sustenta que houve muitos problemas na entrega e não houve aviso sobre a entrega.\", \"fontes\": [\"E6\"]}]}",
+        "uso": {
+          "completion_tokens": 181,
+          "prompt_tokens": 1421,
+          "total_tokens": 1602,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "cache_read_input_tokens": 0
+        },
+        "latencia_s": 2.736088156999813,
+        "modelo_retornado": "meta-llama-3.3-70b-instruct-121024",
+        "served_model_name": "databricks-meta-llama-3-3-70b-instruct"
+      }
+    ],
+    "diagnosticos_validacao": [],
+    "origem_trechos": "texto_integral_recuperado_pelo_python",
+    "motivo": "formato_fontes_e_trechos_validados",
+    "limitacoes": [
+      "A resposta se limita aos relatos recuperados; não representa a frequência na base inteira.",
+      "Fontes e trechos são verificados automaticamente; a sustentação semântica requer avaliação."
+    ],
+    "latencia_total_s": 4.777460379000331
+  },
+  "erro_tecnico": null,
+  "latencia_externa_s": 4.8455338809999375
+}
