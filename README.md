@@ -201,4 +201,87 @@ Os três registros do Notebook 04, em reports/notebook04/, são:
 | Q17 | consulta_e3092364a9194db28bc756387a619598.json |
 | Q21 | consulta_013e652c40c54d08bf6c83d91dfd5fa6.json |
 
+## 5. Diretório do Projeto
+
+tech-challenge-fase4/
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── notebooks/
+│   ├── 00_configuracao_ambiente.ipynb
+│   ├── 01_exploracao_dados.ipynb
+│   ├── 02_preparacao_base_conhecimento.ipynb
+│   ├── 03_embeddings_busca_vetorial.ipynb
+│   ├── 04_integracao_llm_rag_databricks.ipynb
+│   └── 05_avaliacao_rag_databricks.ipynb
+│
+├── src/
+│   ├── busca_vetorial_databricks.py
+│   ├── rag_pipeline_databricks.py
+│   ├── __init__.py
+│   ├── artefatos.py
+│   ├── busca_vetorial.py
+│   ├── config.py
+│   │
+│   └── __pycache__/
+│       └── rag_pipeline_databricks.cpython-312.pyc
+│
+├── config/
+│   └── config.json
+│
+├── docs/
+│   ├── mapa_progresso_olist.png
+│   ├── olist_data_schema.png
+│   ├── pipeline_rag_olist.png
+│   ├── roadmap_projeto.png
+│   └── TechChallenge04_OlistRAG_Passos_Realizados_Databricks.docx
+│
+├── data/
+│   ├── processed/
+│   │   ├── olist_reviews_documentos_rag.jsonl
+│   │   ├── olist_reviews_embeddings.part1.rar
+│   │   ├── olist_reviews_embeddings.part2.rar
+│   │   └── olist_reviews_embeddings.part3.rar
+│   │
+│   └── raw/
+│       ├── olist_customers_dataset.csv
+│       ├── olist_geolocation_dataset.zip
+│       ├── olist_order_items_dataset.csv
+│       ├── olist_order_payments_dataset.csv
+│       ├── olist_order_reviews_dataset.csv
+│       ├── olist_order_dataset.csv
+│       ├── olist_products_dataset.csv
+│       ├── olist_sellers_dataset.csv
+│       └── product_category_name_translation.csv
+│
+└── reports/
+    ├── 00_ambiente.json
+    ├── 00_inventario_raw.json
+    ├── 01_exploracao.json
+    ├── 02_preparacao.json
+    │
+    └── avaliacao/
+        ├── perguntas_avaliacao_v1.csv
+        │
+        ├── demonstracao/
+        │   ├── Q01.json
+        │   ├── Q17.json
+        │   └── Q21.json
+        │
+        └── 20261107T203256Z_3de570ec/
+            ├── manifesto_execucao.json
+            ├── revisao_recuperacao.csv
+            ├── revisao_afirmacoes.csv
+            ├── revisao_respostas.csv
+            ├── metricas.json
+            ├── comparacao_status.csv
+            ├── precision_por_pergunta.csv
+            ├── auditoria_citacoes.csv
+            ├── resumo_execucoes.csv
+            ├── resumo_avaliacao.md
+            │
+            └── resultados/
+                └── [JSONs individuais das 24 perguntas]
+
 Feche a demonstração no resumo_avaliacao.md da rodada do Notebook 05. Mostre os  **24 status corretos** , as  **oito abstenções corretas**  e a diferença entre resposta sustentada e resposta completa, usando a Q10 como exemplo.
